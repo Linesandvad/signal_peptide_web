@@ -1,5 +1,0 @@
-33392	Endopterygota
-1489388	Euteleosteomorpha
-33342	Paraneoptera
-186634	Otomorpha
-33341	Polyneoptera

@@ -1,8 +1,0 @@
-2752540	Talaromyces sect. Trachyspermi
-2752537	Talaromyces sect. Talaromyces
-1824901	Cuscuta sect. Cleistogrammica
-2752542	Talaromyces sect. Islandici
-58247	Laticorn
-2100772	Panicum sect. Panicum
-2499237	Alternaria sect. Alternaria
-1873447	Daucus sect. Daucus
