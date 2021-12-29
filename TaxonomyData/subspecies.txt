@@ -1,0 +1,44 @@
+73239	Plasmodium yoelii yoelii
+333673	Hirundo rustica rustica
+46245	Drosophila pseudoobscura pseudoobscura
+299123	Lonchura striata domestica
+43346	Bison bison bison
+1480154	Marchantia polymorpha subsp. ruderalis
+85056	Trypanosoma cruzi marinkellei
+121224	Pediculus humanus corporis
+94128	Apis cerana cerana
+9615	Canis lupus familiaris
+9708	Odobenus rosmarus divergens
+310752	Balaenoptera acutorostrata scammoni
+223781	Aquila chrysaetos chrysaetos
+1706337	Neophocaena asiaeorientalis asiaeorientalis
+9595	Gorilla gorilla gorilla
+77932	Diceros bicornis minor
+2587831	Terrapene carolina triunguis
+200361	Aegilops tauschii subsp. strangulata
+391180	Enhydra lutris kenyoni
+864142	Plasmodium ovale wallikeri
+4567	Triticum turgidum subsp. durum
+278856	Danaus plexippus plexippus
+81972	Arabidopsis lyrata subsp. lyrata
+5702	Trypanosoma brucei brucei
+50390	Diabrotica virgifera virgifera
+39432	Saimiri boliviensis boliviensis
+51351	Brassica rapa subsp. pekinensis
+309979	Cynara cardunculus subsp. cardunculus
+336983	Colobus angolensis palliatus
+214687	Musa acuminata subsp. malaccensis
+948595	Vavraia culicis subsp. floridensis
+3555	Beta vulgaris subsp. vulgaris
+8840	Anas platyrhynchos platyrhynchos
+217619	Cucumis melo subsp. agrestis
+46360	Cervus elaphus hippelaphus
+116960	Ursus arctos horribilis
+230844	Peromyscus maniculatus bairdii
+79200	Daucus carota subsp. sativus
+864141	Plasmodium ovale curtisi
+112509	Hordeum vulgare subsp. vulgare
+372326	Patagioenas fasciata monilis
+9880	Odocoileus virginianus texanus
+127582	Trichechus manatus latirostris
+9669	Mustela putorius furo

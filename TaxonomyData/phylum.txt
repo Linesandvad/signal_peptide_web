@@ -1,0 +1,12 @@
+28889	Crenarchaeota
+28890	Euryarchaeota
+192989	Nanoarchaeota
+2283796	Candidatus Thermoplasmatota
+928852	Candidatus Bathyarchaeota
+1462422	Candidatus Parvarchaeota
+651137	Thaumarchaeota
+1801631	Candidatus Micrarchaeota
+1655434	Candidatus Lokiarchaeota
+1462430	Candidatus Nanohaloarchaeota
+51967	Candidatus Korarchaeota
+2582935	Candidatus Altiarchaeota

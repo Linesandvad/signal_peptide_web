@@ -1,0 +1,330 @@
+2269	Thermofilum pendens
+311400	Thermococcus kodakarensis
+2320	Methanopyrus kandleri
+13773	Pyrobaculum aerophilum
+2287	Saccharolobus solfataricus
+160232	Nanoarchaeum equitans
+2214	Methanosarcina acetivorans
+69525	Natrinema pellirubrum
+2317	Methanosphaera stadtmanae
+2005259	Sulfolobales archaeon SCGC AB-777_J03
+47311	Methanobrevibacter cuticularis
+2005261	Sulfolobales archaeon SCGC AB-777_K20
+97393	Ferroplasma acidarmanus
+2743089	Halobaculum salinum
+1698281	candidate division MSBL1 archaeon SCGC-AAA382C18
+1945577	Methanosphaera sp. rholeuAM270
+29291	Methanococcoides burtonii
+2026739	Euryarchaeota archaeon
+1789762	Methanosphaera sp. BMS
+83986	Methanoculleus bourgensis
+1238426	Haloquadratum sp. J07HQX50
+62319	Halococcus saccharolyticus
+1698270	candidate division MSBL1 archaeon SCGC-AAA259M10
+1111107	Metallosphaera yellowstonensis
+43687	Metallosphaera sedula
+2257	Natronomonas pharaonis
+1932700	archaeon D22
+2026714	Candidatus Bathyarchaeota archaeon
+662759	Candidatus Parvarchaeum acidiphilum
+253107	Natronolimnohabitans innermongolicus
+1698262	candidate division MSBL1 archaeon SCGC-AAA259D18
+1070774	Halonotius sp. J07HN4
+1054217	Thermoplasmatales archaeon BRNA1
+43928	Halobaculum gomorrense
+190976	Methanobrevibacter woesei
+2234134	Haloglomus irregulare
+1034015	Nitrososphaera viennensis
+355548	Halobacterium jilantaiense
+2224	Methanothrix thermoacetophila
+1920749	Candidatus Mancarchaeum acidiphilum
+293091	Haloquadratum walsbyi
+1679489	Haladaptatus sp. R4
+1160895	Candidatus Acidianus copahuensis
+1294122	Candidatus Nanobsidianus stetteri
+2315	Methanoplanus limicola
+1698261	candidate division MSBL1 archaeon SCGC-AAA259D14
+311458	Candidatus Caldarchaeum subterraneum
+2035442	archaeon HR06
+2058097	Candidatus Nitrosocaldus cavascurensis
+756883	halophilic archaeon DL31
+1267564	Halopenitus malekzadehii
+1406512	Candidatus Methanomassiliicoccus intestinalis
+1699371	Haloterrigena sp. YPL8
+497727	Candidatus Nitrososphaera gargensis
+2668072	Halorubrum sp. CBA1125
+1499975	Candidatus Nitrosotalea sinensis
+379547	Aciduliprofundum boonei
+39669	Methanosalsum zhilinae
+2189	Methanotorris igneus
+39152	Methanococcus maripaludis
+416273	Natronomonas moolapensis
+56636	Aeropyrum pernix
+1412873	uncultured archaeon A07HN63
+58290	Archaeoglobus veneficus
+411361	Halogeometricum pallidum
+63128	Natronorubrum tibetense
+2163009	Candidatus Poseidoniales archaeon
+101192	Methanomethylovorans hollandica
+1987492	Sulfolobus sp. SCGC AB-777_L09
+1927129	Methanonatronarchaeum thermophilum
+1483400	Halorubrum sp. E3
+1379702	Methanobacterium sp. MB1
+64602	Natrialba asiatica
+42879	Methanococcus aeolicus
+1853690	Halolamina sp. CBA1230
+2322	Methanohalobium evestigatum
+996166	Haloarchaeobius iranensis
+1527301	Nitrosopumilus sp. PRT-SC01
+1987490	Sulfolobus sp. SCGC AB-777_G05
+1987491	Sulfolobus sp. SCGC AB-777_G06
+2035438	archaeon HR02
+668570	Methanospirillum lacunae
+2176	Methanohalophilus mahii
+1198115	Thaumarchaeota archaeon SCGC AB-539-E09
+1698282	candidate division MSBL1 archaeon SCGC-AAA382F02
+1769296	Candidatus Methanomethylophilus sp. 1R26
+1698272	candidate division MSBL1 archaeon SCGC-AAA261C02
+2217661	Natronomonas salsuginis
+1242866	Thermoplasmatales archaeon SCGC AB-540-F20
+2487041	Natronomonas sp. CBA1133
+553468	Haladaptatus litoreus
+2055893	Halalkaliarchaeum desulfuricum
+2180	Methanothermus fervidus
+1007084	Candidatus Nitrosarchaeum limnium
+63740	Halorubrum vacuolatum
+2006182	Methanobrevibacter sp. NOE
+334771	Ignisphaera aggregans
+49547	Methanobrevibacter curvatus
+1550565	Methanoculleus taiwanensis
+1170320	Candidatus Nitrosopumilus salaria
+588898	Haloterrigena daqingensis
+1906665	archaeon
+2419781	Salinadaptatus halalkaliphilus
+2035441	archaeon HR05
+113653	Geoglobus ahangari
+54252	Pyrolobus fumarii
+1698277	candidate division MSBL1 archaeon SCGC-AAA261O19
+388259	Natronorubrum sulfidifaciens
+229731	Halobiforma lacisalsi
+2716717	Haloarcula sp. JP-L23
+83816	Methanobrevibacter ruminantium
+1987489	Acidilobus sp. SCGC AC-742_M05
+1577791	Candidatus Methanoplasma termitum
+2594042	Candidatus Prometheoarchaeum syntrophicum
+1457250	Halapricum salinum
+662761	Candidatus Parvarchaeum acidophilus
+1698284	candidate division MSBL1 archaeon SCGC-AAA382M17
+62320	Haloterrigena turkmenica
+2221	Methanolobus tindarius
+1291540	Candidatus Methanomethylophilus alvus
+1932360	Halorientalis sp. IM1011
+2202732	Nitrosopumilaceae archaeon
+1698267	candidate division MSBL1 archaeon SCGC-AAA259I09
+1839936	Candidatus Syntrophoarchaeum butanivorans
+1698285	candidate division MSBL1 archaeon SCGC-AAA382N08
+1407055	Candidatus Nitrosotenuis uzonensis
+680118	Methanothermobacter tenebrarum
+29288	Natronococcus occultus
+370323	Haloterrigena limicola
+877455	Methanobacterium lacus
+1242690	Thermoplasmatales archaeon SCGC AB-539-C06
+387343	Halopiger xanaduensis
+1502289	Marine Group I thaumarchaeote SCGC AAA799-B03
+558529	Natronoarchaeum philippinense
+1679096	Haloarculaceae archaeon HArcel1
+1073996	Halohasta litchfieldiae
+84156	Archaeoglobus profundus
+2309	Pyrodictium occultum
+118062	Methanobacterium congolense
+2238	Haloarcula marismortui
+683846	Fervidicoccus fontis
+1202768	Halopiger salifodinae
+1698259	candidate division MSBL1 archaeon SCGC-AAA259A05
+111955	Sulfurisphaera tokodaii
+2690782	Halorubrum sp. JWXQ-INN 858
+889948	Candidatus Nanosalina sp. J07AB43
+1465461	Thaumarchaeota archaeon SCGC AC-337_F14
+2250	Halococcus morrhuae
+1698265	candidate division MSBL1 archaeon SCGC-AAA259E22
+1698280	candidate division MSBL1 archaeon SCGC-AAA382A20
+660521	Halogranum gelatinilyticum
+1698269	candidate division MSBL1 archaeon SCGC-AAA259J03
+2285	Sulfolobus acidocaldarius
+200415	Caldisphaera lagunensis
+1333523	Salinarchaeum sp. Harcht-Bsk1
+2188	Methanococcus voltae
+2250255	Methanosarcinales archaeon
+1085028	halophilic archaeon J07HX64
+301375	Methanosaeta harundinacea
+1380432	Halorhabdus sp. CBA1104
+1383851	Halorubrum halodurans
+2056317	ANME-2 cluster archaeon
+1961136	Thermoplasmatales archaeon B_DKE
+60847	Halogeometricum borinquense
+171164	Halosimplex carlsbadense
+1316941	Archaeoglobus sulfaticallidus
+882104	Methanoregula formicica
+1495067	Halostagnicola sp. A56
+29283	Halorubrum distributum
+2056316	Methanophagales archaeon
+1392998	Candidatus Methanoperedens nitroreducens
+699433	Halobellus limi
+1945579	Methanosphaera sp. rholeuAM74
+2692200	Halobacterium sp. PCN9
+2209	Methanosarcina mazei
+2743090	Halobaculum halophilum
+1604004	Halanaeroarchaeum sulfurireducens
+1698266	candidate division MSBL1 archaeon SCGC-AAA259I07
+570267	Methanocella paludicola
+2223	Methanothrix soehngenii
+1874277	Conexivisphaera calida
+660517	Halobellus clavatus
+1679091	Natrarchaeobius halalkaliphilus
+44930	Natronobacterium gregoryi
+2563600	Candidatus Nitrosocosmicus sp. SS
+1903181	Candidatus Methanohalarchaeum thermophilum
+1698286	candidate division MSBL1 archaeon SCGC-AAA385D11
+889962	Candidatus Nanosalinarum sp. J07AB56
+2283638	Halorussus sp. MSC15.2
+1495144	methanogenic archaeon ISO4-H5
+160233	Ignicoccus hospitalis
+1853682	Halarchaeum sp. CBA1220
+699431	Halolamina pelagica
+55758	Methanobrevibacter filiformis
+1698276	candidate division MSBL1 archaeon SCGC-AAA261G05
+332168	Halococcus hamelinensis
+1175445	Methanocella arvoryzae
+751944	Halobacterium sp. DL1
+1798806	Candidatus Nitrosocosmicus franklandus
+2565781	Candidatus Nanohalobium constans
+755307	Salinigranum rubrum
+253108	Natronolimnobius baerhuensis
+2692199	Halovenus sp. WSH3
+489138	Halarchaeum acidiphilum
+667137	Thermoplasmatales archaeon E-plasma
+1860100	Methanobacterium sp. A39
+1698264	candidate division MSBL1 archaeon SCGC-AAA259E19
+1698275	candidate division MSBL1 archaeon SCGC-AAA261F19
+413810	Halalkalicoccus jeotgali
+1325472	halophilic archaeon J07HX5
+2169593	Nitrososphaeraceae archaeon
+1698273	candidate division MSBL1 archaeon SCGC-AAA261D19
+1698263	candidate division MSBL1 archaeon SCGC-AAA259E17
+57705	Halomicrobium mukohataei
+2052832	Methanofollis fontis
+2216978	Halonotius sp. F13-13
+1698258	candidate division MSBL1 archaeon SCGC-AAA833K04
+1698283	candidate division MSBL1 archaeon SCGC-AAA382K21
+1085029	halophilic archaeon J07HB67
+671145	Halomarina oriensis
+2026768	Nitrosopumilales archaeon
+430914	Halorhabdus tiamatea
+13769	Natrialba magadii
+1698257	candidate division MSBL1 archaeon SCGC-AAA833F18
+2035439	archaeon HR03
+1698260	candidate division MSBL1 archaeon SCGC-AAA259B11
+39441	Methanobrevibacter arboriphilus
+2044521	Natrarchaeobaculum sulfurireducens
+1670455	Sulfodiicoccus acidiphilus
+667138	Thermoplasmatales archaeon I-plasma
+1173487	Halorubrum sp. AJ67
+2599399	Salarchaeum sp. JOR-1
+555874	Haloplanus vescus
+1987493	Vulcanisaeta sp. SCGC AB-777_J10
+1407499	Halobacterium hubeiense
+358766	Methanoregula boonei
+55802	Thermococcus barophilus
+2248	Halorubrum saccharovorum
+1365176	Thermofilum adornatum
+2668070	Natronomonas sp. CBA1123
+1072681	Candidatus Haloredivivus sp. G17
+1326980	Candidatus Aramenus sulfurataquae
+1294262	Sulfuracidifex tepidarius
+1502290	Marine Group I thaumarchaeote SCGC AAA799-D07
+767519	Halomicrobium zhouii
+1535962	Methanomassiliicoccaceae archaeon DOK
+1502295	Marine Group I thaumarchaeote SCGC AAA799-P11
+1679083	Natrarchaeobius chitinivorans
+2035267	Candidatus Nitrosocosmicus arcticus
+2200886	Sulfolobus sp. F3
+1383850	Halorubrum sp. Ib24
+1410606	Candidatus Nitrosopelagicus brevis
+54259	Ignicoccus islandicus
+29295	halophilic archaeon
+1412874	uncultured archaeon A07HR60
+1550241	Infirmifilum uzonense
+91560	Methanimicrococcus blatticola
+2218585	Halogeometricum sp. wsp3
+1945580	Methanosphaera sp. rholeuAM6
+1236180	Halopelagius longus
+2282131	Halobellus sp. Atlit-38R
+1419722	Halorubrum sp. SD626R
+2035437	archaeon HR01
+338192	Nitrosopumilus maritimus
+2246	Haloferax volcanii
+46770	Cenarchaeum symbiosum
+54248	Hyperthermus butylicus
+2203	Methanospirillum hungatei
+82076	Picrophilus torridus
+745377	Natrarchaeobaculum aegyptiacum
+1873524	Halodesulfurarchaeum formicicum
+1698287	candidate division MSBL1 archaeon SCGC-AAA385M02
+54261	Ferroglobus placidus
+1698271	candidate division MSBL1 archaeon SCGC-AAA259O05
+76887	Caldivirga maquilingensis
+475088	Methanosphaerula palustris
+2027460	Desulfurococcaceae archaeon AG1
+667135	Thermoplasmatales archaeon A-plasma
+83984	Methanocorpusculum labreanum
+1713725	Methanomassiliicoccales archaeon RumEn M2
+1514971	Haloprofundus marisrubri
+1698274	candidate division MSBL1 archaeon SCGC-AAA261F17
+54254	Thermosphaera aggregans
+94694	Desulfurococcus amylolyticus
+1531428	Candidatus Micrarchaeum sp. AZ1
+1713724	Methanomassiliicoccales archaeon RumEn M1
+2052935	Methanolobus halotolerans
+1698279	candidate division MSBL1 archaeon SCGC-AAA382A13
+1502294	Marine Group I thaumarchaeote SCGC AAA799-O18
+662757	Candidatus Micrarchaeum acidiphilum
+1412872	uncultured archaeon A07HB70
+1698288	candidate division MSBL1 archaeon SCGC-AAA385M11
+172049	Thermococcus sibiricus
+41673	Acidianus brierleyi
+890420	Halovenus aranensis
+1698278	candidate division MSBL1 archaeon SCGC-AAA382A03
+164451	Vulcanisaeta distributa
+242703	Acidilobus saccharovorans
+261391	Thermoplasmatales archaeon Gpl
+222984	Natrinema altunense
+2594798	Nanohaloarchaea archaeon
+224719	Methanobrevibacter sp. AbM4
+1698268	candidate division MSBL1 archaeon SCGC-AAA259I14
+1838285	Candidatus Syntrophoarchaeum caldarius
+2271	Thermoproteus tenax
+54120	Methanolacinia petrolearia
+387341	Halovivax ruber
+2668068	Halapricum sp. CBA1109
+2137776	archaeon SCG-AAA382B04
+2234	Archaeoglobus fulgidus
+2261	Pyrococcus furiosus
+498846	Candidatus Korarchaeum cryptofilum
+1431545	Candidatus Halobonum tyrrellensis
+312540	Acidiplasma cupricumulans
+1412871	uncultured archaeon A07HR67
+1987488	Acidilobus sp. SCGC AC-742_E15
+353800	Halostagnicola larsenii
+2190	Methanocaldococcus jannaschii
+145262	Methanothermobacter thermautotrophicus
+2242	Halobacterium salinarum
+2303	Thermoplasma acidophilum
+1200300	Thermogladius calderae
+2280	Staphylothermus marinus
+1238428	Halorubrum sp. J07HR59
+563177	Acidianus hospitalis
+130048	Halobiforma nitratireducens
+1227480	Halorubrum hochstenium
+1198116	Thermoplasmatales archaeon SCGC AB-539-N05
+2005260	Sulfolobales archaeon SCGC AB-777_K09
+1849261	Candidatus Altiarchaeales archaeon WOR_SM1_SCG

@@ -1,0 +1,40 @@
+32341	Sophophora
+418101	Plasmodium (Vinckeia)
+32281	Drosophila
+2720870	Aspergillus subgen. Nidulantes
+2720873	Aspergillus subgen. Cremei
+44543	Nyssorhynchus
+47570	Schizotrypanum
+38568	Leishmania
+2720871	Aspergillus subgen. Circumdati
+909696	Oligocephalus
+418107	Plasmodium (Laverania)
+418103	Plasmodium (Plasmodium)
+1462606	Glycine subgen. Soja
+47569	Nannomonas
+44534	Cellia
+2720872	Aspergillus subgen. Fumigati
+1824618	Cuscuta subgen. Grammica
+464929	Aphis
+32280	Dorsilopha
+44482	Anopheles
+35510	Equus
+2026555	Salvia subgen. Calosphace
+49274	Solanum subgen. Lycopersicon
+1965096	Callithrix
+262014	Xenopus
+47832	Bactrocera
+151542	Danaus
+2720783	Aspergillus subgen. Polypaecilum
+39700	Trypanozoon
+53541	Stegomyia
+8363	Silurana
+39701	Herpetosoma
+47571	Duttonella
+862507	Mus
+53527	Culex
+144703	Pyrobombus
+488720	Lasius
+2720874	Aspergillus subgen. Aspergillus
+37616	Viannia
+418104	Plasmodium (Haemamoeba)

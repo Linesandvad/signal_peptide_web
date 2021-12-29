@@ -1,0 +1,10 @@
+59765	Fusarium oxysporum f. sp. lycopersici
+56615	Puccinia graminis f. sp. tritici
+96318	Fusarium oxysporum f. sp. raphani
+61366	Fusarium oxysporum f. sp. cubense
+62690	Blumeria graminis f. sp. tritici
+100902	Fusarium oxysporum f. sp. conglutinans
+698441	Marssonina brunnea f. sp. 'multigermtubi'
+168172	Puccinia striiformis f. sp. tritici
+327505	Fusarium oxysporum f. sp. radicis-cucumerinum
+200324	Puccinia coronata f. sp. avenae

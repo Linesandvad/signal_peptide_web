@@ -1,0 +1,9 @@
+8825	Neognathae
+33340	Neoptera
+105387	Scolecida
+32443	Teleostei
+119203	Selachii
+1489100	Holostei
+33339	Palaeoptera
+6675	Cirripedia
+116569	Neocopepoda

@@ -1,0 +1,57 @@
+367479	unclassified Sulfolobales
+33867	Euryarchaeota incertae sedis
+2643926	unclassified Methanosphaera
+115531	unclassified Euryarchaeota
+2619747	unclassified Haloquadratum
+93506	unclassified Archaea
+1700837	unclassified Candidatus Bathyarchaeota
+2638413	unclassified Halonotius
+1919231	unclassified Thermoplasmatales
+2622732	unclassified Haladaptatus
+651142	Thaumarchaeota incertae sedis
+2678336	unclassified Haloferacales
+2631942	unclassified Haloterrigena
+2642239	unclassified Halorubrum
+48510	environmental samples
+2599254	unclassified Candidatus Poseidoniales
+2641160	unclassified Sulfolobus
+2627676	unclassified Methanobacterium
+2634974	unclassified Halolamina
+2619919	unclassified Nitrosopumilus
+1104572	unclassified Thaumarchaeota
+2648758	unclassified Candidatus Methanomethylophilus
+2634096	unclassified Natronomonas
+2638681	unclassified Methanobrevibacter
+2624677	unclassified Haloarcula
+2635519	unclassified Acidilobus
+2648975	unclassified Halorientalis
+886737	unclassified Nitrosopumilaceae
+588815	unclassified Methanosarcinales
+2144190	unclassified Haloarculaceae
+2619730	unclassified Candidatus Nanosalina
+2621923	unclassified Salinarchaeum
+38063	unclassified Halobacteriales
+2621901	unclassified Halorhabdus
+1968519	unclassified ANME-2 cluster
+2642439	unclassified Halostagnicola
+1046933	unclassified Methanophagales
+2668073	unclassified Halobacterium
+2625419	unclassified Candidatus Nitrosocosmicus
+2633118	unclassified Candidatus Nanosalinarum
+2643768	unclassified Halorussus
+1234666	unclassified Thermoplasmata
+2639520	unclassified Halarchaeum
+2627164	unclassified Halovenus
+1915612	unclassified Nitrososphaeraceae
+1915697	unclassified Nitrosopumilales
+2648404	unclassified Salarchaeum
+2631227	unclassified Vulcanisaeta
+1712382	unclassified Methanomassiliicoccaceae
+2628593	unclassified Halogeometricum
+2638438	unclassified Halobellus
+132567	unclassified Desulfurococcaceae
+1577790	unclassified Methanomassiliicoccales
+2621513	unclassified Candidatus Micrarchaeum
+1072680	unclassified Nanohaloarchaea
+2621562	unclassified Halapricum
+1849260	unclassified Candidatus Altiarchaeales

@@ -1,0 +1,31 @@
+2856582	Thermofilales
+2258	Thermococcales
+68985	Methanopyrales
+2266	Thermoproteales
+2281	Sulfolobales
+1890940	Nanoarchaeales
+94695	Methanosarcinales
+1644060	Natrialbales
+2158	Methanobacteriales
+2301	Thermoplasmatales
+1644055	Haloferacales
+2191	Methanomicrobiales
+2235	Halobacteriales
+1033996	Nitrososphaerales
+1968909	Candidatus Nitrosocaldales
+1235850	Methanomassiliicoccales
+2182	Methanococcales
+114380	Desulfurococcales
+2231	Archaeoglobales
+133814	Candidatus Poseidoniales
+2202723	Methanonatronarchaeales
+31932	Nitrosopumilales
+871006	Acidilobales
+685948	Fervidicoccales
+588814	Methanophagales
+570264	Methanocellales
+2798275	Conexivisphaerales
+2856053	Candidatus Nanohalobiales
+205948	Cenarchaeales
+2885734	Candidatus Micrarchaeales
+1803511	Candidatus Altiarchaeales
