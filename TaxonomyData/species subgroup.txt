@@ -1,0 +1,10 @@
+32357	obscura subgroup
+32307	nasuta subgroup
+32358	pseudoobscura subgroup
+32351	melanogaster subgroup
+32378	grimshawi subgroup
+65962	rhopaloa subgroup
+32367	willistoni subgroup
+32347	ananassae subgroup
+32324	mulleri subgroup
+32352	montium subgroup

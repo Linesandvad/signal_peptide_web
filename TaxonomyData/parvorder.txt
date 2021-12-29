@@ -1,0 +1,6 @@
+9479	Platyrrhini
+9526	Catarrhini
+9761	Mysticeti
+41197	Heteroneura
+9722	Odontoceti
+223472	Psoroptidia
