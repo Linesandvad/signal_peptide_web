@@ -8,13 +8,16 @@ import matplotlib.pyplot as plt
 import math
 import sys
 
+#Remember to by en main directory with all subdirectories
 
-###FUNCTIONS###
+#######################FUNCTIONS###############################
+
 
 def CountSPs(filename):
-        #Test it out for single organisms
+    """Count region lengths for the different SP types within a phylogenetic group"""
     os.chdir("./SP_regions_counts_phylogenetic_groups")
 
+    #Open file with SP region length counts
     try:
         infile = open(filename, "r")
     except IOError as err:
@@ -34,13 +37,17 @@ def CountSPs(filename):
     h_region_tatlipo = []
     n_region_pilin = []
 
+    #Control check; remove wrongly predicted signal peptides
     count_wrong = 0
     count_right = 0
 
+    #Go through all SPs, one at a time
     for line in infile:
         #Collect Sec SPI region lengths
         if line.split()[-1] == "SP":
+            #Filter wrongly predicted SPs from analyses
             if line.split()[3] != "0" and line.split()[2] != "0" and line.split()[1] != "0":
+                #Append region length observations to separate lists
                 n_region_sp.append(int(line.split()[1]))
                 h_region_sp.append(int(line.split()[2]))
                 c_region_sp.append(int(line.split()[3]))
@@ -51,8 +58,9 @@ def CountSPs(filename):
         
         #Collect Sec SPII region lengths
         elif line.split()[-1] == "LIPO":
-            #Marker for throwing away wrongly classified SPs
+            #Filter wrongly predicted SPs from analyses
             if line.split()[3] == "0" and line.split()[2] != "0" and line.split()[1] != "0":
+                #Append region length observations to separate lists
                 n_region_lipo.append(int(line.split()[1]))
                 h_region_lipo.append(int(line.split()[2]))
                 count_right += 1
@@ -62,7 +70,9 @@ def CountSPs(filename):
         
         #Collect Tat SPI region lengths
         elif line.split()[-1] == "TAT":
+            #Filter wrongly predicted SPs from analyses
             if line.split()[3] != "0" and line.split()[2] != "0" and line.split()[1] != "0":
+                #Append region length observations to separate lists
                 n_region_tat.append(int(line.split()[1]))
                 h_region_tat.append(int(line.split()[2]))
                 c_region_tat.append(int(line.split()[3]))
@@ -73,8 +83,9 @@ def CountSPs(filename):
         
         #Collect Tat SPII region lengths
         elif line.split()[-1] == "TATLIPO":
-            #Marker for throwing away wrongly classified SPs
+            #Filter wrongly predicted SPs from analyses
             if line.split()[3] == "0" and line.split()[2] != "0" and line.split()[1] != "0":
+                #Append region length observations to separate lists
                 n_region_tatlipo.append(int(line.split()[1]))
                 h_region_tatlipo.append(int(line.split()[2]))
                 count_right += 1
@@ -84,8 +95,9 @@ def CountSPs(filename):
 
         #Collect Sec SPIII region lengths
         elif line.split()[-1] == "PILIN":
-            #Marker for throwing away wrongly classified SPs
+            #Filter wrongly predicted SPs from analyses
             if line.split()[3] == "0" and line.split()[2] == "0" and line.split[1] != "0":
+                #Append region length observations to separate lists
                 n_region_pilin.append(int(line.split()[1]))
                 count_right += 1
             else:
@@ -95,10 +107,14 @@ def CountSPs(filename):
     infile.close()
     os.chdir("../")
 
+    #Return all region counts
     return n_region_sp, h_region_sp, c_region_sp, n_region_lipo, h_region_lipo, n_region_tat, h_region_tat, c_region_tat, n_region_tatlipo, h_region_tatlipo, n_region_pilin
 
 
 def MakeHistograms(filename, sp_type, group):
+    """Make histograms of SP region length distributions, given a phylogenetic group and SP type"""
+
+    #Collect data from function CountSPs
     n_region_sp = CountSPs(filename)[0]
     h_region_sp = CountSPs(filename)[1]
     c_region_sp = CountSPs(filename)[2]
@@ -112,16 +128,24 @@ def MakeHistograms(filename, sp_type, group):
     n_region_pilin = CountSPs(filename)[10]
     
     def __Histograms(region, sp_type, group, region_lengths, w, hist_col):
+        """Make histograms, display to streamlit"""
+        #Sort region lengths from shortest to longest
         region_lengths.sort()
+        #Only produce non-empty histograms
         if len(region_lengths) != 0: 
+            #Define number of bins (1 bin for each integer)
             n = math.ceil((region_lengths[-1] - region_lengths[0])/w)
             plt.style.use('ggplot')
             fig, ax = plt.subplots()
+            #Create histogram
             ax.hist(region_lengths, bins = n, density = True, color = hist_col)
+            #Create histogram title
             ax.set_title("Distribution of "+ sp_type + " " + region + "-region lengths \n for taxonomical group " + group)
-            #plt.show()
+            #Display histogram in streamlit app
             st.pyplot(fig)
 
+    #Display histograms of SP region lengths of the selected SP type
+    #Displaying histograms for Sec SPI
     if sp_type == "SP":
         if len(n_region_sp) == 0:
             st.write("No signal peptides of the chosen type were found for this group.")
@@ -131,6 +155,7 @@ def MakeHistograms(filename, sp_type, group):
             __Histograms("n", "sec SPI", group, n_region_sp, 1, "blue")
             __Histograms("h", "sec SPI", group, h_region_sp, 1, "green")
             __Histograms("c", "sec SPI", group, c_region_sp, 1, "red")
+    #Displaying histograms for Sec SPII
     elif sp_type == "LIPO":
         if len(n_region_lipo) == 0:
             st.write("No signal peptides of the chosen type were found for this group.")
@@ -139,6 +164,7 @@ def MakeHistograms(filename, sp_type, group):
         else:
             __Histograms("n", "sec SPII", group, n_region_lipo, 1, "blue")
             __Histograms("h", "sec SPII", group, h_region_lipo, 1, "green")
+    #Displaying histograms for Tat SPI
     elif sp_type == "TAT":
         if len(n_region_tat) == 0:
             st.write("No signal peptides of the chosen type were found for this group.")
@@ -148,14 +174,19 @@ def MakeHistograms(filename, sp_type, group):
             __Histograms("n", "tat SPI", group, n_region_tat, 1, "blue")
             __Histograms("h", "tat SPI", group, h_region_tat, 1, "green")
             __Histograms("c", "tat SPI", group, c_region_tat, 1, "red")
+    #Displaying histograms for Tat SPII
     elif sp_type == "TATLIPO":
         if len(n_region_tatlipo) == 0:
             st.write("No signal peptides of the chosen type were found for this group.")
         elif len(n_region_tatlipo) > 0 and len(n_region_tatlipo) <= 5:
             st.write("Only 5 or less signal peptides of the chosen type were found for this group.")
         else:
-            __Histograms("n", "tat SPII", group, n_region_tatlipo, 1, "blue")
-            __Histograms("h", "tat SPII", group, h_region_tatlipo, 1, "green")
+            try:
+                __Histograms("n", "tat SPII", group, n_region_tatlipo, 1, "blue")
+                __Histograms("h", "tat SPII", group, h_region_tatlipo, 1, "green")
+            except ValueError as err:
+                st.write("Did not manage to produce histogram.")
+    #Displaying histograms for Sec SPIII
     elif sp_type == "PILIN":
         if len(n_region_pilin) == 0:
             st.write("No signal peptides of the chosen type were found for this group.")
@@ -166,14 +197,17 @@ def MakeHistograms(filename, sp_type, group):
 
 
 def ExtractProteinCounts(filename):
+    """Extract the total number of proteins within a given phylogenetic group's proteomes"""
     os.chdir("./SP_types_counts_phylogenetic_groups")
 
+    #Open file
     try:
         infile = open(filename, "r")
     except IOError as err:
         print("Error: ", str(err))
         sys.exit(1)
 
+    #Protein count will always be on 2nd line on which it is the 2nd tab-separated element
     infile.readline()
     data_line = infile.readline()
     prot_count = data_line.split("\t")[1]
@@ -183,19 +217,21 @@ def ExtractProteinCounts(filename):
 
     return prot_count
 
-#print(ExtractProteinCounts("2157_SP_types_counts.tab"))
 
 def VisualizeSPCounts(tax_id):
+    """Displays the counts of each SP type for a given group to streamlit"""
+    #Save region counts
     n_region_sp = CountSPs(tax_id+"_SP_regions_counts.tab")[0]
     n_region_lipo = CountSPs(tax_id+"_SP_regions_counts.tab")[3]
     n_region_tat = CountSPs(tax_id+"_SP_regions_counts.tab")[5]
     n_region_tatlipo = CountSPs(tax_id+"_SP_regions_counts.tab")[8]
     n_region_pilin = CountSPs(tax_id+"_SP_regions_counts.tab")[10]
 
+    #prot_count = ExtractProteinCounts(tax_id+"_SP_types_counts.tab")
 
-    prot_count = ExtractProteinCounts(tax_id+"_SP_types_counts.tab")
-
+    #Setup in streamlit
     sp, lipo, tat, tatlipo, pilin = st.columns(5)
+    #Display count of each SP type to streamlit
     sp.metric("Sec SPI", len(n_region_sp))
     lipo.metric("Sec SPII", len(n_region_lipo))
     tat.metric("Tat SPI", len(n_region_tat))
@@ -203,46 +239,71 @@ def VisualizeSPCounts(tax_id):
     pilin.metric("Sec SPIII", len(n_region_pilin))
     
 def VisualizeSPFrequencies(tax_id):
+    """Displays the fractions of proteins tagged with each SP type for a given group to streamlit"""
+    #Save region counts
     n_region_sp = CountSPs(tax_id+"_SP_regions_counts.tab")[0]
     n_region_lipo = CountSPs(tax_id+"_SP_regions_counts.tab")[3]
     n_region_tat = CountSPs(tax_id+"_SP_regions_counts.tab")[5]
     n_region_tatlipo = CountSPs(tax_id+"_SP_regions_counts.tab")[8]
     n_region_pilin = CountSPs(tax_id+"_SP_regions_counts.tab")[10]
 
+    #Save total protein count for phylogenetic group
     prot_count = ExtractProteinCounts(tax_id+"_SP_types_counts.tab")
+    
+    try:
+        #Setup in streamlit
+        sp, lipo, tat, tatlipo, pilin = st.columns(5)
+        #Display fractions of each SP type to streamlit, round to 2 significant digits
+        sp.metric("Sec SPI", str(round((len(n_region_sp)/int(prot_count)*100), 2))+" %")
+        lipo.metric("Sec SPII", str(round((len(n_region_lipo)/int(prot_count)*100), 2))+" %")
+        tat.metric("Tat SPI", str(round((len(n_region_tat)/int(prot_count)*100), 2))+" %")
+        tatlipo.metric("Tat SPII", str(round((len(n_region_tatlipo)/int(prot_count)*100), 2))+" %")
+        pilin.metric("Sec SPIII", str(round((len(n_region_pilin)/int(prot_count)*100), 2))+" %")
+    except ZeroDivisionError as err:
+        st.write("0 proteins where detected.")
 
-    sp, lipo, tat, tatlipo, pilin = st.columns(5)
-    sp.metric("Sec SPI", str(round((len(n_region_sp)/int(prot_count)*100), 2))+" %")
-    lipo.metric("Sec SPII", str(round((len(n_region_lipo)/int(prot_count)*100), 2))+" %")
-    tat.metric("Tat SPI", str(round((len(n_region_tat)/int(prot_count)*100), 2))+" %")
-    tatlipo.metric("Tat SPII", str(round((len(n_region_tatlipo)/int(prot_count)*100), 2))+" %")
-    pilin.metric("Sec SPIII", str(round((len(n_region_pilin)/int(prot_count)*100), 2))+" %")
+    #Write explanation to calculations to streamlit
     with st.expander("Further information"):
      st.write("""
-        A total of""", prot_count, """ proteins were found within this phylogenetic group. 
-        The fractions are calculated as the count of signal peptides of a given type divided by 
-        the total number of proteins.
-        """)
+        The fractions of proteins tagged with a given signal peptide type
+        is calculated as the count of the respective signal peptide type, divided
+        by the total number of proteins in this phylogenetic group. The total number 
+        of proteins is calculated based on the number of proteins found in the proteomes 
+        belonging to this phylogenetic group. The total number of
+        proteins in this group is """, prot_count, """.""")
 
 
 def ExtractTaxonomyData():
     os.chdir("./TaxonomyData")
-    files = os.listdir()
+    #List of all taxonomic ranks
+    files_tax_ranks = os.listdir()
 
+    #Initialize 
     tax_data = dict()
     all_taxa = list()
+    all_tax_ids = list()
+
+    #Append empty object to initialize webpage without a selected group
     all_taxa.append("")
 
-    for i in range(len(files)):
-        infile = open(files[i], "r")
+    #Loop over each filename (one filename pr. taxonomic rank)
+    for i in range(len(files_tax_ranks)):
+        #Open file with information about taxonomical group at the given rank
+        infile = open(files_tax_ranks[i], "r")
+        #Each line in file corresponds to the tax ID and name of a taxonomical group on that rank
         for line in infile:
-            taxa = line.split("\t")
-            tax_data[taxa[0]] = [taxa[-1], files[i][:-3]]
+            taxa = line.split("\t")             #Split line into Tax ID and name
+            #Add information to dict about taxonomical groups
+            #This adds; tax ID as key, list of the tax group scientific name and tax rank as value
+            tax_data[taxa[0]] = [taxa[-1][:-1], files_tax_ranks[i][:-3]]
 
+            #append all tax IDs to list
             all_taxa.append(taxa[0])
+            all_tax_ids.append(taxa[0])
 
-            if files[i] != "no rank.txt":
-                all_taxa.append(taxa[-1])
+            #append all tax group names to list, except the ones without rank
+            if files_tax_ranks[i] != "no rank.txt":
+                all_taxa.append(taxa[-1][:-1])
 
         infile.close()
 
@@ -252,11 +313,24 @@ def ExtractTaxonomyData():
 
     return all_taxa, tax_data
 
+ExtractTaxonomyData()
+
+#def MakeTaxDict(tax_names):
+#    infile = open(tax_names, "r")
+#    count = 0
+#    for line in infile:
+#        count += 1
+#        print(line.split("\t"))
+#        if count > 20:
+#            break
+#
+#    infile.close()
+
+#MakeTaxDict("names.dmp")
+
 
 all_taxa = ExtractTaxonomyData()[0]
 tax_data = ExtractTaxonomyData()[1]
-
-
 
 
 
@@ -269,8 +343,6 @@ st.title("Signal peptides across the Tree of Life")
 option = st.selectbox(
      'Select the phylogenetic group you wish to view analyses for',
      all_taxa)
-#if st.button('Click here, if ' + option + 'is the group you wish to see analyses for'):
-#    execute = True
 with st.expander("Further information"):
      st.write("""
          In the search box above you can pick any given taxonomical group on any given rank, 
@@ -288,13 +360,12 @@ for key, value in tax_data.items():
         scient_name = value[0]
 
 if option != "":
-    st.header('You are viewing the analyses for the phylogenetic group ' + scient_name)
-    #st.subheader('(' + tax_id + ')')
+    st.header('You are viewing the analyses for the phylogenetic group ' + scient_name + ' ('+ tax_id + ')')
 
     st.subheader("Counts of each signal peptide type")
     VisualizeSPCounts(tax_id)
 
-    st.subheader("Frequency of proteins tagged with each type of signal peptide")
+    st.subheader("Fraction of proteins tagged with each signal peptide type")
     VisualizeSPFrequencies(tax_id)
 
     select_sp = st.radio("Please select the signal peptide type you wish to explore", ('Sec SPI', "Sec SPII", "Tat SPI", "Tat SPII", "Sec SPIII"))
