@@ -1,146 +1,146 @@
-2268	Thermofilum
-2263	Thermococcus
-2319	Methanopyrus
-2276	Pyrobaculum
-2100760	Saccharolobus
-193568	Nanoarchaeum
-2207	Methanosarcina
-88723	Natrinema
-2316	Methanosphaera
-2172	Methanobrevibacter
-74968	Ferroplasma
-43927	Halobaculum
-2225	Methanococcoides
-45989	Methanoculleus
-293431	Haloquadratum
-2249	Halococcus
-41980	Metallosphaera
-63743	Natronomonas
-662758	Candidatus Parvarchaeum
-2765403	Natronolimnohabitans
-869896	Halonotius
-2806252	Haloglomus
-497726	Nitrososphaera
-2239	Halobacterium
-2222	Methanothrix
-2490204	Candidatus Mancarchaeum
-367188	Haladaptatus
-12914	Acidianus
-1996557	Candidatus Nanobsidianus
-2314	Methanoplanus
-1048752	Candidatus Caldarchaeum
-498374	Candidatus Nitrosocaldus
-1209988	Halopenitus
-1080709	Methanomassiliicoccus
-121871	Haloterrigena
-56688	Halorubrum
-1078904	Candidatus Nitrosotalea
-379546	Aciduliprofundum
-196136	Methanosalsum
-196119	Methanotorris
-2184	Methanococcus
-56635	Aeropyrum
-2233	Archaeoglobus
-60846	Halogeometricum
-134813	Natronorubrum
-101191	Methanomethylovorans
-2284	Sulfolobus
-2022711	Methanonatronarchaeum
-2160	Methanobacterium
-63742	Natrialba
-1075397	Halolamina
-2321	Methanohalobium
-1269031	Haloarchaeobius
-338191	Nitrosopumilus
-2202	Methanospirillum
-2175	Methanohalophilus
-1291539	Candidatus Methanomethylophilus
-2678343	Halalkaliarchaeum
-2179	Methanothermus
-1007082	Nitrosarchaeum
-334767	Ignisphaera
-2798309	Salinadaptatus
-190818	Geoglobus
-54251	Pyrolobus
-203193	Halobiforma
-2237	Haloarcula
-105850	Acidilobus
-1607807	Candidatus Methanoplasma
-2732160	Candidatus Prometheoarchaeum
-1542963	Halapricum
-2220	Methanolobus
-1073987	Halorientalis
-1912923	Candidatus Syntrophoarchaeum
-1825023	Candidatus Nitrosotenuis
-145260	Methanothermobacter
-29287	Natronococcus
-387342	Halopiger
-926359	Natronoarchaeum
-1450140	Halohasta
-2308	Pyrodictium
-685950	Fervidicoccus
-69655	Sulfurisphaera
-1051666	Candidatus Nanosalina
-695982	Halogranum
-200414	Caldisphaera
-1269201	Salinarchaeum
-146825	Halorhabdus
-171163	Halosimplex
-395331	Methanoregula
-353799	Halostagnicola
-1392997	Candidatus Methanoperedens
-1073986	Halobellus
-1656823	Halanaeroarchaeum
-570266	Methanocella
-2613912	Conexivisphaera
-2501796	Natrarchaeobius
-2256	Natronobacterium
-1826864	Candidatus Nitrosocosmicus
-2022712	Candidatus Methanohalarchaeum
-1051667	Candidatus Nanosalinarum
-1070314	Halorussus
-54258	Ignicoccus
-744724	Halarchaeum
-2856051	Candidatus Nanohalobium
-1644057	Salinigranum
-253106	Natronolimnobius
-1377992	Halovenus
-332246	Halalkalicoccus
-203135	Halomicrobium
-81416	Methanofollis
-871740	Halomarina
-2765402	Natrarchaeobaculum
-2017961	Sulfodiicoccus
-1075398	Salarchaeum
-376170	Haloplanus
-164450	Vulcanisaeta
-2489210	Candidatus Aramenus
-2705406	Sulfuracidifex
-1593364	Candidatus Nitrosopelagicus
-2856573	Infirmifilum
-91559	Methanimicrococcus
-1008195	Halopelagius
-2251	Haloferax
-46769	Cenarchaeum
-54247	Hyperthermus
-46631	Picrophilus
-1980514	Halodesulfurarchaeum
-54260	Ferroglobus
-76886	Caldivirga
-475087	Methanosphaerula
-2192	Methanocorpusculum
-1911573	Haloprofundus
-54253	Thermosphaera
-2273	Desulfurococcus
-662756	Candidatus Micrarchaeum
-2270	Thermoproteus
-230355	Methanolacinia
-332951	Halovivax
-2260	Pyrococcus
-498845	Candidatus Korarchaeum
-1431544	Candidatus Halobonum
-507753	Acidiplasma
-196118	Methanocaldococcus
-2302	Thermoplasma
-477695	Thermogladius
-2279	Staphylothermus
+2268	Thermofilum	Thermofilum Zillig and Gierl 1983	Thermofilum Zillig and Gierl 1983 emend. Toshchakov et al. 2015	
+2263	Thermococcus	Thermococcus Zillig 1983	
+2319	Methanopyrus Kurr et al. 1992	Methanopyrus	
+2276	Pyrobaculum Huber et al. 1988 emend. Chan et al. 2013	Pyrobaculum	
+2100760	Saccharolobus Sakai and Kurosawa 2018	Saccharolobus	
+193568	Microarchaeum	"Nanoarchaeum" Huber et al. 2002	Nanoarchaeum	
+2207	Methanosarcina Kluyver and van Niel 1936 emend. Barker 1956 (Approved Lists 1980) emend. Ni et al. 1994	Methanosarcina Kluyver and van Niel 1936 emend. Barker 1956 (Approved Lists 1980), nom. cons., emend. Mah and Kuhn 1984	Methanosarcina	
+88723	Natrinema McGenity et al. 1998	Natrinema McGenity et al. 1998 emend. de la Haba et al. 2021	Natrinema McGenity et al. 1998 emend. Xin et al. 2000	Natrinema	
+2316	Methanosphaera Miller and Wolin 1985	Methanosphaera	
+2172	Methanobrevibacter Balch and Wolfe 1981	Methanobrevibacter	
+74968	Ferroplasma Golyshina et al. 2000 emend. Hawkes et al. 2008	Ferroplasma	
+43927	Halobaculum Oren et al. 1995	Halobaculum	
+2225	Methanococcoides	Methanococcoides Sowers and Ferry 1985 emend. L'Haridon et al. 2014	
+45989	Methaniculleus	Methanoculleus Maestrojun et al. 1990	Methanoculleus	
+293431	Haloquadratum Burns et al. 2007	Haloquadratum	
+2249	Halococcus Schoop 1935 (Approved Lists 1980) emend. Oren et al. 2009	Halococcus	
+41980	Metallosphaera Huber et al. 1989	Metallosphaera	
+63743	Natronomonas Kamekura et al. 1997 emend. Burns et al. 2010	Natronomonas Kamekura et al. 1997 emend. Kim et al. 2013	Natronomonas	
+662758	"Candidatus Parvarchaeum" Baker et al. 2010	Candidatus Parvarchaeum	Parvarchaeum	
+2765403	Natronolimnohabitans	Natronolimnohabitans Sorokin et al. 2020	
+869896	Halonotius Burns et al. 2010	Halonotius	
+2806252	"Haloglomus" Duran-Viseras et al. 2020	Haloglomus	
+497726	"Candidatus Nitrososphaera" Hatzenpichler et al. 2008	Candidatus Nitrososphaera	Nitrososphaera	Nitrososphaera Stieglmeier et al. 2014	"Nitrososphaera" Tourna et al. 2011	
+2239	"Flavobacterium (subgen. Halobacterium)" Elazari-Volcani 1940	Flavobacterium (subgen. Halobacterium)	"Haloarchaeum" DasSarma and DasSarma 2008	Haloarchaeum	"Halobacter" Anderson 1954	Halobacterium Elazari-Volcani 1957 (Approved Lists 1980) emend. Kamekura and Dyall-Smith 1995	Halobacterium Elazari-Volcani 1957 (Approved Lists 1980) emend. Oren et al. 2009	Halobacterium	Halobacter	
+2222	Methanisaeta	Methanosaeta Patel and Sprott 1990	Methanosaeta	Methanothrix Huser et al. 1983	Methanothrix	
+2490204	"Candidatus Mancarchaeum" Golyshina et al. 2017	Candidatus Mancarchaeum	
+367188	Haladaptatus Savage et al. 2007 emend. Cui et al. 2010	Haladaptatus Savage et al. 2007 emend. Roh et al. 2010	Haladaptatus	
+12914	Acidianus	Acidianus Segerer et al. 1986 emend. Plumb et al. 2007	Desulfurolobus	Desulfurolobus Zillig and Bock 1987	
+1996557	"Candidatus Nanobsidianus" Castelle et al. 2015	Candidatus Nanobsidianus	Nanobsidianus	
+2314	Methanoplanus	Methanoplanus Wildgruber et al. 1984 emend Goker et al. 2014	
+1048752	"Candidatus Caldarchaeum" corrig. Nunoura et al. 2011	Candidatus Caldarchaeum	"Candidatus Caldiarchaeum" (sic) Nunoura et al. 2011	
+498374	"Candidatus Nitrosocaldus" de la Torre et al. 2008	Candidatus Nitrosocaldus	Nitrosocaldus	
+1209988	Halopenitus Amoozegar et al. 2012	Halopenitus	
+1080709	Methanomassiliicoccus Dridi et al. 2012	Methanomassiliicoccus	
+121871	Haloterrigena	Haloterrigena Ventosa et al. 1999	Haloterrigena Ventosa et al. 1999 emend. de la Haba et al. 2021	Haloterrigena Ventosa et al. 1999 emend. Oren et al. 2009	
+56688	Halorubrobacterium Kamekura and Dyall-Smith 1996	Halorubrobacterium	Halorubrum McGenity and Grant 1996 emend. Oren et al. 2009	Halorubrum	
+1078904	"Candidatus Nitrosotalea" Lehtovirta et al. 2011	Candidatus Nitrosotalea	Nitrosotalea	
+379546	"Aciduliprofundum" Reysenbach et al. 2006	Aciduliprofundum	
+196136	Methanosalsum Boone and Baker 2002	Methanosalsum	
+196119	Methanotorris	Methanotorris Whitman 2002	
+2184	Methanococcus Kluyver and van Niel 1936 emend. Barker 1936 (Approved Lists 1980), nom. cons., emend. Mah and Kuhn 1984	Methanococcus	
+56635	Aeropyrum Sako et al. 1996	Aeropyrum	
+2233	Archaeoglobus	Archaeoglobus Stetter 1988	
+60846	Halogeometricum Montalvo-Rodriguez et al. 1998 emend. Cui et al. 2010	Halogeometricum	Halosarcina Savage et al. 2008 emend. Cui et al. 2010	Halosarcina	
+134813	Natronorubrum	Natronorubrum Xu et al. 1999	Natronorubrum Xu et al. 1999 emend. Cui et al. 2006	Natronorubrum Xu et al. 1999 emend. de la Haba et al. 2021	Natronorubrum Xu et al. 1999 emend. Oren et al. 2009	
+101191	Methanomethylovorans Lomans et al. 2004	Methanomethylovorans	
+2284	Sulfolobus Brock et al. 1972	Sulfolobus	
+2022711	Methanonatronarchaeum	Methanonatronarchaeum Sorokin et al. 2018	
+2160	Methanobacterium Kluyver and van Niel 1936	Methanobacterium	
+63742	Natrialba Kamekura and Dyall-Smith 1996 emend. Oren et al. 2009	Natrialba	
+1075397	Halolamina Cui et al. 2011	Halolamina	
+2321	Methanohalobium	Methanohalobium Zhilina and Zavarzin 1988	
+1269031	Haloarchaeobius Makhdoumi-Kakhki et al. 2012 emend. Yuan et al. 2015	Haloarchaeobius	
+338191	"Nitrosopumilus" Konneke et al. 2005	Nitrosopumilus Qin et al. 2017	Nitrosopumilus	
+2202	Methanospirillum Ferry et al. 1974 (Approved Lists 1980) emend. Iino et al. 2010	Methanospirillum Ferry et al. 1974 (Approved Lists 1980) emend. Zhou et al. 2014	Methanospirillum	
+2175	Methanihalophilus	Methanohalophilus Paterek and Smith 1988 emend. Katayama et al. 2014	Methanohalophilus	
+1291539	"Candidatus Methanomethylophilus" Borrel et al. 2012	Candidatus Methanomethylophilus	Methanomethylophilus	
+2678343	Halalkaliarchaeum	Halalkaliarchaeum Sorokin et al. 2019	
+2179	Methanothermus	Methanothermus Stetter et al. 1982	
+1007082	"Candidatus Nitrosoarchaeum" Blainey et al. 2011	Candidatus Nitrosoarchaeum	Nitrosarchaeum Jung et al. 2018	Nitrosarchaeum	Nitrososarchaeum	
+334767	Ignisphaera Niederberger et al. 2006	Ignisphaera	
+2798309	Salinadaptatus	Salinadaptatus Xue et al. 2021	
+190818	Geoglobus Kashefi et al. 2002	Geoglobus	
+54251	Pyrolobus Blochl et al. 1999	Pyrolobus	
+203193	Halobiforma Hezayen et al. 2002 emend. Oren et al. 2009	Halobiforma	
+2237	Haloarcula	Haloarcula Torreblanca et al. 1986 emend. Oren et al. 2009	
+105850	Acidilobus Prokofeva et al. 2000 emend. Prokofeva et al. 2009	Acidilobus	Acidolobus	
+1607807	"Candidatus Methanoplasma" Lang et al. 2015	Candidatus Methanoplasma	Methanoplasma	
+2732160	"Candidatus Prometheoarchaeum" Imachi et al. 2020	Candidatus Prometheoarchaeum	
+1542963	Halapricum	Halapricum Song et al. 2014	
+2220	Methanolobus Konig and Stetter 1983	Methanolobus	
+1073987	Halorientalis Cui et al. 2011 emend. Amoozegar et al. 2014	Halorientalis	
+1912923	"Candidatus Syntrophoarchaeum" Laso-Perez et al. 2016	Candidatus Syntrophoarchaeum	Syntrophoarchaeum	
+1825023	"Candidatus Nitrosotenuis" Li et al. 2016	Candidatus Nitrosotenuis	Nitrosotenuis	
+145260	"Methanobacter" Boone et al. 1993	Methanobacter	Methanothermobacter	Methanothermobacter Wasserfallen et al. 2000	
+29287	Natronococcus	Natronococcus Tindall et al. 1984 emend. Tindall 2001	
+387342	Halopiger Gutierrez et al. 2007	Halopiger	
+926359	Natronoarchaeum	Natronoarchaeum Shimane et al. 2010 emend. Qiu et al. 2014	
+1450140	Halohasta Mou et al. 2013	Halohasta	
+2308	Pyrodictium	Pyrodictium Stetter et al. 1984	
+685950	Fervidicoccus Perevalova et al. 2010	Fervidicoccus	"Fervidococcus" Perevalova et al. 2008	Fervidococcus	
+69655	Sulfurisphaera Kurosawa et al. 1998	Sulfurisphaera	
+1051666	"Candidatus Nanosalina" Narasingarao et al. 2012	Candidatus Nanosalina	Nanosalina	
+695982	Halogranum Cui et al. 2010 emend. Cui et al. 2011	Halogranum	
+200414	Caldisphaera Itoh et al. 2003	Caldisphaera	
+1269201	Salinarchaeum Cui et al. 2014	Salinarchaeum	
+146825	Halorhabdus	Halorhabdus Waino et al. 2000 emend. Antunes et al. 2008	
+171163	Halosimplex	Halosimplex Vreeland et al. 2003 emend. Han and Cui 2014	
+395331	"Candidatus Methanoregula" Brauer et al. 2006	Candidatus Methanoregula	Methanoregula Brauer et al. 2011	Methanoregula	
+353799	Halostagnicola Castillo et al. 2006	Halostagnicola	
+1392997	"Candidatus Methanoperedens" Haroon et al. 2013	Candidatus Methanoperedens	Methanoperedens	
+1073986	Halobellus Cui et al. 2011 emend Zhang et al. 2013	Halobellus	
+1656823	Halanaeroarchaeum	Halanaeroarchaeum Sorokin et al. 2016	
+570266	Methanocella Sakai et al. 2008	Methanocella	
+2613912	"Conexivisphaera" Kato et al. 2019	Conexivisphaera Kato et al. 2021	Conexivisphaera	
+2501796	Natrarchaeobius	"Natrarchaeobius" Sorokin et al. 2019	
+2256	Natronobacterium	Natronobacterium Tindall et al. 1984 emend. Tindall 2001	
+1826864	"Candidatus Nitrosocosmicus" Lehtovirta-Morley et al. 2016	Candidatus Nitrosocosmicus	Ca. Nitrosocosmicus	Nitrosocosmicus	
+2022712	Candidatus Methanohalarchaeum	"Candidatus Methanohalarchaeum" Sorokin et al. 2018	Methanohalarchaeum	
+1051667	"Candidatus Nanosalinarum" Narasingarao et al. 2012	Candidatus Nanosalinarum	Nanosalinarum	
+1070314	Halorussus Cui et al. 2014	Halorussus	
+54258	Ignicoccus Huber et al. 2000	Ignicoccus	
+744724	Halarchaeum Minegishi et al. 2010	Halarchaeum	
+2856051	"Candidatus Nanohalobium" La Cono et al. 2020	Candidatus Nanohalobium	
+1644057	Salinigranum Cui and Zhang 2014	Salinigranum	
+253106	Natronoliminobium	Natronolimnobius Itoh et al. 2005	Natronolimnobius	
+1377992	Halovenus Makhdoumi-Kakhki et al. 2012	Halovenus	
+332246	Halalkalicoccus	Halalkalicoccus Xue et al. 2005	
+203135	Halomicrobium Oren et al. 2002	Halomicrobium	
+81416	Methanofollis	Methanofollis Zellner et al. 1999	
+871740	Halomarina Inoue et al. 2011	Halomarina	
+2765402	Natrarchaeobaculum	Natrarchaeobaculum Sorokin et al. 2020	
+2017961	Sulfodiicoccus Sakai and Kurosawa 2017	Sulfodiicoccus	
+1075398	Salarchaeum	Salarchaeum Shimane et al. 2011	
+376170	Haloplanus Elevi Bardavid et al. 2007 emend. Cui et al. 2010	Haloplanus Elevi Bardavid et al. 2007 emend. Qiu et al. 2013	Haloplanus	
+164450	Vulcanisaeta Itoh et al. 2002	Vulcanisaeta	
+2489210	Aramenus	Candidatus Aramenus	"Candidatus Aramenus" Servin-Garciduenas and Martinez-Romero 2014	
+2705406	Sulfuracidifex Itoh et al. 2020	Sulfuracidifex	
+1593364	"Candidatus Nitrosopelagicus" Santoro et al. 2014	Candidatus Nitrosopelagicus	Nitrosopelagicus	
+2856573	Infirmifilum	"Infirmifilum" Zayulina et al. 2021	
+91559	Methanimicrococcus corrig. Sprenger et al. 2000	Methanimicrococcus	Methanomicrococcus	
+1008195	Halopelagius Cui et al. 2010 emend. Zhang et al. 2013	Halopelagius	
+2251	Haloferax	Haloferax Torreblanca et al. 1986 emend. Oren et al. 2009	
+46769	Candidatus Cenarchaeum	"Cenarchaeum" DeLong and Preston 1996	Cenarchaeum	
+54247	Hyperthermus	Hyperthermus Zillig et al. 1991	
+46631	Picrophilus Schleper et al. 1996	Picrophilus	
+1980514	Halodesulfurarchaeum	Halodesulfurarchaeum Sorokin et al. 2017	
+54260	Ferroglobus Hafenbradl et al. 1997	Ferroglobus	
+76886	Caldivirga Itoh et al. 1999	Caldivirga	
+475087	"Candidatus Methanosphaerula" Cadillo-Quiroz et al. 2008	Candidatus Methanosphaerula	Methanosphaerula Cadillo-Quiroz et al. 2009	Methanosphaerula	
+2192	Methanocorpusculum	Methanocorpusculum Zellner et al. 1988 emend. Xun et al. 1989	
+1911573	Haloprofundus	Haloprofundus Zhang et al. 2017	
+54253	Thermosphaera Huber et al. 1998	Thermosphaera	
+2273	Desulfurococcus	Desulfurococcus Zillig and Stetter 1983	
+662756	"Candidatus Micrarchaeum" Baker et al. 2010	Candidatus Micrarchaeum	
+2270	Thermoproteus	Thermoproteus Zillig and Stetter 1982	
+230355	Methanolacinia	Methanolacinia Zellner et al. 1990 emend. Goker et al. 2014	
+332951	Halovivax Castillo et al. 2006	Halovivax	
+2260	Pyrococcus Fiala and Stetter 1986	Pyrococcus	
+498845	"Candidatus Korarchaeum" Elkins et al. 2008	Candidatus Korarchaeum	Korarchaeum	
+1431544	Candidatus Halobonum	"Candidatus Halobonum" Ugalde et al. 2013	Halobonum	
+507753	Acidiplasma Golyshina et al. 2009	Acidiplasma	
+196118	Methanocaldococcus	Methanocaldococcus Whitman 2002	
+2302	Thermoplasma Darland et al. 1970	Thermoplasma	
+477695	Thermogladius (ex Osburn and Amend 2011) Kochetkova et al. 2016	"Thermogladius" Osburn and Amend 2011	Thermogladius	
+2279	Staphylothermus	Staphylothermus Stetter and Fiala 1986	

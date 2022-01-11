@@ -1,2 +1,2 @@
-Tax group ID	Protein count	SP	LIPO	TAT	TATLIPO	PILIN
-1853682	3110	65	16	18	57	0
+Tax group ID	Protein count	Proteome count	SP	LIPO	TAT	TATLIPO	PILIN
+1853682	3110	1	65	16	18	57	1

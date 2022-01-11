@@ -1,330 +1,330 @@
-2269	Thermofilum pendens
-311400	Thermococcus kodakarensis
-2320	Methanopyrus kandleri
-13773	Pyrobaculum aerophilum
-2287	Saccharolobus solfataricus
-160232	Nanoarchaeum equitans
-2214	Methanosarcina acetivorans
-69525	Natrinema pellirubrum
-2317	Methanosphaera stadtmanae
-2005259	Sulfolobales archaeon SCGC AB-777_J03
-47311	Methanobrevibacter cuticularis
-2005261	Sulfolobales archaeon SCGC AB-777_K20
-97393	Ferroplasma acidarmanus
-2743089	Halobaculum salinum
-1698281	candidate division MSBL1 archaeon SCGC-AAA382C18
-1945577	Methanosphaera sp. rholeuAM270
-29291	Methanococcoides burtonii
-2026739	Euryarchaeota archaeon
-1789762	Methanosphaera sp. BMS
-83986	Methanoculleus bourgensis
-1238426	Haloquadratum sp. J07HQX50
-62319	Halococcus saccharolyticus
-1698270	candidate division MSBL1 archaeon SCGC-AAA259M10
-1111107	Metallosphaera yellowstonensis
-43687	Metallosphaera sedula
-2257	Natronomonas pharaonis
-1932700	archaeon D22
-2026714	Candidatus Bathyarchaeota archaeon
-662759	Candidatus Parvarchaeum acidiphilum
-253107	Natronolimnohabitans innermongolicus
-1698262	candidate division MSBL1 archaeon SCGC-AAA259D18
-1070774	Halonotius sp. J07HN4
-1054217	Thermoplasmatales archaeon BRNA1
-43928	Halobaculum gomorrense
-190976	Methanobrevibacter woesei
-2234134	Haloglomus irregulare
-1034015	Nitrososphaera viennensis
-355548	Halobacterium jilantaiense
-2224	Methanothrix thermoacetophila
-1920749	Candidatus Mancarchaeum acidiphilum
-293091	Haloquadratum walsbyi
-1679489	Haladaptatus sp. R4
-1160895	Candidatus Acidianus copahuensis
-1294122	Candidatus Nanobsidianus stetteri
-2315	Methanoplanus limicola
-1698261	candidate division MSBL1 archaeon SCGC-AAA259D14
-311458	Candidatus Caldarchaeum subterraneum
-2035442	archaeon HR06
-2058097	Candidatus Nitrosocaldus cavascurensis
-756883	halophilic archaeon DL31
-1267564	Halopenitus malekzadehii
-1406512	Candidatus Methanomassiliicoccus intestinalis
-1699371	Haloterrigena sp. YPL8
-497727	Candidatus Nitrososphaera gargensis
-2668072	Halorubrum sp. CBA1125
-1499975	Candidatus Nitrosotalea sinensis
-379547	Aciduliprofundum boonei
-39669	Methanosalsum zhilinae
-2189	Methanotorris igneus
-39152	Methanococcus maripaludis
-416273	Natronomonas moolapensis
-56636	Aeropyrum pernix
-1412873	uncultured archaeon A07HN63
-58290	Archaeoglobus veneficus
-411361	Halogeometricum pallidum
-63128	Natronorubrum tibetense
-2163009	Candidatus Poseidoniales archaeon
-101192	Methanomethylovorans hollandica
-1987492	Sulfolobus sp. SCGC AB-777_L09
-1927129	Methanonatronarchaeum thermophilum
-1483400	Halorubrum sp. E3
-1379702	Methanobacterium sp. MB1
-64602	Natrialba asiatica
-42879	Methanococcus aeolicus
-1853690	Halolamina sp. CBA1230
-2322	Methanohalobium evestigatum
-996166	Haloarchaeobius iranensis
-1527301	Nitrosopumilus sp. PRT-SC01
-1987490	Sulfolobus sp. SCGC AB-777_G05
-1987491	Sulfolobus sp. SCGC AB-777_G06
-2035438	archaeon HR02
-668570	Methanospirillum lacunae
-2176	Methanohalophilus mahii
-1198115	Thaumarchaeota archaeon SCGC AB-539-E09
-1698282	candidate division MSBL1 archaeon SCGC-AAA382F02
-1769296	Candidatus Methanomethylophilus sp. 1R26
-1698272	candidate division MSBL1 archaeon SCGC-AAA261C02
-2217661	Natronomonas salsuginis
-1242866	Thermoplasmatales archaeon SCGC AB-540-F20
-2487041	Natronomonas sp. CBA1133
-553468	Haladaptatus litoreus
-2055893	Halalkaliarchaeum desulfuricum
-2180	Methanothermus fervidus
-1007084	Candidatus Nitrosarchaeum limnium
-63740	Halorubrum vacuolatum
-2006182	Methanobrevibacter sp. NOE
-334771	Ignisphaera aggregans
-49547	Methanobrevibacter curvatus
-1550565	Methanoculleus taiwanensis
-1170320	Candidatus Nitrosopumilus salaria
-588898	Haloterrigena daqingensis
-1906665	archaeon
-2419781	Salinadaptatus halalkaliphilus
-2035441	archaeon HR05
-113653	Geoglobus ahangari
-54252	Pyrolobus fumarii
-1698277	candidate division MSBL1 archaeon SCGC-AAA261O19
-388259	Natronorubrum sulfidifaciens
-229731	Halobiforma lacisalsi
-2716717	Haloarcula sp. JP-L23
-83816	Methanobrevibacter ruminantium
-1987489	Acidilobus sp. SCGC AC-742_M05
-1577791	Candidatus Methanoplasma termitum
-2594042	Candidatus Prometheoarchaeum syntrophicum
-1457250	Halapricum salinum
-662761	Candidatus Parvarchaeum acidophilus
-1698284	candidate division MSBL1 archaeon SCGC-AAA382M17
-62320	Haloterrigena turkmenica
-2221	Methanolobus tindarius
-1291540	Candidatus Methanomethylophilus alvus
-1932360	Halorientalis sp. IM1011
-2202732	Nitrosopumilaceae archaeon
-1698267	candidate division MSBL1 archaeon SCGC-AAA259I09
-1839936	Candidatus Syntrophoarchaeum butanivorans
-1698285	candidate division MSBL1 archaeon SCGC-AAA382N08
-1407055	Candidatus Nitrosotenuis uzonensis
-680118	Methanothermobacter tenebrarum
-29288	Natronococcus occultus
-370323	Haloterrigena limicola
-877455	Methanobacterium lacus
-1242690	Thermoplasmatales archaeon SCGC AB-539-C06
-387343	Halopiger xanaduensis
-1502289	Marine Group I thaumarchaeote SCGC AAA799-B03
-558529	Natronoarchaeum philippinense
-1679096	Haloarculaceae archaeon HArcel1
-1073996	Halohasta litchfieldiae
-84156	Archaeoglobus profundus
-2309	Pyrodictium occultum
-118062	Methanobacterium congolense
-2238	Haloarcula marismortui
-683846	Fervidicoccus fontis
-1202768	Halopiger salifodinae
-1698259	candidate division MSBL1 archaeon SCGC-AAA259A05
-111955	Sulfurisphaera tokodaii
-2690782	Halorubrum sp. JWXQ-INN 858
-889948	Candidatus Nanosalina sp. J07AB43
-1465461	Thaumarchaeota archaeon SCGC AC-337_F14
-2250	Halococcus morrhuae
-1698265	candidate division MSBL1 archaeon SCGC-AAA259E22
-1698280	candidate division MSBL1 archaeon SCGC-AAA382A20
-660521	Halogranum gelatinilyticum
-1698269	candidate division MSBL1 archaeon SCGC-AAA259J03
-2285	Sulfolobus acidocaldarius
-200415	Caldisphaera lagunensis
-1333523	Salinarchaeum sp. Harcht-Bsk1
-2188	Methanococcus voltae
-2250255	Methanosarcinales archaeon
-1085028	halophilic archaeon J07HX64
-301375	Methanosaeta harundinacea
-1380432	Halorhabdus sp. CBA1104
-1383851	Halorubrum halodurans
-2056317	ANME-2 cluster archaeon
-1961136	Thermoplasmatales archaeon B_DKE
-60847	Halogeometricum borinquense
-171164	Halosimplex carlsbadense
-1316941	Archaeoglobus sulfaticallidus
-882104	Methanoregula formicica
-1495067	Halostagnicola sp. A56
-29283	Halorubrum distributum
-2056316	Methanophagales archaeon
-1392998	Candidatus Methanoperedens nitroreducens
-699433	Halobellus limi
-1945579	Methanosphaera sp. rholeuAM74
-2692200	Halobacterium sp. PCN9
-2209	Methanosarcina mazei
-2743090	Halobaculum halophilum
-1604004	Halanaeroarchaeum sulfurireducens
-1698266	candidate division MSBL1 archaeon SCGC-AAA259I07
-570267	Methanocella paludicola
-2223	Methanothrix soehngenii
-1874277	Conexivisphaera calida
-660517	Halobellus clavatus
-1679091	Natrarchaeobius halalkaliphilus
-44930	Natronobacterium gregoryi
-2563600	Candidatus Nitrosocosmicus sp. SS
-1903181	Candidatus Methanohalarchaeum thermophilum
-1698286	candidate division MSBL1 archaeon SCGC-AAA385D11
-889962	Candidatus Nanosalinarum sp. J07AB56
-2283638	Halorussus sp. MSC15.2
-1495144	methanogenic archaeon ISO4-H5
-160233	Ignicoccus hospitalis
-1853682	Halarchaeum sp. CBA1220
-699431	Halolamina pelagica
-55758	Methanobrevibacter filiformis
-1698276	candidate division MSBL1 archaeon SCGC-AAA261G05
-332168	Halococcus hamelinensis
-1175445	Methanocella arvoryzae
-751944	Halobacterium sp. DL1
-1798806	Candidatus Nitrosocosmicus franklandus
-2565781	Candidatus Nanohalobium constans
-755307	Salinigranum rubrum
-253108	Natronolimnobius baerhuensis
-2692199	Halovenus sp. WSH3
-489138	Halarchaeum acidiphilum
-667137	Thermoplasmatales archaeon E-plasma
-1860100	Methanobacterium sp. A39
-1698264	candidate division MSBL1 archaeon SCGC-AAA259E19
-1698275	candidate division MSBL1 archaeon SCGC-AAA261F19
-413810	Halalkalicoccus jeotgali
-1325472	halophilic archaeon J07HX5
-2169593	Nitrososphaeraceae archaeon
-1698273	candidate division MSBL1 archaeon SCGC-AAA261D19
-1698263	candidate division MSBL1 archaeon SCGC-AAA259E17
-57705	Halomicrobium mukohataei
-2052832	Methanofollis fontis
-2216978	Halonotius sp. F13-13
-1698258	candidate division MSBL1 archaeon SCGC-AAA833K04
-1698283	candidate division MSBL1 archaeon SCGC-AAA382K21
-1085029	halophilic archaeon J07HB67
-671145	Halomarina oriensis
-2026768	Nitrosopumilales archaeon
-430914	Halorhabdus tiamatea
-13769	Natrialba magadii
-1698257	candidate division MSBL1 archaeon SCGC-AAA833F18
-2035439	archaeon HR03
-1698260	candidate division MSBL1 archaeon SCGC-AAA259B11
-39441	Methanobrevibacter arboriphilus
-2044521	Natrarchaeobaculum sulfurireducens
-1670455	Sulfodiicoccus acidiphilus
-667138	Thermoplasmatales archaeon I-plasma
-1173487	Halorubrum sp. AJ67
-2599399	Salarchaeum sp. JOR-1
-555874	Haloplanus vescus
-1987493	Vulcanisaeta sp. SCGC AB-777_J10
-1407499	Halobacterium hubeiense
-358766	Methanoregula boonei
-55802	Thermococcus barophilus
-2248	Halorubrum saccharovorum
-1365176	Thermofilum adornatum
-2668070	Natronomonas sp. CBA1123
-1072681	Candidatus Haloredivivus sp. G17
-1326980	Candidatus Aramenus sulfurataquae
-1294262	Sulfuracidifex tepidarius
-1502290	Marine Group I thaumarchaeote SCGC AAA799-D07
-767519	Halomicrobium zhouii
-1535962	Methanomassiliicoccaceae archaeon DOK
-1502295	Marine Group I thaumarchaeote SCGC AAA799-P11
-1679083	Natrarchaeobius chitinivorans
-2035267	Candidatus Nitrosocosmicus arcticus
-2200886	Sulfolobus sp. F3
-1383850	Halorubrum sp. Ib24
-1410606	Candidatus Nitrosopelagicus brevis
-54259	Ignicoccus islandicus
-29295	halophilic archaeon
-1412874	uncultured archaeon A07HR60
-1550241	Infirmifilum uzonense
-91560	Methanimicrococcus blatticola
-2218585	Halogeometricum sp. wsp3
-1945580	Methanosphaera sp. rholeuAM6
-1236180	Halopelagius longus
-2282131	Halobellus sp. Atlit-38R
-1419722	Halorubrum sp. SD626R
-2035437	archaeon HR01
-338192	Nitrosopumilus maritimus
-2246	Haloferax volcanii
-46770	Cenarchaeum symbiosum
-54248	Hyperthermus butylicus
-2203	Methanospirillum hungatei
-82076	Picrophilus torridus
-745377	Natrarchaeobaculum aegyptiacum
-1873524	Halodesulfurarchaeum formicicum
-1698287	candidate division MSBL1 archaeon SCGC-AAA385M02
-54261	Ferroglobus placidus
-1698271	candidate division MSBL1 archaeon SCGC-AAA259O05
-76887	Caldivirga maquilingensis
-475088	Methanosphaerula palustris
-2027460	Desulfurococcaceae archaeon AG1
-667135	Thermoplasmatales archaeon A-plasma
-83984	Methanocorpusculum labreanum
-1713725	Methanomassiliicoccales archaeon RumEn M2
-1514971	Haloprofundus marisrubri
-1698274	candidate division MSBL1 archaeon SCGC-AAA261F17
-54254	Thermosphaera aggregans
-94694	Desulfurococcus amylolyticus
-1531428	Candidatus Micrarchaeum sp. AZ1
-1713724	Methanomassiliicoccales archaeon RumEn M1
-2052935	Methanolobus halotolerans
-1698279	candidate division MSBL1 archaeon SCGC-AAA382A13
-1502294	Marine Group I thaumarchaeote SCGC AAA799-O18
-662757	Candidatus Micrarchaeum acidiphilum
-1412872	uncultured archaeon A07HB70
-1698288	candidate division MSBL1 archaeon SCGC-AAA385M11
-172049	Thermococcus sibiricus
-41673	Acidianus brierleyi
-890420	Halovenus aranensis
-1698278	candidate division MSBL1 archaeon SCGC-AAA382A03
-164451	Vulcanisaeta distributa
-242703	Acidilobus saccharovorans
-261391	Thermoplasmatales archaeon Gpl
-222984	Natrinema altunense
-2594798	Nanohaloarchaea archaeon
-224719	Methanobrevibacter sp. AbM4
-1698268	candidate division MSBL1 archaeon SCGC-AAA259I14
-1838285	Candidatus Syntrophoarchaeum caldarius
-2271	Thermoproteus tenax
-54120	Methanolacinia petrolearia
-387341	Halovivax ruber
-2668068	Halapricum sp. CBA1109
-2137776	archaeon SCG-AAA382B04
-2234	Archaeoglobus fulgidus
-2261	Pyrococcus furiosus
-498846	Candidatus Korarchaeum cryptofilum
-1431545	Candidatus Halobonum tyrrellensis
-312540	Acidiplasma cupricumulans
-1412871	uncultured archaeon A07HR67
-1987488	Acidilobus sp. SCGC AC-742_E15
-353800	Halostagnicola larsenii
-2190	Methanocaldococcus jannaschii
-145262	Methanothermobacter thermautotrophicus
-2242	Halobacterium salinarum
-2303	Thermoplasma acidophilum
-1200300	Thermogladius calderae
-2280	Staphylothermus marinus
-1238428	Halorubrum sp. J07HR59
-563177	Acidianus hospitalis
-130048	Halobiforma nitratireducens
-1227480	Halorubrum hochstenium
-1198116	Thermoplasmatales archaeon SCGC AB-539-N05
-2005260	Sulfolobales archaeon SCGC AB-777_K09
-1849261	Candidatus Altiarchaeales archaeon WOR_SM1_SCG
+2269	DSM 2475	strain Hvv3	Thermofilum pendens	Thermofilum pendens Zillig and Gierl 1983	
+311400	ATCC BAA-918	culture-collection:ATCC:BAA:918	JCM 12380	Pyrococcus kodadaraensis (sic)	Pyrococcus kodakaraensis	strain KOD1	"Thermococcus kodakaraensis" Atomi et al. 2004	Thermococcus kodakaraensis	Thermococcus kodakarensis corrig. Atomi et al. 2005	Thermococcus kodakarensis	
+2320	DSM 6324	JCM 9639	Methanopyrus kandleri Kurr et al. 1992	Methanopyrus kandleri	NBRC 100938	strain AV19	
+13773	ATCC 51768	CIP 104966	DSM 7523	JCM 9630	NBRC 100827	Pyrobaculum aerophilum	Pyrobaculum aerophilum Volkl et al. 1996	strain IM2	
+2287	ATCC 35091	DSM 1616	IFO 15331	JCM 8930	NBRC 15331	Saccharolobus solfataricus	Saccharolobus solfataricus (Zillig et al. 1980) Sakai and Kurosawa 2018	strain P1	Sulfolobus solfataricus	Sulfolobus solfataricus Zillig et al. 1980	
+160232	"Nanoarchaeum equitans" Huber et al. 2002	Nanoarchaeum equitans	
+2214	ATCC 35395	DSM 2834	JCM 12185	Methanosarcina acetivorans	Methanosarcina acetivorans Sowers et al. 1986	NBRC 100939	OCM 95	strain C2A	
+69525	CIP 106293	DSM 15624	"Halobacterium cutirubrum subsp. proteolyticum" Formisano 1962	Halobacterium cutirubrum subsp. proteolyticum	Halobacterium salinarium NCIMB 786	JCM 10476	Natrinema pellirubrum McGenity et al. 1998	Natrinema pellirubrum	NCIMB 786	
+2317	ATCC 43021	DSM 3091	JCM 11832	Methanosphaera stadtmanae Miller and Wolin 1985	Methanosphaera stadtmanae	Methanosphaera stadtmaniae	Methanosphaera stadtmanii	OCM 149	strain MCB-3	
+2005259	Sulfolobales archaeon SCGC AB-777_J03	
+47311	DSM 11139	Methanobrevibacter cuticularis Leadbetter and Breznak 1997	Methanobrevibacter cuticularis	strain RFM-1	
+2005261	Sulfolobales archaeon SCGC AB-777_K20	
+97393	"Ferroplasma acidarmanus" Dopson et al. 2004	Ferroplasma acidarmanus	strain Fer1	
+2743089	CGMCC 1.16040	Halobaculum salinum Cui et al. 2021	Halobaculum salinum	Halobonum sp. NJ-3-1	JCM 33552	strain NJ-3-1	
+1698281	candidate division MSBL1 archaeon SCGC-AAA382C18	
+1945577	Methanosphaera sp. rholeuAM270	
+29291	DSM 6242	Methanococcoides burtonii Franzmann et al. 1993	Methanococcoides burtonii	OCM 468	
+2026739	Euryarchaeota archaeon	
+1789762	Methanosphaera sp. BMS	
+83986	ATCC 35293 [[Methanoculleus olentangyi (Corder et al. 1988) Maestrojun et al. 1990]]	ATCC 43281	DSM 3045	Methaniculleus bourgensis	Methaniculleus oldenburgensis	Methaniculleus olentangyensis	Methaniculleus olentangyi	Methanoculleus bourgensis corrig. (Ollivier et al. 1986) Maestrojun et al. 1990 emend. Asakawa and Nagaoka 2003	Methanoculleus bourgensis	Methanoculleus oldenburgensis Blotevogel et al. 1998	Methanoculleus oldenburgensis	Methanoculleus olentangyensis	Methanoculleus olentangyi (Corder et al. 1988) Maestrojun et al. 1990	Methanoculleus olentangyi	Methanogenium bourgense Ollivier et al. 1986	Methanogenium bourgense	Methanogenium olentangyi corrig. Corder et al. 1988	Methanogenium olentangyi	OGC 15	OGC 52 [[Methanoculleus olentangyi (Corder et al. 1988) Maestrojun et al. 1990]]	strain MS2	strain RC/ER [[Methanoculleus olentangyi (Corder et al. 1988) Maestrojun et al. 1990]]	
+1238426	Haloquadratum sp. J07HQX50	
+62319	ATCC 49257	CCM 4147	culture-collection:VKM:B:1770	DSM 5350	Halococcus saccharolyticus Montero et al. 1990	Halococcus saccharolyticus	JCM 8878	strain P-423	VKM B-1770	
+1698270	candidate division MSBL1 archaeon SCGC-AAA259M10	
+1111107	"Metallosphaera yellowstonensis" Kozubal et al. 2011	Metallosphaera yellowstonensis	
+43687	ATCC 51363	DSM 5348	IFO 15509	JCM 9185	Metallosphaera sedula Huber et al. 1989	Metallosphaera sedula	Metallosphaera sp. TA-2	NBRC 15509	strain TH2	Sulfolobus sp. IFO 15160	
+2257	ATCC 35678	CIP 103997	culture-collection:VKM:B:1749	DSM 2160	Halobacterium pharaonis Soliman and Truper 1983	Halobacterium pharaonis	IFO 14720	JCM 8858	Natronobacterium pharaonis (Soliman and Truper 1983) Tindall et al. 1984	Natronobacterium pharaonis	Natronomonas pharaonis	Natronomonas pharaonis (Soliman and Truper 1983) Kamekura et al. 1997	NBRC 14720	NCIMB 2260	strain Gabara	VKM B-1749	
+1932700	archaeon D22	
+2026714	Candidatus Bathyarchaeota archaeon	
+662759	"Candidatus Parvarchaeum acidiphilum" Baker et al. 2010	Candidatus Parvarchaeum acidiphilum	
+253107	CGMCC 1.2124	JCM 12255	Natronoliminobium innermongolium	Natronolimnobius innermongolicus Itoh et al. 2005	Natronolimnobius innermongolicus	Natronolimnohabitans innermongolicus (Itoh et al. 2005) Sorokin et al. 2020	Natronolimnohabitans innermongolicus	strain N-1311	
+1698262	candidate division MSBL1 archaeon SCGC-AAA259D18	
+1070774	Halonotius sp. J07HN4	
+1054217	Thermoplasmatales archaeon BRNA1	
+43928	ATCC 700876	DSM 9297	Halobaculum gomorrense Oren et al. 1995	Halobaculum gomorrense	JCM 9908	strain DS2807	
+190976	DSM 11979	Methanobrevibacter woesei Miller and Lin 2002	Methanobrevibacter woesei	OCM 815	strain GS	
+2234134	CECT 9635	"Haloglomus irregulare" Duran-Viseras et al. 2020	Haloglomus irregulare	JCM 33318	Natronomonas sp. F16-60	strain F16-60	
+1034015	Candidatus Nitrososphaera sp. EN123	DSM 26422	JMC 19564	Nitrososphaera sp. EN123	Nitrososphaera viennensis	Nitrososphaera viennensis Stieglmeier et al. 2014	"Nitrososphaera viennensis" Tourna et al. 2011	strain EN76	
+355548	CGMCC 1.5337	Halobacterium jilantaiense	Halobacterium jilantaiense Yang et al. 2006	JCM 13558	strain NG4	
+2224	culture-collection:VKM:B:1831	DSM 4774	DSM 6194 [[Methanosaeta thermophila]]	JCM 14653 [[Methanosaeta thermophila]]	Methanosaeta thermacetiphila	Methanosaeta thermoacetophila (Nozhevnikova and Chudina 1988) Patel and Sprott 1990	Methanosaeta thermoacetophila	Methanosaeta thermophila (Kamagata et al. 1992) Boone and Kamagata 1998	Methanosaeta thermophila	Methanothrix thermoacetophila corrig. Nozhevnikova and Chudina 1988	"Methanothrix thermoacetophila" Nozhevnikova and Chudina 1984	Methanothrix thermoacetophila	Methanothrix thermoacetophilia (sic) Nozhevnikova and Chudina 1988	Methanothrix thermophila Kamagata et al. 1992	Methanothrix thermophila	NBRC 101360 [[Methanosaeta thermophila]]	strain PT [[Methanosaeta thermophila]]	strain Z-517	VKM B-1831	
+1920749	"Candidatus Mancarchaeum acidiphilum" Golyshina et al. 2017	Candidatus Mancarchaeum acidiphilum	Candidatus Micrarchaeota archaeon Mia14	
+293091	DSM 16854	"Haloquadratum walsbyi" Bolhuis et al. 2004	Haloquadratum walsbyi Burns et al. 2007	Haloquadratum walsbyi	JCM 12705	SHOW archaeon C23	square haloarchaea of Walsby str. C23	strain C23	
+1679489	Haladaptatus sp. R4	
+1160895	Acidianus copahuensis	Acidianus sp. ALE1	"Candidatus Acidianus copahuensis" Giaveno et al. 2013	Candidatus Acidianus copahuensis	
+1294122	"Candidatus Nanobsidianus stetteri" Castelle et al. 2015	Candidatus Nanobsidianus stetteri	Candidatus Nanopusillus sp. Nst1	nanoarchaeote Nst1	Nanobsidianus stetteri	
+2315	ATCC 35062	DSM 2279	Methanoplanus limicola	Methanoplanus limicola Wildgruber et al. 1984 emend. Goker et al. 2014	OCM 101	
+1698261	candidate division MSBL1 archaeon SCGC-AAA259D14	
+311458	"Candidatus Caldarchaeum subterraneum" corrig. Nunoura et al. 2011	Candidatus Caldarchaeum subterraneum	"Candidatus Caldiarchaeum subterraneum" (sic) Nunoura et al. 2011	uncultured crenarchaeote 10-H-08	
+2035442	archaeon HR06	
+2058097	"Candidatus Nitrosocaldus cavascurensis" Abby et al. 2018	Candidatus Nitrosocaldus cavascurensis	Candidatus Nitrosocaldus sp. SCU2	Nitrosocaldus cavascurensis	
+756883	halophilic archaeon DL31	
+1267564	haloarchaeon CC65	Halopenitus malekzadehii Amoozegar et al. 2013	Halopenitus malekzadehii	IBRC-M 10418	KCTC 4045	strain CC65	
+1406512	"Candidatus Methanomassiliicoccus intestinalis" Borrel et al. 2013	Candidatus Methanomassiliicoccus intestinalis	Methanomassiliicoccus intestinalis	
+1699371	Haloterrigena sp. YPL8	
+497727	"Candidatus Nitrososphaera gargensis" Hatzenpichler et al. 2008	Candidatus Nitrososphaera gargensis	Nitrososphaera gargensis	
+2668072	Halorubrum sp. CBA1125	
+1499975	"Candidatus Nitrosotalea sinensis" Herbold et al. 2017	Candidatus Nitrosotalea sinensis	Nitrosotalea sinensis	Nitrosotalea sp. Nd2	
+379547	"Aciduliprofundum boonei" Reysenbach et al. 2006	Aciduliprofundum boonei	
+39669	DSM 4017	Methanihalophilus zhilinae	Methanohalophilus zhilinae Mathrani et al. 1988	Methanohalophilus zhilinae	Methanosalsum zhilinae (Mathrani et al. 1988) Boone and Baker 2002	Methanosalsum zhilinae	OCM 62	strain WeN5	
+2189	DSM 5666	JCM 11834	Methanococcus igneus Burggraf et al. 1990	Methanococcus igneus	Methanotorris igneus (Burggraf et al. 1990) Whitman 2002	Methanotorris igneus	strain Kol 5	
+39152	ATCC 35294 [[Methanococcus deltae Corder et al. 1988]]	ATCC 43000	DSM 2067	DSM 2771 [[Methanococcus deltae Corder et al. 1988]]	JCM 10722	Methanococcus deltae Corder et al. 1988	Methanococcus deltae	Methanococcus maripaludis Jones et al. 1984	Methanococcus maripaludis	NBRC 101831	OCM 151 [[Methanococcus deltae Corder et al. 1988]]	OCM 175	strain JJ	strain RC [[Methanococcus deltae Corder et al. 1988]]	
+416273	CECT 7526	DSM 18674	haloarchaeon CSW4.03.5	JCM 14361	Natronomonas moolapensis Burns et al. 2010	Natronomonas moolapensis	strain 8.8.11	strain CSW8.8.11	
+56636	Aeropyrum pernix Sako et al. 1996	Aeropyrum pernix	ATCC 700893	DSM 11879	JCM 9820	NBRC 100138	strain K1	
+1412873	uncultured archaeon A07HN63	
+58290	Archaeoglobus veneficus Huber et al. 1998	Archaeoglobus veneficus	DSM 11195	strain SNP6	
+411361	Halogeometricum pallidum (Savage et al. 2008) Qiu et al. 2013	Halogeometricum pallidum	Halosarcina pallida Savage et al. 2008	Halosarcina pallida	Halosarcina vepailidus	JCM 14848	KCTC 4017	strain BZ256	
+63128	AS 1.2123	CIP 107016	culture-collection:AS:1.2123	DSM 13204	JCM 10636	Natronorubrum tibetense	Natronorubrum tibetense Xu et al. 1999	strain GA33	
+2163009	Candidatus Poseidoniales archaeon	Marine Group II euryarchaeote	
+101192	DSM 15978	Methanomethylovorans hollandica Lomans et al. 2004	Methanomethylovorans hollandica	Methanomethylovorans sp. ZB	OCM 838	strain DMS1	
+1987492	Sulfolobus sp. SCGC AB-777_L09	
+1927129	archaeon AMET1	DSM 28684	Euryarchaeota archaeon AMET1	Methanonatronarchaeum thermophilum	Methanonatronarchaeum thermophilum Sorokin et al. 2018	NBRC 110805	strain AMET1	UNIQEM 982	
+1483400	Halorubrum sp. E3	
+1379702	Methanobacterium sp. MB1	
+64602	ATCC 700177	CIP 105332	DSM 12278	JCM 9576	Natrialba asiatica Kamekura and Dyall-Smith 1996 emend. Hezayen et al. 2001	Natrialba asiatica	NBRC 102637	strain 172P1	
+42879	DSM 17508	Methanococcus aeolicus Kendall et al. 2006	"Methanococcus aeolicus" Schmid et al. 1984	Methanococcus aeolicus	OCM 812	strain Nankai-3	
+1853690	Halolamina sp. CBA1230	
+2322	DSM 3721	Methanohalobium evestigatum corrig. Zhilina and Zavarzin 1988	Methanohalobium evestigatum	Methanohalobium evestigatus	OCM 161	strain Z-7303	
+996166	Haloarchaeobius iranensis Makhdoumi-Kakhki et al. 2012	Haloarchaeobius iranensis	Halobacteriaceae archaeon EB21	IBRC-M 10013	KCTC 4048	strain EB21	
+1527301	Nitrosopumilus sp. PRT-SC01	
+1987490	Sulfolobus sp. SCGC AB-777_G05	
+1987491	Sulfolobus sp. SCGC AB-777_G06	
+2035438	archaeon HR02	
+668570	DSM 22751	JCM 16384	Methanospirillum lacunae Iino et al. 2010	Methanospirillum lacunae	Methanospirillum sp. Ki8-1	NBRC 104920	strain Ki8-1	
+2176	ATCC 35705	DSM 5219	Methanihalophilus mahii	Methanohalophilus mahii Paterek and Smith 1988	Methanohalophilus mahii	OCM 68	strain SLP	
+1198115	Thaumarchaeota archaeon E09	Thaumarchaeota archaeon SCGC AB-539-E09	
+1698282	candidate division MSBL1 archaeon SCGC-AAA382F02	
+1769296	Candidatus Methanomethylophilus sp. 1R26	
+1698272	candidate division MSBL1 archaeon SCGC-AAA261C02	
+2217661	CCM 8891	CECT 9564	JCM 33320	"Natronomonas salsuginis" Duran-Viseras et al. 2020	Natronomonas salsuginis	Natronomonas sp. F20-122	strain F20-122	
+1242866	Thermoplasmatales archaeon SCGC AB-540-F20	
+2487041	Natronomonas sp. CBA1133	
+553468	CGMCC 1.7737	Haladaptatus litoreus Cui et al. 2010	Haladaptatus litoreus	Haladaptatus sp. RO1-22	Haladaptatus sp. RO1-28	JCM 15771	strain RO1-28	
+2055893	archaeon AArc-Sl	Halalkaliarchaeum desulfuricum	Halalkaliarchaeum desulfuricum Sorokin et al. 2019	JCM 30664	strain AArc-Sl	UNIQEM U999	
+2180	ATCC 43054	DSM 2088	JCM 10308	Methanothermus fervidus	Methanothermus fervidus Stetter et al. 1982	
+1007084	"Candidatus Nitrosarchaeum limnium" (Blainey et al. 2011) Jung et al. 2018	Candidatus Nitrosarchaeum limnium	"Candidatus Nitrosoarchaeum limnia" Blainey et al. 2011	Candidatus Nitrosoarchaeum limnia	Nitrosarchaeum limnium	Nitrosoarchaeum limnia	
+63740	CIP 104547	DSM 8800	Halorubrum vacuolatum (Mwatha and Grant 1993) Kamekura et al. 1997	Halorubrum vacuolatum	JCM 9060	Natronobacterium vacuolata	Natronobacterium vacuolatum corrig. Mwatha and Grant 1993	Natronobacterium vacuolatum	NCIMB 13189	
+2006182	Methanobrevibacter sp. NOE	
+334771	DSM 17230	Ignisphaera aggregans Niederberger et al. 2006	Ignisphaera aggregans	JCM 13409	strain AQ1.S1	
+49547	DSM 11111	Methanobrevibacter curvatus Leadbetter and Breznak 1997	Methanobrevibacter curvatus	strain RFM-2	
+1550565	BCRC AR10043	Methanoculleus sp. CYW4	Methanoculleus taiwanensis	Methanoculleus taiwanensis Weng et al. 2015	NBRC 110782	strain CYW4	
+1170320	"Candidatus Nitrosopumilus salaria" Mosier et al. 2012	Candidatus Nitrosopumilus salaria	Nitrosopumilus salaria	
+588898	CGMCC 1.8909	Haloterrigena daqingensis	Haloterrigena daqingensis Wang et al. 2010	Haloterrigena sp. JX313	Natronorubrum daqingense	"Natronorubrum daqingense" (Wang et al. 2010) de la Haba 2021	NBRC 105739	strain JX313	
+1906665	archaea archaeon	archaeon	
+2419781	CGMCC 1.16692	JCM 33751	Natrialbaceae archaeon XQ-INN 246	Natronolimnobius sp. XQ-INN 246	Salinadaptatus halalkaliphilus	Salinadaptatus halalkaliphilus Xue et al. 2021	strain XQ-INN 246	
+2035441	archaeon HR05	
+113653	ATCC BAA-425	culture-collection:ATCC:BAA:425	Geoglobus ahangari Kashefi et al. 2002	Geoglobus ahangari	hyperthermophile str. 234	strain 234	
+54252	DSM 11204	JCM 17356	Pyrolobus fumarii Blochl et al. 1999	Pyrolobus fumarii	strain 1A	
+1698277	candidate division MSBL1 archaeon SCGC-AAA261O19	
+388259	CGMCC 1.6307	JCM 14089	Natronorubrum sulfidifaciens Cui et al. 2007	Natronorubrum sulfidifaciens	strain AD2	
+229731	CGMCC 1.3738	Halobiforma lacisalsi	Halobiforma lacisalsi Xu et al. 2005	Halobiforma salilacus	Halobiforma xinjiangense	JCM 12983	Natronococcus altunensis	strain AJ5	
+2716717	Haloarcula sp. JP-L23	
+83816	ATCC 35063	DSM 1093	JCM 13430	Methanobacterium ruminantium Smith and Hungate 1958 (Approved Lists 1980)	Methanobacterium ruminantium	Methanobrevibacter ruminantium	Methanobrevibacter ruminantium (Smith and Hungate 1958) Balch and Wolfe 1981	OCM 146	strain M1	
+1987489	Acidilobus sp. SCGC AC-742_M05	
+1577791	"Candidatus Methanoplasma termitum" Lang et al. 2015	Candidatus Methanoplasma termitum	Methanomassiliicoccales archaeon Mpt1	Methanoplasma termitum	strain Mpt1	
+2594042	anaerobic archaeon MK-D1	"Candidatus Prometheoarchaeum syntrophicum" Imachi et al. 2020	Candidatus Prometheoarchaeum syntrophicum	
+1457250	Halapricum salinum	Halapricum salinum Song et al. 2014	Halobacteriaceae archaeon CBA1105	halophilic archaeon CBA1105	JCM 19729	KCTC 4202	strain CBA1105	
+662761	"Candidatus Parvarchaeum acidophilus" Baker et al. 2010	Candidatus Parvarchaeum acidophilus	
+1698284	candidate division MSBL1 archaeon SCGC-AAA382M17	
+62320	ATCC 51198	CIP 106419	culture-collection:VKM:B:1734	DSM 5511	Halobacterium trapanicum GSL-11	Halobacterium trapanicum JCM 9743	Halococcus turkmenicus	Halococcus turkmenicus Zvyagintseva and Tarasov 1989	Haloterrigena turkmenica	Haloterrigena turkmenica (Zvyagintseva and Tarasov 1989) Ventosa et al. 1999	JCM 9101	NCIMB 13204	strain 4k	VKM B-1734	
+2221	ATCC 35996	DSM 2278	Methanolobus tindarius Konig and Stetter 1983	Methanolobus tindarius	OCM 150	strain T3	strain Tindari 3	
+1291540	"Candidatus Methanomethylophilus alvus" Borrel et al. 2012	Candidatus Methanomethylophilus alvus	Methanomethylophilus alvus	
+1932360	Halorientalis sp. IM1011	
+2202732	Nitrosopumilaceae archaeon	
+1698267	candidate division MSBL1 archaeon SCGC-AAA259I09	
+1839936	"Candidatus Syntrophoarchaeum butanivorans" Laso-Perez et al. 2016	Candidatus Syntrophoarchaeum butanivorans	Euryarchaeota archaeon BOX1	Syntrophoarchaeum butanivorans	
+1698285	candidate division MSBL1 archaeon SCGC-AAA382N08	
+1407055	"Candidatus Nitrosotenuis uzonensis" Lebedeva et al. 2013	Candidatus Nitrosotenuis uzonensis	Ca. Nitrosotenuis uzonensis	Nitrosotenuis uzonensis	Thaumarchaeota archaeon N4	
+680118	DSM 23052	JCM 16532	Methanobacteriaceae archaeon RMAS	Methanothermobacter tenebrarum Nakamura et al. 2013	Methanothermobacter tenebrarum	NBRC 106236	strain RMAS	
+29288	ATCC 43101	CIP 104548	culture-collection:VKM:B:1752	DSM 3396	JCM 8859	Natronococcus occultus	Natronococcus occultus Tindall et al. 1984	NBRC 102186	NCIMB 2192	strain SP4	VKM B-1752	
+370323	CGMCC 1.5333	Haloterrigena limicola Cui et al. 2006	Haloterrigena limicola	JCM 13563	"Natrinema limicola" (Cui et al. 2006) de la Haba et al. 2021	Natrinema limicola	strain AX-7	
+877455	DSM 24406	JCM 17760	Methanobacterium lacus Borrel et al. 2012	Methanobacterium lacus	Methanobacterium sp. 17A1	Methanobacterium sp. AL-21	strain 17A1	
+1242690	Thermoplasmatales archaeon SCGC AB-539-C06	
+387343	CECT 7173	CGMCC 1.6379	DSM 18323	Halopiger xanaduensis Gutierrez et al. 2007	Halopiger xanaduensis	JCM 14033	strain SH-6	
+1502289	Marine Group I thaumarchaeote SCGC AAA799-B03	
+558529	CECT 7630	DSM 27208	halophilic archaeon 294-194-5	JCM 16593	Natronoarchaeum philippinense	Natronoarchaeum philippinense Shimane et al. 2013	strain 294-194-5	
+1679096	haloarchaeon HArcel1	Haloarculaceae archaeon HArcel1	
+1073996	CGMCC 1.12394	DSM 22187	Halobacteriaceae archaeon tADL	Halohasta litchfieldiae Mou et al. 2013	Halohasta litchfieldiae	halophilic archaeon True-ADL	JCM 15066	strain tADL	
+84156	Archaeoglobus profundus Burggraf et al. 1990	Archaeoglobus profundus	DSM 5631	JCM 9629	NBRC 100127	strain AV18	
+2309	DSM 2709	JCM 9393	NBRC 100438	Pyrodictium occultum	Pyrodictium occultum Stetter et al. 1984	strain PL-19	
+118062	DSM 7095	Methanobacterium congolense Cuzin et al. 2001	Methanobacterium congolense	OCM 786	strain C	
+2238	ATCC 43049	CGMCC 1.1784	culture-collection:VKM:B:1809	DSM 3752	Flavobacterium (Halobacterium) maris-mortui	Haloarcula marismortui (ex Elazari-Volcani 1940) Oren et al. 1990	Haloarcula marismortui	"Halobacterium marismortui" Elazari-Volcani 1957	Halobacterium marismortui	JCM 8966	VKM B-1809	
+683846	culture-collection:VKM:B:2539	DSM 19380	Fervidicoccus fontis Perevalova et al. 2010	Fervidicoccus fontis	"Fervidococcus fontis" Perevalova et al. 2008	Fervidococcus fontis	strain 940	strain Kam940	VKM B-2539	
+1202768	CGMCC 1.12284	Halopiger salifodinae	Halopiger salifodinae Zhang et al. 2013	Halopiger sp. kcy07-b2	JCM 18547	Natrinema salifodinae	"Natrinema salifodinae" (Zhang et al. 2013) de la Haba et al. 2021	strain KCY07-B2	
+1698259	candidate division MSBL1 archaeon SCGC-AAA259A05	
+111955	DSM 16993	JCM 10545	NBRC 100140	strain 7	Sulfolobus tokodaii Suzuki et al. 2002	Sulfolobus tokodaii	Sulfurisphaera tokodaii	Sulfurisphaera tokodaii (Suzuki et al. 2002) Tsuboi et al. 2018	
+2690782	Halorubrum sp. JWXQ-INN 858	
+889948	Candidatus Nanosalina sp. J07AB43	halophilic archaeon J07AB43	
+1465461	Thaumarchaeota archaeon SCGC AC-337_F14	
+2250	ATCC 17082	culture-collection:VKM:B:1772	DSM 1307	"Halococcus litoralis" (Poulsen 1879) Schoop 1935	Halococcus litoralis	Halococcus morrhuae (Farlow 1880) Kocur and Hodgkiss 1973	Halococcus morrhuae	IFO 14719	JCM 8876	"Micrococcus litoralis" (Poulsen 1879) Kellerman 1915	Micrococcus litoralis	"Micrococcus morrhuae" (Farlow 1880) Klebahn 1919	Micrococcus morrhuae	NBRC 14719	NRC 16008	"Sarcina morrhuae" Farlow 1880	Sarcina morrhuae	VKM B-1772	
+1698265	candidate division MSBL1 archaeon SCGC-AAA259E22	
+1698280	candidate division MSBL1 archaeon SCGC-AAA382A20	
+660521	CGMCC 1.10119	Halobacteriaceae archaeon TNN44	Halogranum gelatinilyticum Cui et al. 2011	Halogranum gelatinilyticum	JCM 16426	strain TNN44	
+1698269	candidate division MSBL1 archaeon SCGC-AAA259J03	
+2285	ATCC 33909	DSM 639	IFO 15157	JCM 8929	NBRC 15157	Sulfolobus acidocaldarius Brock et al. 1972	Sulfolobus acidocaldarius	
+200415	ANMR 0165	Caldisphaera lagunensis Itoh et al. 2003	Caldisphaera lagunensis	DSM 15908	JCM 11604	MCC-UPLB 1331	strain IC-154	
+1333523	Salinarchaeum sp. Harcht-Bsk1	
+2188	ATCC 33273	DSM 1537	Methanococcus voltae Balch et al. 1981 emend. Ward et al. 1989	Methanococcus voltaei	Methanococcus voltae	NBRC 100457	OCM 70	OGC 70	
+2250255	Methanosarcinales archaeon	
+1085028	halophilic archaeon J07HX64	
+301375	CGMCC 1.5026	JCM 13211	Methanosaeta harundinacea Ma et al. 2006	Methanosaeta harundinacea	strain 8Ac	
+1380432	Halorhabdus sp. CBA1104	
+1383851	CECT 8745	Halorubrum halodurans Corral et al. 2016	Halorubrum halodurans	Halorubrum sp. C170	Halorubrum sp. Cb34	IBRC-M 10233	strain Cb34	
+2056317	ANME-2 cluster archaeon	
+1961136	Thermoplasmatales archaeon B_DKE	
+60847	ATCC 700274	DSM 11551	Halogeometricum borinquense Montalvo-Rodrguez et al. 1998	Halogeometricum borinquense	JCM 10706	strain PR 3	
+171164	ATCC BAA-75	culture-collection:ATCC:BAA:75	Halosimplex carlsbadense	Halosimplex carlsbadense Vreeland et al. 2003	JCM 11222	strain 2-9-1	
+1316941	Archaeoglobus sulfaticallidus	Archaeoglobus sulfaticallidus Steinsbu et al. 2010	DSM 19444	JCM 14716	strain PM70-1	
+882104	DSM 22288	Methanoregula formicica	Methanoregula formicica Yashiro et al. 2011	NBRC 105244	strain SMSP	
+1495067	Halostagnicola sp. A56	
+29283	ATCC 51197	CIP 105238	culture-collection:VKM:B:1733	Halobacterium distributum corrig. Zvyagintseva and Tarasov 1989	Halobacterium distributum	Halobacterium distributus	Halorubrobacterium distributum	Halorubrobacterium distributum (Zvyagintseva and Tarasov 1989) Kamekura and Dyall-Smith 1996	Halorubrum distributum	Halorubrum distributum (Zvyagintseva and Tarasov 1989) Oren and Ventosa 1996	Halorubrum distributum (Zvyagintseva and Tarasov 1989) Oren and Ventosa 1996 emend. Infante-Dominguez et al.	JCM 10118	JCM 9100	strain 1m	VKM B-1733	
+2056316	ANME-1 cluster archaeon	Methanophagales archaeon	
+1392998	"Candidatus Methanoperedens nitroreducens" Haroon et al. 2013	Candidatus Methanoperedens nitroreducens	Methanoperedens nitroreducens	
+699433	CGMCC 1.10331	Halobacteriaceae archaeon TBN53	Halobellus limi Cui et al. 2012	Halobellus limi	JCM 16811	strain TBN53	
+1945579	Methanosphaera sp. rholeuAM74	
+2692200	Halobacterium sp. PCN9	
+2209	ATCC 43340 [[Methanococcus frisius Blotevogel et al. 1986]]	culture-collection:VKM:B:1636	DSM 2053	DSM 3318 [[Methanococcus frisius Blotevogel et al. 1986]]	Methanococcus frisius Blotevogel et al. 1986	Methanococcus frisius	Methanococcus mazei	Methanosarcina frisia (Blotevogel et al. 1986) Blotevogel and Fischer 1989	Methanosarcina frisia	Methanosarcina frisius	Methanosarcina mazei (Barker 1936) Mah and Kuhn 1986	Methanosarcina mazeii	Methanosarcina mazei	Methanosarcina sp. MT	OCM 26	strain C 16 [[Methanococcus frisius Blotevogel et al. 1986]]	strain C16 [[Methanococcus frisius Blotevogel et al. 1986]]	strain S-6	VKM B-1636	
+2743090	CGMCC 1.16080	Halobaculum halophilum Cui et al. 2021	Halobaculum halophilum	Halobonum sp. Gai3-2	JCM 33550	strain Gai3-2	
+1604004	Halanaeroarchaeum sulfurireducens	Halanaeroarchaeum sulfurireducens Sorokin et al. 2016	Halobacteriaceae archaeon HSR2	Halobacteriaceae archaeon HSR3	Halobacteriaceae archaeon HSR4	Halobacteriaceae archaeon HSR5	Halobacteriaceae archaeon HSR7	Halobacteriaceae archaeon M27-SA2	JCM 30661	strain HSR2	UNIQEM U935	
+1698266	candidate division MSBL1 archaeon SCGC-AAA259I07	
+570267	DSM 17711	JCM 13418	Methanocella paludicola Sakai et al. 2008	Methanocella paludicola	NBRC 101707	strain SANAE	
+2223	ATCC 35969 [[Methanosaeta concilii]]	BCRC 16173	CCRC 16173	CCRC:16173	DSM 2139	DSM 3671 [[Methanosaeta concilii]]	JCM 10134 [[Methanosaeta concilii]]	Methanisaeta concilii	Methanosaeta concilii (Patel 1985) Patel and Sprott 1990	Methanosaeta concilii	Methanothrix concilii Patel 1985	Methanothrix soehngenii Huser et al. 1983	Methanothrix soehngenii	NBRC 103675 [[Methanosaeta concilii]]	NRC 2989 [[Methanosaeta concilii]]	OCM 69 [[Methanosaeta concilii]]	OGC 69 [[Methanosaeta concilii]]	strain GP6 [[Methanosaeta concilii]]	
+1874277	Conexivisphaera calida Kato et al.	Conexivisphaera calida	"Conexivisphaera calidus" Kato et al. 2019	Conexivisphaera calidus	DSM 105898	JCM 31663	strain NAS-02	Thaumarchaeota archaeon NAS-02	
+660517	CGMCC 1.10118	Halobacteriaceae archaeon TBN12	Halobacteriaceae archaeon TNN18	Halobellus clavatus Cui et al. 2011	Halobellus clavatus	JCM 16424	strain TNN18	
+1679091	JCM:32477	Natrarchaeobius halalkaliphilus	"Natrarchaeobius halalkaliphilus" Sorokin et al. 2019	Natrialbaceae haloarchaeon AArcht-Sl	strain AArcht-Sl	UNIQEM:U969	
+44930	ATCC 43098	CIP 104747	culture-collection:VKM:B:1750	DSM 3393	JCM 8860	Natronobacterium gregoryi	Natronobacterium gregoryi Tindall et al. 1984	NBRC 102187	NCIMB 2189	strain SP2	VKM B-1750	
+2563600	Candidatus Nitrosocosmicus sp. SS	
+1903181	archaeon HMET1	Candidatus Methanohalarchaeum thermophilum	"Candidatus Methanohalarchaeum thermophilum" Sorokin et al. 2018	Euryarchaeota archaeon HMET1	Methanohalarchaeum thermophilum	strain HMET1	
+1698286	candidate division MSBL1 archaeon SCGC-AAA385D11	
+889962	Candidatus Nanosalinarum sp. J07AB56	halophilic archaeon J07AB56	Nanosalina sp. J07AB56	
+2283638	Halorussus sp. MSC15.2	
+1495144	methanogenic archaeon ISO4-H5	methanogenic archaeon mixed culture ISO4-H5	Thermoplasmatales archaeon enrichment culture clone ISO4-H5	
+160233	DSM 18386	Ignicoccus hospitalis Paper et al. 2007	Ignicoccus hospitalis	JCM 14125	strain KIN4/I	
+1853682	Halarchaeum sp. CBA1220	
+699431	CGMCC 1.10329	Halobacteriaceae archaeon TBN21	Halobacteriaceae archaeon TBN49	Halolamina pelagica Cui et al. 2011	Halolamina pelagica	JCM 16809	strain TBN21	
+55758	DSM 11501	Methanobrevibacter filiformis Leadbetter et al. 1998	Methanobrevibacter filiformis	strain RFM-3	
+1698276	candidate division MSBL1 archaeon SCGC-AAA261G05	
+332168	ACM 5227	Halococcus hamelinensis Goh et al. 2006	Halococcus hamelinensis	JCM 12892	strain 100A6	
+1175445	DSM 22066	Methanocella arvoryzae Sakai et al. 2010	Methanocella arvoryzae	NBRC 105507	strain MRE50	
+751944	Halobacterium sp. DL1	
+1798806	"Candidatus Nitrosocosmicus franklandus" Lehtovirta-Morley et al. 2016	Candidatus Nitrosocosmicus franklandus	Ca. Nitrosocosmicus franklandus	Nitrosocosmicus franklandus	Thaumarchaeota archaeon C13	
+2565781	"Candidatus Nanohalobium constans" La Cono et al. 2020	Candidatus Nanohalobium constans	DPANN group archaeon LC1Nh	
+755307	CGMCC 1.10385	Halobacteriaceae archaeon GX10	JCM 17116	Salinigranum rubrum Cui and Zhang 2014	Salinigranum rubrum	strain GX10	
+253108	CGMCC 1.3597	JCM 12253	Natronoliminobium baerhuense	Natronolimnobius baerhuensis Itoh et al. 2005	Natronolimnobius baerhuensis Itoh et al. 2005 emend. Sorokin et al. 2020	Natronolimnobius baerhuensis	strain IHC-005	
+2692199	Halovenus sp. WSH3	
+489138	CECT 7534	DSM 22442	Halarchaeum acidiphilum Minegishi et al. 2010	Halarchaeum acidiphilum	JCM 16109	strain MH1-52-1	
+667137	Thermoplasmatales archaeon E-plasma	
+1860100	Methanobacterium sp. A39	
+1698264	candidate division MSBL1 archaeon SCGC-AAA259E19	
+1698275	candidate division MSBL1 archaeon SCGC-AAA261F19	
+413810	CECT 7217	DSM 18796	Halalkalicoccus jeotgali Roh et al. 2007	Halalkalicoccus jeotgali	JCM 14584	KCTC 4019	strain B3	
+1325472	archaeon J07HX5	halophilic archaeon J07HX5	
+2169593	Nitrososphaeraceae archaeon	
+1698273	candidate division MSBL1 archaeon SCGC-AAA261D19	
+1698263	candidate division MSBL1 archaeon SCGC-AAA259E17	
+57705	ATCC 700874	CIP 105174	DSM 12286	Haloacrula mukohatana	Haloarcula mukohataei Ihara et al. 1997	Haloarcula mukohataei	Haloarcula mukohatas	Halomicrobium mukohataei (Ihara et al. 1997) Oren et al. 2002	Halomicrobium mukohataei	Halomicrobium sp. ZP60	JCM 9738	NCIMB 13541	strain arg-2	
+2052832	BCRC AR10052	DSM 107935	Methanofollis fontis Chen et al. 2020	Methanofollis fontis	Methanofollis sp. FWC-SCC2	NBRC 113164	strain FWC-SCC2	
+2216978	Halonotius sp. F13-13	
+1698258	candidate division MSBL1 archaeon SCGC-AAA833K04	
+1698283	candidate division MSBL1 archaeon SCGC-AAA382K21	
+1085029	halophilic archaeon J07HB67	
+671145	Halobacteriaceae archaeon KeC-11	Halomarina oriensis Inoue et al. 2011	Halomarina oriensis	JCM 16495	KCTC 4074	strain KeC-11	
+2026768	Nitrosopumilales archaeon	
+430914	DSM 18392	Halorhabdus tiamatea Antunes et al. 2008	Halorhabdus tiamatea	JCM 14471	strain SARL4B	
+13769	ATCC 43099	CIP 104546	DSM 3394	JCM 8861	Natrialba magadii	Natrialba magadii (Tindall et al. 1984) Kamekura et al. 1997	Natronobacterium magadii	Natronobacterium magadii Tindall et al. 1984	NBRC 102185	NCIMB 2190	NCMB 2190	strain MS3	
+1698257	candidate division MSBL1 archaeon SCGC-AAA833F18	
+2035439	archaeon HR03	
+1698260	candidate division MSBL1 archaeon SCGC-AAA259B11	
+39441	ATCC 33747	DSM 1125	JCM 13429	Methanobacterium arbophilicum	Methanobacterium arbophilicum Zeikus and Henning 1975 (Approved Lists 1980)	Methanobrevibacter arboriphilicus corrig. (Zeikus and Henning 1975) Balch and Wolfe 1981	Methanobrevibacter arboriphilicus	Methanobrevibacter arboriphilus	OCM 147	strain DH-1	strain DH1	
+2044521	JCM 30663	Natrarchaeobaculum sulfurireducens	Natrarchaeobaculum sulfurireducens (Sorokin et al. 2019) Sorokin et al. 2020	Natronolimnobius sp. AArc1	Natronolimnobius sp. AArc-Mg	Natronolimnobius sulfurireducens Sorokin et al. 2019	Natronolimnobius sulfurireducens	strain AArc1	UNIQEM U932	
+1670455	InaCC Ar79	JCM 31740	strain HS-1	Sulfodiicoccus acidiphilus Sakai and Kurosawa 2017	Sulfodiicoccus acidiphilus	Sulfolobales archaeon HS-1	
+667138	Thermoplasmatales archaeon I-plasma	
+1173487	Halorubrum sp. AJ67	
+2599399	Salarchaeum sp. JOR-1	
+555874	CGMCC 1.8712	Haloplanus sp. RO5-8	Haloplanus vescus Cui et al. 2010	Haloplanus vescus	JCM 16055	strain RO5-8	
+1987493	Vulcanisaeta sp. SCGC AB-777_J10	
+1407499	"Halobacterium hubeiense" Jaakkola et al. 2016	Halobacterium hubeiense	Halobacterium sp. JI20-1	HAMBI 3616	strain JI20-1	
+358766	"Candidatus Methanoregula boonei" Brauer et al. 2006	Candidatus Methanoregula boonei	DSM 21154	JCM 14090	Methanoregula boonei Brauer et al. 2011	Methanoregula boonei	strain 6A8	
+55802	CNCM I-1946	DSM 11836	strain MP	Thermococcus barophilus Marteinsson et al. 1999	Thermococcus barophilus	
+2248	ATCC 29252	CIP 105329	culture-collection:VKM:B:1747	DSM 1137	Halobacterium saccharovorum	Halobacterium saccharovorum Tomlinson and Hochstein 1977 (Approved Lists 1980)	Halorubrobacterium saccharovorum	Halorubrobacterium saccharovorum (Tomlinson and Hochstein 1977) Kamekura and Dyall-Smith 1996	Halorubrum saccharovorum	Halorubrum saccharovorum (Tomlinson and Hochstein 1977) McGenity and Grant 1996	IFO 14717	JCM 8865	NBRC 14717	NCIMB 2081	strain M6	VKM B-1747	
+1365176	DSM 28063	JCM 19809	strain 1910b	Thermofilum adornatum	"Thermofilum adornatum" Zayulina et al. 2020	"Thermofilum adornatus" Dominova et al. 2013	Thermofilum adornatus	Thermofilum sp. 1910b	
+2668070	Natronomonas sp. CBA1123	
+1072681	Candidatus Haloredivivus sp. G17	Nanohaloarchaea archaeon G17	
+1326980	Aramenus sulfurataquae	Candidatus Aramenus sulfurataquae	Candidatus Aramenus sulfurataquae Servin-Garciduenas and Martinez-Romero 2014	Sulfolobales archaeon AZ1	
+1294262	DSM 104736	JCM 16833	strain IC-006	Sulfolobus sp. DSM 104736	Sulfolobus sp. JCM 16833	Sulfolobus sp. JCM 16834	Sulfuracidifex tepidarius Itoh et al. 2020	Sulfuracidifex tepidarius	
+1502290	Marine Group I thaumarchaeote SCGC AAA799-D07	
+767519	CGMCC 1.10457	Halobacteriaceae archaeon TBN51	Halomicrobium zhouii	Halomicrobium zhouii Yang and Cui 2012	JCM 17095	strain TBN51	
+1535962	Methanomassiliicoccaceae archaeon DOK	
+1502295	Marine Group I thaumarchaeote SCGC AAA799-P11	
+1679083	JCM:32476	Natrarchaeobius chitinivorans	"Natrarchaeobius chitinivorans" Sorokin et al. 2019	Natrialbaceae haloarchaeon AArcht1	Natrialbaceae haloarchaeon AArcht3	Natrialbaceae haloarchaeon AArcht4	Natrialbaceae haloarchaeon AArcht5	Natrialbaceae haloarchaeon AArcht6	Natrialbaceae haloarchaeon AArcht7	Natrialbaceae haloarchaeon AArcht8	Natrialbaceae haloarchaeon AArcht-Bj	Natrialbaceae haloarchaeon AArcht-Mg	Natrialbaceae haloarchaeon AArcht-Ow	Natrialbaceae haloarchaeon AArcht-St	strain AArcht4	UNIQEM:U966	
+2035267	"Candidatus Nitrosocosmicus arcticus" Alves et al. 2019	Candidatus Nitrosocosmicus arcticus	Candidatus Nitrosocosmicus sp. Kfb	Ca. Nitrosocosmicus arcticus	Nitrosocosmicus arcticus	
+2200886	Sulfolobus sp. F3	
+1383850	Halorubrum sp. Ib24	
+1410606	ammonia-oxidizing marine archaeon V2	"Candidatus Nitrosopelagicus brevis" Santoro et al. 2015	Candidatus Nitrosopelagicus brevis	Nitrosopelagicus brevis	
+54259	ATCC 700957	DSM 13165	Ignicoccus islandicus Huber et al. 2000	Ignicoccus islandicus	strain Kol8	
+29295	extreme halophile	halophilic archaeon	halophilic archaeum	
+1412874	uncultured archaeon A07HR60	
+1550241	DSM 28062	Infirmifilum uzonense	"Infirmifilum uzonense" (Toshchakov et al. 2016) Zayulina et al. 2021	JCM 19810	strain 1807-2	Thermofilum sp. 1807-2	Thermofilum uzonense	"Thermofilum uzonense" Toshchakov et al. 2015	Thermofilum uzonense Toshchakov et al. 2016	
+91560	ATCC BAA-276	culture-collection:ATCC:BAA:276	DSM 13328	Methanimicrococcus blatticola corrig. Sprenger et al. 2000	Methanimicrococcus blatticola	Methanomicrococcus blatticola	strain PA	
+2218585	Halogeometricum sp. wsp3	
+1945580	Methanosphaera sp. rholeuAM6	
+1236180	CGMCC 1.12397	Halopelagius longus	Halopelagius longus Zhang et al. 2013	Halopelagius sp. BC12-B1	JCM 18758	strain BC12-B1	
+2282131	Halobellus sp. Atlit-38R	
+1419722	Halorubrum sp. SD626R	
+2035437	archaeon HR01	
+338192	ATCC TSD-97	culture-collection:ATCC:TSD:97	NCIMB 15022	"Nitrosopumilus maritimus" Konneke et al. 2006	Nitrosopumilus maritimus Qin et al. 2017	Nitrosopumilus maritimus	strain SCM1	
+2246	ATCC 29605	culture-collection:VKM:B:1768	DSM 3757	Halobacterium volcanii Mullakhanbhai and Larsen 1975 (Approved Lists 1980)	Halobacterium volcanii Mullakhanbhai and Larson (sic) 1975	Halobacterium volcanii	Haloferax sp. BRTH2	Haloferax volcanii (Mullakhanbhai and Larsen 1975) Torreblanca et al. 1986	Haloferax volcanii	IFO 14742	JCM 8879	NBRC 14742	NCCB 85050	NCIMB 2012	strain DS2	VKM B-1768	
+46770	Candidatus Cenarchaeum symbiosum	"Cenarchaeum symbiosum" DeLong and Preston 1996	Cenarchaeum symbiosum	
+54248	ATCC 700455	DSM 5456	Hyperthermus butylicus	Hyperthermus butylicus Zillig et al. 1991	JCM 9403	
+2203	ATCC 27890	DSM 864	JCM 10133	Methanospirillum hungatei corrig. Ferry et al. 1974 (Approved Lists 1980) emend. Iino et al. 2010	Methanospirillum hungatei	Methanospirillum hungatii	NBRC 100397	OCM 16	strain JF-1	
+82076	ATCC 700027	DSM 9790	JCM 10055	NBRC 100828	Picrophilus torridus	Picrophilus torridus Zillig et al. 1996	strain KAW 2/3	
+745377	ATCC BAA-2088	culture-collection:ATCC:BAA:2088	DSM 23470	Natrarchaeobaculum aegyptiacum	Natrarchaeobaculum aegyptiacum ( Zhao et al. 2018) Sorokin et al. 2020	Natrialbaceae archaeon JW/NM-HA 15	Natronolimnobius aegyptiacus	Natronolimnobius aegyptiacus Zhao et al. 2018	Natronolimnobius sp. JW/NM-HA 15	strain JW/NM-HA 15	
+1873524	haloarchaeon HSR6	haloarchaeon HTSR1	Halobacteriaceae archaeon Bari-SA6	Halobacteriaceae archaeon HSR14	Halobacteriaceae archaeon HSR15	Halobacteriaceae archaeon HSR8	Halobacteriaceae archaeon HSR9	Halobacteriaceae archaeon Medee-SA6	Halodesulfurarchaeum formicicum	Halodesulfurarchaeum formicicum Sorokin et al. 2017	JCM 30662	strain HSR6	UNIQEM U983	
+1698287	candidate division MSBL1 archaeon SCGC-AAA385M02	
+54261	DSM 10642	Ferroglobus placidus Hafenbradl et al. 1997	Ferroglobus placidus	strain AEDII12DO	
+1698271	candidate division MSBL1 archaeon SCGC-AAA259O05	
+76887	ANMR 0178	ATCC 700844	Caldivirga maquilingensis Itoh et al. 1999	Caldivirga maquilingensis	DSM 13496	JCM 10307	MCC-UPLB 1200	strain IC-167	
+475088	ATCC BAA-1565	"Candidatus Methanosphaerula palustris" Catillo-Quiroz et al. 2008	Candidatus Methanosphaerula palustris	culture-collection:ATCC:BAA:1565	DSM 19958	Methanosphaerula palustris Cadillo-Quiroz et al. 2009	Methanosphaerula palustris	strain E1-9c	
+2027460	Desulfurococcaceae archaeon AG1	
+667135	Thermoplasmatales archaeon A-plasma	
+83984	ATCC 43576	DSM 4855	Methanocorpusculum labreanum	Methanocorpusculum labreanum Zhao et al. 1989	Methanocorpusculum labreense	OCM 1	OGC 1	strain Z	
+1713725	Methanomassiliicoccales archaeon RumEn M2	
+1514971	CGMCC 1.14959	Halobacteriaceae archaeon SB9	Haloprofundus marisrubri	Haloprofundus marisrubri Zhang et al. 2017	JCM 19565	strain SB9	
+1698274	candidate division MSBL1 archaeon SCGC-AAA261F17	
+54254	DSM 11486	strain M11TL	Thermosphaera aggregans Huber et al. 1998	Thermosphaera aggregans	
+94694	culture-collection:VKM:B:2413 [[Desulfurococcus kamchatkensis]]	culture-collection:VKM:V:2316 [[Desulfurococcus fermentans]]	Desulfurococcus amylolyticus Bonch-Osmolovskaya et al. 2001 emend. Perevalova et al. 2016	Desulfurococcus amylolyticus	Desulfurococcus fermentans Perevalova et al. 2005	Desulfurococcus fermentans	Desulfurococcus kamchatkensis Kublanov et al. 2009	Desulfurococcus kamchatkensis	DSM 16532 [[Desulfurococcus fermentans]]	DSM 18924 [[Desulfurococcus kamchatkensis]]	DSM 3822	JCM 13383 [[Desulfurococcus fermentans]]	JCM 16383 [[Desulfurococcus kamchatkensis]]	JCM 9188	strain 1221n [[Desulfurococcus kamchatkensis]]	strain Z-1312 [[Desulfurococcus fermentans]]	strain Z-533	VKM B-2413 [[Desulfurococcus kamchatkensis]]	VKM V-2316 [[Desulfurococcus fermentans]]	
+1531428	Candidatus Micrarchaeum sp. AZ1	
+1713724	Methanomassiliicoccales archaeon RumEn M1	
+2052935	BCRC AR10051	DSM 107642	Methanolobus halotolerans	Methanolobus halotolerans Shen et al. 2020	Methanolobus sp. SY-01	NBRC 113166	strain SY-01	
+1698279	candidate division MSBL1 archaeon SCGC-AAA382A13	
+1502294	Marine Group I thaumarchaeote SCGC AAA799-O18	
+662757	"Candidatus Micrarchaeum acidiphilum" Baker et al. 2010	Candidatus Micrarchaeum acidiphilum	
+1412872	uncultured archaeon A07HB70	
+1698288	candidate division MSBL1 archaeon SCGC-AAA385M11	
+172049	DSM 12597	strain MM 739	Thermococcus sibiricus Miroshnichenko et al. 2001	Thermococcus sibiricus	
+41673	Acidianus brierleyi	Acidianus brierleyi (Zillig et al. 1980) Segerer et al. 1986	DSM 1651	IFO 15269	JCM 8954	NBRC 15269	Sulfolobus brierleyi	Sulfolobus brierleyi Zillig et al. 1980	
+890420	CGMCC 1.11001	Halobacteriaceae archaeon EB27	Halovenus aranensis Makhdoumi-Kakhki et al. 2012	Halovenus aranensis	IBRC-M 10015	strain EB27	
+1698278	candidate division MSBL1 archaeon SCGC-AAA382A03	
+164451	DSM 14429	JCM 11212	NBRC 100878	strain IC-017	Vulcanisaeta distributa Itoh et al. 2002	Vulcanisaeta distributa	Vulcanisaeta plures	
+242703	Acidilobus saccharovorans Prokofeva et al. 2009	Acidilobus saccharovorans	culture-collection:VKM:B:2471	DSM 16705	strain 345-15	VKM B-2471	
+261391	Thermoplasmatales archaeon Gpl	
+222984	AS 1.3731	culture-collection:AS:1.3731	JCM 12890	Natrinema aibiensis	Natrinema ajinwuensis	Natrinema altuensis	Natrinema altunense	Natrinema altunense Xu et al. 2005	strain AJ2	
+2594798	Nanohaloarchaea archaeon	
+224719	Methanobrevibacter sp. AbM4	
+1698268	candidate division MSBL1 archaeon SCGC-AAA259I14	
+1838285	"Candidatus Syntrophoarchaeum caldarius" Laso-Perez et al. 2016	Candidatus Syntrophoarchaeum caldarius	Euryarchaeota archaeon BOX2	Syntrophoarchaeum caldarius	
+2271	ATCC 35583	DSM 2078	JCM 9277	NBRC 100435	strain Kra 1	Thermoproteus tenax	Thermoproteus tenax Zillig and Stetter 1982	
+54120	DSM 11571	Methanolacinia petrolearia (Ollivier et al. 1998) Goker et al. 2015	Methanolacinia petrolearia	Methanoplanus petrolearius Ollivier et al. 1998	Methanoplanus petrolearius	OCM 486	SEBR 4847	
+387341	CGMCC 1.6204	DSM 18193	Halovivax ruber Castillo et al. 2007	Halovivax ruber	JCM 13892	strain XH-70	
+2668068	Halapricum sp. CBA1109	
+2137776	archaeon SCG-AAA382B04	
+2234	Archaeoglobus fulgidus	Archaeoglobus fulgidus Stetter 1988	ATCC 49558	DSM 4304	JCM 9628	NBRC 100126	strain VC-16	
+2261	ATCC 43587	DSM 3638	JCM 8422	Pyrococcus furiosus Fiala and Stetter 1986	Pyrococcus furiosus	strain Vc 1	
+498846	"Candidatus Korarchaeum cryptofilum" Elkins et al. 2008	Candidatus Korarchaeum cryptofilum	Korarchaeum cryptofilum	
+1431545	Candidatus Halobonum tyrrellensis	"Candidatus Halobonum tyrrellensis" Ugalde et al. 2013	Halobonum tyrrellensis	strain G22	
+312540	Acidiplasma cupricumulans (Hawkes et al. 2008) Golyshina et al. 2009	Acidiplasma cupricumulans	DSM 16651	Ferroplasma cupricumulans Hawkes et al. 2008	Ferroplasma cupricumulans	JCM 13668	strain BH2	
+1412871	uncultured archaeon A07HR67	
+1987488	Acidilobus sp. SCGC AC-742_E15	
+353800	CECT 7116	CGMCC 1.5338	DSM 17691	Halostagnicola larsenii Castillo et al. 2006	Halostagnicola larsenii	JCM 13463	strain XH-48	
+2190	ATCC 43067	CIP 104961	DSM 2661	JCM 10045	Methanocaldococcus jannaschii (Jones et al. 1984) Whitman 2002	Methanocaldococcus jannaschii	Methanococcus jannaschii Jones et al. 1984	Methanococcus jannaschii	NBRC 100440	OCM 168	strain JAL-1	
+145262	ATCC 29096	DSM 1053	JCM 10044	Methanobacterium thermalcaliphilum corrig. Blotevogel et al. 1988	Methanobacterium thermalcaliphilum	Methanobacterium thermautotrophicum corrig. Zeikus and Wolfe 1972 (Approved Lists 1980) emend Touzel et al. 1992	Methanobacterium thermautotrophicum	Methanobacterium thermoalcaliphilum	Methanobacterium thermoautotrophicum	"Methanobacterium thermoautotrophicus" (sic) Zeikus and Wolfe 1972	Methanobacterium thermoformicicum	Methanobacterium thermoformicicum Zhilina and Ilarionov 1986	Methanothermobacter thermautotrophicus	Methanothermobacter thermautotrophicus (Zeikus and Wolfe 1972) Wasserfallen et al. 2000	NBRC 100330	OCM 143	strain Delta H	VKM B-1908	
+2242	ATCC 33170 [[Halobacterium cutirubrum]]	ATCC 33171	"Bacillus halobius ruber" Klebahn 1919	Bacillus halobius ruber	"Bacterium halobium" Petter 1931	Bacterium halobium	BCC 24372 [[Halobacterium piscisalsi]]	CGMCC 1.3519	CIP 104033	culture-collection:BCC:24372 [[Halobacterium piscisalsi]]	culture-collection:VKM:B:1769	culture-collection:VKM:B:1808 [[Halobacterium cutirubrum]]	DSM 3754	DSM 669 [[Halobacterium cutirubrum]]	"Flavobacterium (subgen. Halobacterium) halobium" (Petter 1931) Elazari-Volcani 1940	Flavobacterium (subgen. Halobacterium) halobium	"Flavobacterium (subgen. Halobacterium) salinarium" (Harrison and Kennedy 1922) Elazari-Volcani 1940	Flavobacterium (subgen. Halobacterium) salinarium	Halobacterium cutirubrum (Lochhead 1934) Elazari-Volcani 1957 (Approved Lists 1980)	Halobacterium cutirubrum	Halobacterium halobium (Petter 1931) Elazari-Volcani 1957 (Approved Lists 1980)	Halobacterium halobium	Halobacterium piscisalsi	Halobacterium piscisalsi Yachai et al. 2008	Halobacterium salinarium	Halobacterium salinarum corrig. (Harrison and Kennedy 1922) Elazari-Volcani 1957 (Approved Lists 1980) emend. Gruber et al. 2004	Halobacterium salinarum	Halobacterium sp. BRTH1	Halobacterium sp. HPC1-2	"Halobacter salinaria" (Harrison and Kennedy 1922) Anderson 1954	Halobacter salinaria	JCM 14661 [[Halobacterium piscisalsi]]	JCM 8978	NBRC 102687	NCCB 33035 [[Halobacterium halobium]]	NCCB 81095 [[Halobacterium cutirubrum]]	NCIB 8720 [[Halobacterium halobium]]	NCIB:8720 [[Halobacterium halobium]]	NCIMB 764	NRC 34001 [[Halobacterium cutirubrum]]	NRC 34002	PCU 302 [[Halobacterium piscisalsi]]	PCU:302 [[Halobacterium piscisalsi]]	"Pseudomonas salinaria" Harrison and Kennedy 1922	Pseudomonas salinaria	"Serratia cutirubrum" Lochhead 1934	Serratia cutirubrum	"Serratia salinaria" (Harrison and Kennedy 1922) Bergey et al. 1923	Serratia salinaria	strain HPC1-2 [[Halobacterium piscisalsi]]	VKM B-1769	VKM B-1808 [[Halobacterium cutirubrum]]	
+2303	ATCC 25905	DSM 1728	IFO 15155	JCM 9062	NBRC 15155	strain AMRC-C165	"Thermoplasma acidophila" (sic) Darland et al. 1970	Thermoplasma acidophila	Thermoplasma acidophilum Darland et al. 1970	Thermoplasma acidophilum	
+1200300	culture-collection:VKM:B:2946	DSM 22663	strain 1633	Thermogladius calderae Kochetkova et al. 2016	Thermogladius calderae	"Thermogladius cellulolyticus" Mardanov et al. 2012	Thermogladius cellulolyticus	VKM B-2946	
+2280	ATCC 43588	DSM 3639	JCM 9404	Staphylothermus marinus	Staphylothermus marinus Stetter and Fiala 1986	strain F1	
+1238428	Halorubrum sp. J07HR59	
+563177	"Acidianus hospitalis" Bettstetter et al. 2003	Acidianus hospitalis	
+130048	AS 1.1980	culture-collection:AS:1.1980	Halobiforma nitratireducens	Halobiforma nitratireducens (Xin et al. 2001) Hezayen et al. 2002	JCM 10879	Natronobacterium nitratireducens	Natronobacterium nitratireducens Xin et al. 2001	Natronobacterium sp. C231	strain C231	
+1227480	Halorubrum hochstenium	'Halorubrum hochstenium'	
+1198116	Thermoplasmatales archaeon N05	Thermoplasmatales archaeon SCGC AB-539-N05	
+2005260	Sulfolobales archaeon SCGC AB-777_K09	
+1849261	Candidatus Altiarchaeales archaeon WOR_SM1_SCG	

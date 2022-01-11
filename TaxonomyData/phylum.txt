@@ -1,12 +1,12 @@
-28889	Crenarchaeota
-28890	Euryarchaeota
-192989	Nanoarchaeota
-2283796	Candidatus Thermoplasmatota
-928852	Candidatus Bathyarchaeota
-1462422	Candidatus Parvarchaeota
-651137	Thaumarchaeota
-1801631	Candidatus Micrarchaeota
-1655434	Candidatus Lokiarchaeota
-1462430	Candidatus Nanohaloarchaeota
-51967	Candidatus Korarchaeota
-2582935	Candidatus Altiarchaeota
+28889	Crenarchaeota	Crenarchaeota Garrity and Holt 2002	"Crenarchaeota" Woese et al. 1990	crenarchaeotes	Eocyta	eocytes	Thermoproteaeota Oren et al. 2015	Thermoproteaeota	Thermoproteota	
+28890	Euryarchaeota Garrity and Holt 2002	Euryarchaeota	"Euryarchaeota" Woese et al. 1990	euryarchaeotes	Methanobacteraeota Oren et al. 2015	Methanobacteraeota	Methanobacteriota	
+192989	Nanoarchaeota Huber et al. 2002	Nanoarchaeota	
+2283796	"Candidatus Thermoplasmatota" Rinke et al. 2019	Candidatus Thermoplasmatota	Diaforarchaea group	Diaforarchaea	Diaforarchaea Petijean et al. 2015	
+928852	Bathyarchaeota Meng et al. 2014	Bathyarchaeota	Candidatus Bathyarchaeota	Group I.3	MCG	miscellaneous Crenarchaeota group	miscellaneous Crenarchaeotal group	miscellaneous Crenarchaeotic group	Terrestrial Miscellaneous Crenarchaeotic Group	
+1462422	Candidatus Parvarchaeota	Parvarchaeota	Parvarchaeota Rinke et al. 2013	
+651137	Aigarchaeota	Aigarchaeota Nunoura et al. 2011	Nitrososphaeraeota Oren et al. 2015	Nitrososphaeraeota	Nitrososphaerota	Thaumarchaeota Brochier-Armanet et al. 2008	Thaumarchaeota	
+1801631	Candidatus Micrarchaeota Baker and Dick 2013	Candidatus Micrarchaeota	
+1655434	Candidatus Lokiarchaeota	Lokiarchaeota	Lokiarchaeota Spang et al. 2015	
+1462430	"Candidatus Nanohaloarchaeota" Rinke et al. 2013	Candidatus Nanohaloarchaeota	
+51967	Candidatus Korarchaeota	Korarchaeota Barns et al. 1996	Korarchaeota	Xenarchaea	Xenarchaeota	
+2582935	Altiarchaeota	Candidatus Altiarchaeota Probst et al. 2018	Candidatus Altiarchaeota	

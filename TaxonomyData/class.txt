@@ -1,17 +1,17 @@
-183924	Thermoprotei
-183968	Thermococci
-183988	Methanopyri
-2885752	Nanoarchaeia
-224756	Methanomicrobia
-183963	Halobacteria
-183925	Methanobacteria
-183967	Thermoplasmata
-1643678	Nitrososphaeria
-183939	Methanococci
-183980	Archaeoglobi
-2599185	Candidatus Poseidoniia
-171536	Methanonatronarchaeia
-1051663	Nanohaloarchaea
-2798274	Conexivisphaeria
-2856052	Candidatus Nanohalobia
-2885733	Candidatus Micrarchaeia
+183924	Crenarchaeota Cavalier-Smith 2002	Crenarchaeota	Thermoprotea Oren et al. 2015	Thermoprotea	Thermoprotei Reysenbach 2002	Thermoprotei	
+183968	Protoarchaea Cavalier-Smith 2002	Protoarchaea	Thermococci	Thermococci Zillig and Reysenbach 2002	
+183988	Methanopyri Garrity and Holt 2002	Methanopyri	
+2885752	Nanoarchaeia	"Nanoarchaeia" Vazquez-Campos et al. 2021	
+224756	Methanogen Class II	Methanomicrobia	'Methanomicrobia'	
+183963	Halobacteria Grant et al. 2002 emend. Gupta et al. 2015	Halobacteria	"Halomebacteria" Cavalier-Smith 1986	Halomebacteria Cavalier-Smith 2002	Halomebacteria	
+183925	Archaeobacteria Murray 1988	Archaeobacteria	Methanobacteria Boone 2002	Methanobacteria	
+183967	Thermoplasmata Reysenbach 2002	Thermoplasmata	
+1643678	Nitrososphaeria	Nitrososphaeria Stieglmeier et al. 2014	
+183939	Methanococci Boone 2002	Methanococci	Methanothermea Cavalier-Smith 2002	Methanothermea	
+183980	Archaeoglobea Cavalier-Smith 2002	Archaeoglobea	Archaeoglobi Garrity and Holt 2002	Archaeoglobi	
+2599185	"Candidatus Poseidoniia" Rinke et al. 2019	Candidatus Poseidoniia	Ca. Poseidoniia	Poseidoniia	
+171536	Methanonatronarchaeia	Methanonatronarchaeia Sorokin et al. 2018	SA1 group	
+1051663	"Nanohaloarchaea" Narasingarao et al. 2012	Nanohaloarchaea	
+2798274	Conexivisphaeria Kato et al. 2021	Conexivisphaeria	
+2856052	"Candidatus Nanohalobia" La Cono et al. 2020	Candidatus Nanohalobia	
+2885733	Candidatus Micrarchaeia	"Candidatus Micrarchaeia" Vazquez-Campos et al. 2021	

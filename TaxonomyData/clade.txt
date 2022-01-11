@@ -1,10 +1,10 @@
-1783275	TACK group
-1783276	DPANN group
-2290931	Stenosarchaea group
-2283794	Methanomada group
-215777	candidate division MSBL1
-1803510	DHVE2 group
-1935183	Asgard group
-588816	ANME-2 cluster
-905826	Marine Group I
-1117720	Candidatus Haloredivivus
+1783275	TACK group	
+1783276	DPANN group	
+2290931	Stenosarchaea Aouad et al. 2018	Stenosarchaea	Stenosarchaea group	
+2283794	Methanogen Class I	Methanomada	Methanomada group	"Methanomada" Petitjean et al. 2015	
+215777	candidate division MSBL1	
+1803510	"Aciduliprofundales"	deep-sea hydrothermal vent Euryarchaeota group 2	DHVE2 group	
+1935183	Asgardarchaeota	Asgard group	
+588816	ANaerobic MEthanotrophs	ANME-2 cluster	ANME group	
+905826	Marine Group I	
+1117720	"Candidatus Haloredivivus" Ghai et al. 2011	Candidatus Haloredivivus	Haloredivivus	
