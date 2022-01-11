@@ -485,7 +485,6 @@ if option != "":
                         if tax_name in tree_search_file.keys():
                             scient_name = tax_name
             children = tree_search_file[scient_name]
-            st.write(children)
             if "("+ scient_name + ")" in children[0]: 
                 stop = True
             else:
