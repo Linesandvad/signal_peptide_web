@@ -455,7 +455,7 @@ if option != "":
         children = tree_search_file[scient_name]
         children[0] = children[0] + " ("+ scient_name + ")"
         counter += 1
-        st.sidebar.header("Tree-sctructured search for undergroups")
+        st.sidebar.header("Tree-structured search for undergroups")
         option = st.sidebar.radio(
         "If you would like to look into one of the groups belonging to "+ scient_name + ", click on this groups' name.", children,
         key = counter)
