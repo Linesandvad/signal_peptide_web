@@ -7,6 +7,7 @@ import os
 import matplotlib.pyplot as plt
 import math
 import sys
+import pickle
 
 #Remember to by en main directory with all subdirectories
 
@@ -96,7 +97,7 @@ def CountSPs(filename):
         #Collect Sec SPIII region lengths
         elif line.split()[-1] == "PILIN":
             #Filter wrongly predicted SPs from analyses
-            if line.split()[3] == "0" and line.split()[2] == "0" and line.split[1] != "0":
+            if line.split()[3] == "0" and line.split()[2] == "0":
                 #Append region length observations to separate lists
                 n_region_pilin.append(int(line.split()[1]))
                 count_right += 1
@@ -144,56 +145,120 @@ def MakeHistograms(filename, sp_type, group):
             #Display histogram in streamlit app
             st.pyplot(fig)
 
+    #Use this function if all region counts in a region for a group is the same (rare case)
+    def __HistogramsOneLength(region, sp_type, group, region_lengths, hist_col):
+        """Make histograms, display to streamlit"""
+        #Sort region lengths from shortest to longest
+        region_lengths.sort()
+        #Only produce non-empty histograms
+        if len(region_lengths) != 0: 
+            #Define number of bins (1 bin for each integer)
+            n = 1
+            plt.style.use('ggplot')
+            fig, ax = plt.subplots()
+            #Create histogram
+            ax.hist(region_lengths, bins = n, density = True, color = hist_col)
+            #Create histogram title
+            ax.set_title("Distribution of "+ sp_type + " " + region + "-region lengths \n for taxonomical group " + group)
+            #Display histogram in streamlit app
+            st.pyplot(fig)
+
     #Display histograms of SP region lengths of the selected SP type
     #Displaying histograms for Sec SPI
     if sp_type == "SP":
         if len(n_region_sp) == 0:
-            st.write("No signal peptides of the chosen type were found for this group.")
-        elif len(n_region_sp) > 0 and len(n_region_sp) <= 5:
-            st.write("Only 5 or less signal peptides of the chosen type were found for this group.")
+            st.info("No signal peptides of the chosen type were found for this group.")
         else:
-            __Histograms("n", "sec SPI", group, n_region_sp, 1, "blue")
-            __Histograms("h", "sec SPI", group, h_region_sp, 1, "green")
-            __Histograms("c", "sec SPI", group, c_region_sp, 1, "red")
+            try:
+                __Histograms("n", "sec SPI", group, n_region_sp, 1, "blue")
+            except ValueError as err:
+                __HistogramsOneLength("n", "sec SPI", group, n_region_sp, "blue")
+                if len(n_region_sp) > 1:
+                    st.info("All Sec SPI n-regions within this group consist of " + str(n_region_sp[0]) + " residues.")
+            try:
+                __Histograms("h", "sec SPI", group, h_region_sp, 1, "green")
+            except ValueError as err:
+                __HistogramsOneLength("h", "sec SPI", group, h_region_sp, "green")
+                if len(h_region_sp) > 1:
+                    st.info("All Sec SPI h-regions within this group consist of " + str(h_region_sp[0]) + " residues.")
+            try:
+                __Histograms("c", "sec SPI", group, c_region_sp, 1, "red")
+            except ValueError as err:
+                __HistogramsOneLength("c", "sec SPI", group, c_region_sp, "red")
+                if len(c_region_sp) > 1:
+                    st.info("All Sec SPI c-regions within this group consist of " + str(c_region_sp[0]) + " residues.")
+    
     #Displaying histograms for Sec SPII
     elif sp_type == "LIPO":
         if len(n_region_lipo) == 0:
-            st.write("No signal peptides of the chosen type were found for this group.")
-        elif len(n_region_lipo) > 0 and len(n_region_lipo) <= 5:
-            st.write("Only 5 or less signal peptides of the chosen type were found for this group.")
+            st.info("No signal peptides of the chosen type were found for this group.")
         else:
-            __Histograms("n", "sec SPII", group, n_region_lipo, 1, "blue")
-            __Histograms("h", "sec SPII", group, h_region_lipo, 1, "green")
+            try:
+                __Histograms("n", "sec SPII", group, n_region_lipo, 1, "blue")
+            except ValueError as err:
+                __HistogramsOneLength("n", "sec SPII", group, n_region_lipo, "blue")
+                if len(n_region_lipo) > 1:
+                    st.info("All Sec SPII n-regions within this group consist of " + str(n_region_lipo[0]) + " residues.")
+            try:
+                __Histograms("h", "sec SPII", group, h_region_lipo, 1, "green")
+            except ValueError as err:
+                __HistogramsOneLength("h", "sec SPII", group, h_region_lipo, "green")
+                if len(h_region_lipo) > 1:
+                    st.info("All Sec SPII h-regions within this group consist of " + str(h_region_lipo[0]) + " residues.")
+    
     #Displaying histograms for Tat SPI
     elif sp_type == "TAT":
         if len(n_region_tat) == 0:
-            st.write("No signal peptides of the chosen type were found for this group.")
-        elif len(n_region_tat) > 0 and len(n_region_tat) <= 5:
-            st.write("Only 5 or less signal peptides of the chosen type were found for this group.")
+            st.info("No signal peptides of the chosen type were found for this group.")
         else:
-            __Histograms("n", "tat SPI", group, n_region_tat, 1, "blue")
-            __Histograms("h", "tat SPI", group, h_region_tat, 1, "green")
-            __Histograms("c", "tat SPI", group, c_region_tat, 1, "red")
+            try:
+                __Histograms("n", "tat SPI", group, n_region_tat, 1, "blue")
+            except ValueError as err:
+                __HistogramsOneLength("n", "tat SPI", group, n_region_tat, "blue")
+                if len(n_region_tat) > 1:
+                    st.info("All Tat SPI n-regions within this group consist of " + str(n_region_tat[0]) + " residues.")
+            try:
+                __Histograms("h", "tat SPI", group, h_region_tat, 1, "green")
+            except ValueError as err:
+                __HistogramsOneLength("h", "tat SPI", group, h_region_tat, "green")
+                if len(h_region_tat) > 1:
+                    st.info("All Tat SPI h-regions within this group consist of " + str(h_region_tat[0]) + " residues.")
+            try:
+                __Histograms("c", "tat SPI", group, c_region_tat, 1, "red")
+            except ValueError as err:
+                __HistogramsOneLength("c", "tat SPI", group, c_region_tat, "red")
+                if len(c_region_tat) > 1:
+                    st.info("All Tat SPI c-regions within this group consist of " + str(c_region_tat[0]) + " residues.")
+    
     #Displaying histograms for Tat SPII
     elif sp_type == "TATLIPO":
         if len(n_region_tatlipo) == 0:
-            st.write("No signal peptides of the chosen type were found for this group.")
-        elif len(n_region_tatlipo) > 0 and len(n_region_tatlipo) <= 5:
-            st.write("Only 5 or less signal peptides of the chosen type were found for this group.")
+            st.info("No signal peptides of the chosen type were found for this group.")
         else:
             try:
                 __Histograms("n", "tat SPII", group, n_region_tatlipo, 1, "blue")
+            except ValueError as err:
+                __HistogramsOneLength("n", "tat SPII", group, n_region_tatlipo, "blue")
+                if len(n_region_tatlipo) > 1:
+                    st.info("All Tat SPII n-regions within this group consist of " + str(n_region_tatlipo[0]) + " residues.")
+            try:
                 __Histograms("h", "tat SPII", group, h_region_tatlipo, 1, "green")
             except ValueError as err:
-                st.write("Did not manage to produce histogram.")
+                __HistogramsOneLength("h", "tat SPII", group, h_region_tatlipo, "green")
+                if len(h_region_tatlipo) > 1:
+                    st.info("All Tat SPII h-regions within this group consist of " + str(h_region_tatlipo[0]) + " residues.")
+    
     #Displaying histograms for Sec SPIII
     elif sp_type == "PILIN":
         if len(n_region_pilin) == 0:
-            st.write("No signal peptides of the chosen type were found for this group.")
-        elif len(n_region_pilin) > 0 and len(n_region_pilin) <= 5:
-            st.write("Only 5 or less signal peptides of the chosen type were found for this group.")
+            st.info("No signal peptides of the chosen type were found for this group.")
         else:
-            __Histograms("n", "sec SPIII", group, n_region_pilin, 1, "blue")
+            try:
+                __Histograms("n", "sec SPIII", group, n_region_pilin, 1, "blue")
+            except ValueError as err:
+                __HistogramsOneLength("n", "sec SPIII", group, n_region_pilin, "blue")
+                if len(n_region_pilin) > 1:
+                    st.info("All Sec SPIII signal peptides within this group contains " + str(n_region_pilin[0]) + " residues.")
 
 
 def ExtractProteinCounts(filename):
@@ -211,11 +276,25 @@ def ExtractProteinCounts(filename):
     infile.readline()
     data_line = infile.readline()
     prot_count = data_line.split("\t")[1]
+    proteome_count = data_line.split("\t")[2]
 
     infile.close()
     os.chdir("../")
 
-    return prot_count
+    return prot_count, proteome_count
+
+
+def VisualizeProtCounts(tax_id):
+    """Display protein- and proteome counts for a given taxonomical group"""
+    #Save protein and proteome counts
+    prot_count = ExtractProteinCounts(tax_id+"_SP_types_counts.tab")[0]
+    proteome_count = ExtractProteinCounts(tax_id+"_SP_types_counts.tab")[1]
+
+    proteome, protein = st.columns(2)
+
+    proteome.metric("Proteome count", proteome_count) 
+    protein.metric("Protein count", prot_count) 
+
 
 
 def VisualizeSPCounts(tax_id):
@@ -226,8 +305,6 @@ def VisualizeSPCounts(tax_id):
     n_region_tat = CountSPs(tax_id+"_SP_regions_counts.tab")[5]
     n_region_tatlipo = CountSPs(tax_id+"_SP_regions_counts.tab")[8]
     n_region_pilin = CountSPs(tax_id+"_SP_regions_counts.tab")[10]
-
-    #prot_count = ExtractProteinCounts(tax_id+"_SP_types_counts.tab")
 
     #Setup in streamlit
     sp, lipo, tat, tatlipo, pilin = st.columns(5)
@@ -248,7 +325,7 @@ def VisualizeSPFrequencies(tax_id):
     n_region_pilin = CountSPs(tax_id+"_SP_regions_counts.tab")[10]
 
     #Save total protein count for phylogenetic group
-    prot_count = ExtractProteinCounts(tax_id+"_SP_types_counts.tab")
+    prot_count = ExtractProteinCounts(tax_id+"_SP_types_counts.tab")[0]
     
     try:
         #Setup in streamlit
@@ -270,8 +347,15 @@ def VisualizeSPFrequencies(tax_id):
         by the total number of proteins in this phylogenetic group. The total number 
         of proteins is calculated based on the number of proteins found in the proteomes 
         belonging to this phylogenetic group. The total number of
-        proteins in this group is """, prot_count, """.""")
+        proteins is """, prot_count, """ in this group.""")
 
+def TreeSearchDict(domain):
+    infile_dict = open(domain+"_tax_groups_children.pk", "rb")
+    tree_search_file = pickle.load(infile_dict)
+
+    return tree_search_file
+
+tree_search_file = TreeSearchDict("archaea")
 
 def ExtractTaxonomyData():
     os.chdir("./TaxonomyData")
@@ -293,9 +377,16 @@ def ExtractTaxonomyData():
         #Each line in file corresponds to the tax ID and name of a taxonomical group on that rank
         for line in infile:
             taxa = line.split("\t")             #Split line into Tax ID and name
+            #print(taxa)
             #Add information to dict about taxonomical groups
             #This adds; tax ID as key, list of the tax group scientific name and tax rank as value
-            tax_data[taxa[0]] = [taxa[-1][:-1], files_tax_ranks[i][:-3]]
+            tax_data[taxa[0]] = [files_tax_ranks[i][:-4]]
+            if len(taxa) > 2:
+                for j in range(len(taxa)-2):
+                    tax_data[taxa[0]].append(taxa[j+1])
+            
+            elif len(taxa) == 2:
+                tax_data[taxa[0]].append(taxa[-1][:-1])
 
             #append all tax IDs to list
             all_taxa.append(taxa[0])
@@ -303,30 +394,19 @@ def ExtractTaxonomyData():
 
             #append all tax group names to list, except the ones without rank
             if files_tax_ranks[i] != "no rank.txt":
-                all_taxa.append(taxa[-1][:-1])
+                if len(taxa) > 2:
+                    for j in range(len(taxa)-2):
+                        all_taxa.append(taxa[j+1])
+
+                elif len(taxa) == 2:
+                    all_taxa.append(taxa[-1][:-1])
 
         infile.close()
 
-    os.chdir("../")
 
     all_taxa = tuple(all_taxa)
-
+    os.chdir("../")
     return all_taxa, tax_data
-
-ExtractTaxonomyData()
-
-#def MakeTaxDict(tax_names):
-#    infile = open(tax_names, "r")
-#    count = 0
-#    for line in infile:
-#        count += 1
-#        print(line.split("\t"))
-#        if count > 20:
-#            break
-#
-#    infile.close()
-
-#MakeTaxDict("names.dmp")
 
 
 all_taxa = ExtractTaxonomyData()[0]
@@ -339,7 +419,6 @@ tax_data = ExtractTaxonomyData()[1]
 
 st.title("Signal peptides across the Tree of Life")
 
-
 option = st.selectbox(
      'Select the phylogenetic group you wish to view analyses for',
      all_taxa)
@@ -351,37 +430,110 @@ with st.expander("Further information"):
          https://www.ncbi.nlm.nih.gov/taxonomy
      """)
 
+
 for key, value in tax_data.items():
-    if option == value[0]:
-        scient_name = option
+    if option in value[1:]:
+        name = option
         tax_id = key
+        #Define scientific name for tree search
+        for tax_name in value:
+            if tax_name in tree_search_file.keys():
+                scient_name = tax_name
     elif option == key:
         tax_id = option
-        scient_name = value[0]
+        name = value[1]
+        #Define scientific name for tree search
+        for tax_name in value:
+            if tax_name in tree_search_file.keys():
+                scient_name = tax_name
 
+counter = 0
 if option != "":
-    st.header('You are viewing the analyses for the phylogenetic group ' + scient_name + ' ('+ tax_id + ')')
+    #Make Tree-like structure in sidebar if possible
+    #Make dict where each Tax ID is key with its' children as values for Tree-like structure in sidebar
+    try:
+        children = tree_search_file[scient_name]
+        children[0] = children[0] + " ("+ scient_name + ")"
+        counter += 1
+        st.sidebar.header("Tree-sctructured search for undergroups")
+        option = st.sidebar.radio(
+        "If you would like to look into one of the groups belonging to "+ scient_name + ", click on this groups' name.", children,
+        key = counter)
+        with st.sidebar.expander("Further information"):
+            st.write("""
+            Here you can dig further into one of the groups belonging to """ + scient_name + """ if you wish so. When clicking 
+            on one of these groups, the sidebar will change and direct you into this undergroup, showing analyses for this group
+            and letting you explore further undergroups if you wish to. 
+         """)
+        
+        while option != children[0] and len(children) > 1:
+            for key, value in tax_data.items():
+                if option in value[1:]:
+                    name = option
+                    tax_id = key
+                    #Define scientific name for tree search
+                    for tax_name in value:
+                        if tax_name in tree_search_file.keys():
+                            scient_name = tax_name
+                elif option == key:
+                    tax_id = option
+                    name = value[1]
+                    #Define scientific name for tree search
+                    for tax_name in value:
+                        if tax_name in tree_search_file.keys():
+                            scient_name = tax_name
+            children = tree_search_file[scient_name]
+            children[0] = children[0] + " ("+ scient_name + ")"
+            counter += 1
+            st.sidebar.subheader("Currently viewing "+ scient_name)
+            option = st.sidebar.radio("Please click on an undergroup, to see the analyses of this group.", children,
+            key = counter)
+            for key, value in tax_data.items():
+                if option in value[1:]:
+                    name = option
+                    tax_id = key
+                    #Define scientific name for tree search
+                    for tax_name in value:
+                        if tax_name in tree_search_file.keys():
+                            scient_name = tax_name
+                elif option == key:
+                    tax_id = option
+                    name = value[1]
+                    #Define scientific name for tree search
+                    for tax_name in value:
+                        if tax_name in tree_search_file.keys():
+                            scient_name = tax_name
 
-    st.subheader("Counts of each signal peptide type")
-    VisualizeSPCounts(tax_id)
+        st.header('You are viewing the analyses for the phylogenetic group ' + scient_name + ' ('+ tax_id + ')')
 
-    st.subheader("Fraction of proteins tagged with each signal peptide type")
-    VisualizeSPFrequencies(tax_id)
+        st.subheader("Proteome and protein counts")
+        VisualizeProtCounts(tax_id)
 
-    select_sp = st.radio("Please select the signal peptide type you wish to explore", ('Sec SPI', "Sec SPII", "Tat SPI", "Tat SPII", "Sec SPIII"))
-    with st.expander("Further information"):
-     st.write("""
-         Write briefly about the SP types?
-     """)
-    st.subheader("Histograms of region length distributions")
-    if select_sp == "Sec SPI":
-        MakeHistograms(tax_id+"_SP_regions_counts.tab", "SP", group = scient_name)
-    elif select_sp == "Sec SPII":
-        MakeHistograms(tax_id+"_SP_regions_counts.tab", "LIPO", group = scient_name)
-    elif select_sp == "Sec SPIII":
-        MakeHistograms(tax_id+"_SP_regions_counts.tab", "PILIN", group = scient_name)
-    elif select_sp == "Tat SPI":
-        MakeHistograms(tax_id+"_SP_regions_counts.tab", "TAT", group = scient_name)
-    elif select_sp == "Tat SPII":
-        MakeHistograms(tax_id+"_SP_regions_counts.tab", "TATLIPO", group = scient_name)
+        st.subheader("Counts of each signal peptide type")
+        VisualizeSPCounts(tax_id)
+
+        st.subheader("Fraction of proteins tagged with each signal peptide type")
+        VisualizeSPFrequencies(tax_id)
+
+        select_sp = st.radio("Please select the signal peptide type you wish to explore", ('Sec SPI', "Sec SPII", "Tat SPI", "Tat SPII", "Sec SPIII"))
+        with st.expander("Further information"):
+         st.write("""
+             Write briefly about the SP types?
+         """)
+        st.subheader("Histograms of region length distributions")
+        if select_sp == "Sec SPI":
+            MakeHistograms(tax_id+"_SP_regions_counts.tab", "SP", group = scient_name)
+        elif select_sp == "Sec SPII":
+            MakeHistograms(tax_id+"_SP_regions_counts.tab", "LIPO", group = scient_name)
+        elif select_sp == "Sec SPIII":
+            MakeHistograms(tax_id+"_SP_regions_counts.tab", "PILIN", group = scient_name)
+        elif select_sp == "Tat SPI":
+            MakeHistograms(tax_id+"_SP_regions_counts.tab", "TAT", group = scient_name)
+        elif select_sp == "Tat SPII":
+            MakeHistograms(tax_id+"_SP_regions_counts.tab", "TATLIPO", group = scient_name)
+
+
+    except NameError as err:
+        st.warning('The program was not able to evoke analyses of ' + option + '. Please try with another taxonomical group or organism name.')
+
 
