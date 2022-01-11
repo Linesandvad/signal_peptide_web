@@ -465,8 +465,10 @@ if option != "":
             on one of these groups, the sidebar will change and direct you into this undergroup, showing analyses for this group
             and letting you explore further undergroups if you wish to. 
          """)
+
+        stop = False
         
-        while option != children[0] and len(children) > 1:
+        while option != children[0] and not stop:
             for key, value in tax_data.items():
                 if option in value[1:]:
                     name = option
@@ -483,26 +485,30 @@ if option != "":
                         if tax_name in tree_search_file.keys():
                             scient_name = tax_name
             children = tree_search_file[scient_name]
-            children[0] = children[0] + " ("+ scient_name + ")"
-            counter += 1
-            st.sidebar.subheader("Currently viewing "+ scient_name)
-            option = st.sidebar.radio("Please click on an undergroup, to see the analyses of this group.", children,
-            key = counter)
-            for key, value in tax_data.items():
-                if option in value[1:]:
-                    name = option
-                    tax_id = key
-                    #Define scientific name for tree search
-                    for tax_name in value:
-                        if tax_name in tree_search_file.keys():
-                            scient_name = tax_name
-                elif option == key:
-                    tax_id = option
-                    name = value[1]
-                    #Define scientific name for tree search
-                    for tax_name in value:
-                        if tax_name in tree_search_file.keys():
-                            scient_name = tax_name
+            st.write(children)
+            if "("+ scient_name + ")" in children[0]: 
+                stop = True
+            else:
+                children[0] = children[0] + " ("+ scient_name + ")"
+                counter += 1
+                st.sidebar.subheader("Currently viewing "+ scient_name)
+                option = st.sidebar.radio("Please click on an undergroup, to see the analyses of this group.", children,
+                key = counter)
+                for key, value in tax_data.items():
+                    if option in value[1:]:
+                        name = option
+                        tax_id = key
+                        #Define scientific name for tree search
+                        for tax_name in value:
+                            if tax_name in tree_search_file.keys():
+                                scient_name = tax_name
+                    elif option == key:
+                        tax_id = option
+                        name = value[1]
+                        #Define scientific name for tree search
+                        for tax_name in value:
+                            if tax_name in tree_search_file.keys():
+                                scient_name = tax_name
 
         st.header('You are viewing the analyses for the phylogenetic group ' + scient_name + ' ('+ tax_id + ')')
 
