@@ -4,25 +4,25 @@
 2266	Thermoproteales	Thermoproteales Zillig and Stetter 1982 emend. Burggraf et al. 1997	
 2281	Sulfolobales	Sulfolobales Stetter 1989	
 1890940	"Nanoarchaeales" Huber et al. 2011	Nanoarchaeales	
-94695	"Halomebacteria" Cavalier-Smith 1986	Halomebacteria Cavalier-Smith 2002	Halomebacteria	Methanosarcinales Boone et al. 2002	Methanosarcinales	
+94695	"Halomebacteria" Cavalier-Smith 1986	Halomebacteria Cavalier-Smith 2002	Methanosarcinales Boone et al. 2002	Methanosarcinales	
 1644060	Natrialbales Gupta et al. 2015	Natrialbales	
 2158	Methanobacteriales Balch and Wolfe 1981	Methanobacteriales	
 2301	Thermoplasmatales Reysenbach 2002	Thermoplasmatales	
 1644055	Haloferacales Gupta et al. 2015	Haloferacales	
 2191	Methanomicrobiales Balch and Wolfe 1981	Methanomicrobiales	
-2235	"Haloarchaeales" DasSarma and DasSarma 2008	Haloarchaeales	Halobacteriales Grant and Larsen 1989 emend. Gupta et al. 2015	Halobacteriales	
+2235	"Haloarchaeales" DasSarma and DasSarma 2008	Haloarchaeales (synonym)	Halobacteriales Grant and Larsen 1989 emend. Gupta et al. 2015	Halobacteriales	
 1033996	Nitrososphaerales	Nitrososphaerales Stieglmeier et al. 2014	"Nitrososphaerales" Tourna et al. 2011	
 1968909	"Candidatus Nitrosocaldales" Qin et al. 2017	Candidatus Nitrosocaldales	
-1235850	Methanomassiliicoccales Iino et al. 2013	Methanomassiliicoccales	"Methanoplasmatales" Paul et al. 2012	Methanoplasmatales	
+1235850	Methanomassiliicoccales Iino et al. 2013	Methanomassiliicoccales	"Methanoplasmatales" Paul et al. 2012	Methanoplasmatales (synonym)	
 2182	Methanococcales Balch and Wolfe 1981	Methanococcales	
-114380	Desulfurococcales Huber and Stetter 2002	Desulfurococcales	Igneococcales	
+114380	Desulfurococcales Huber and Stetter 2002	Desulfurococcales	Igneococcales (synonym)	
 2231	Archaeoglobales Huber and Stetter 2002	Archaeoglobales	"Archaeoglobales" Stetter 1989	
-133814	"Candidatus Poseidoniales" Rinke et al. 2019	Candidatus Poseidoniales	Ca. Poseidoniales	Marine Group II	Poseidoniales	
+133814	"Candidatus Poseidoniales" Rinke et al. 2019	Candidatus Poseidoniales	Ca. Poseidoniales	Marine Group II (synonym)	Poseidoniales	
 2202723	Methanonatronarchaeales	Methanonatronarchaeales Sorokin et al. 2018	
-31932	archaeal group 1	Archaeobacterium group 1	marine archaeal group 1	marine group1 Crenarchaeota	marine group1 Thaumarchaeota	"Nitrosopumilales" Konneke et al. 2005	Nitrosopumilales Qin et al. 2017	Nitrosopumilales	
+31932	archaeal group 1 (synonym)	Archaeobacterium group 1 (synonym)	marine archaeal group 1 (synonym)	marine group1 Crenarchaeota (synonym)	marine group1 Thaumarchaeota (synonym)	"Nitrosopumilales" Konneke et al. 2005	Nitrosopumilales Qin et al. 2017	Nitrosopumilales	
 871006	Acidilobales Prokofeva et al. 2009	Acidilobales	
 685948	Fervidicoccales Perevalova et al. 2010	Fervidicoccales	
-588814	ANME-1 cluster	"Methanophagales" Adam et al. 2017	Methanophagales	
+588814	ANME-1 cluster (synonym)	"Methanophagales" Adam et al. 2017	Methanophagales	
 570264	Methanocellales Sakai et al. 2008	Methanocellales	
 2798275	Conexivisphaerales Kato et al. 2021	Conexivisphaerales	
 2856053	"Candidatus Nanohalobiales" La Cono et al. 2020	Candidatus Nanohalobiales	

@@ -12,7 +12,7 @@
 2678336	unclassified Haloferacales	
 2631942	unclassified Haloterrigena	
 2642239	unclassified Halorubrum	
-48510	Archaea environmental samples	environmental samples	
+48510	Archaea environmental samples (synonym)	environmental samples	
 2599254	unclassified Candidatus Poseidoniales	
 2641160	unclassified Sulfolobus	
 2627676	unclassified Methanobacterium	

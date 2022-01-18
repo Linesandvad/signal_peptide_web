@@ -1,0 +1,113 @@
+368408	Thermofilum pendens Hrk 5	Thermofilum pendens strain Hrk 5	Thermofilum pendens str. Hrk 5	
+69014	Pyrococcus sp. KOD1 (synonym)	Pyrococcus sp. (strain KOD1) (synonym)	Thermococcus kodakaraensis KOD1 (synonym)	Thermococcus kodakarensis KOD1	Thermococcus kodakarensis strain KOD1	Thermococcus kodakarensis str. KOD1	
+190192	Methanopyrus kandleri AV19	Methanopyrus kandleri str. AV19	
+178306	Pyrobaculum aerophilum IM2	Pyrobaculum aerophilum strain IM2	Pyrobaculum aerophilum str. IM2	
+273057	Saccharolobus solfataricus P2	Sulfolobus solfataricus P2 (synonym)	
+228908	Microarchaeum sp. Kin4-M	Nanoarchaeum equitans Kin4-M	Nanoarchaeum equitans str. Kin4-M (synonym)	
+188937	Methanosarcina acetivorans C2A	Methanosarcina acetivorans str. C2A	
+797303	Natrinema pellirubrum DSM 15624	Natrinema pellirubrum JCM 10476 (synonym)	Natrinema pellirubrum NCIMB 786 (synonym)	Natrinema pellirubrum strain DSM 15624	Natrinema pellirubrum str. DSM 15624	
+339860	Methanosphaera stadtmanae ATCC 43021 (synonym)	Methanosphaera stadtmanae DSM 3091	Methanosphaera stadtmanae MCB-3 (synonym)	Methanosphaera stadtmanae strain DSM 3091	Methanosphaera stadtmanae str. DSM 3091	
+333146	Ferroplasma acidarmanus fer1	Ferroplasma acidarmanus strain fer1	Ferroplasma acidarmanus str. fer1	
+259564	Methanococcoides burtonii DSM 6242	Methanococcoides burtonii str. DSM 6242	
+1201294	Methanoculleus bourgensis DSM 3045 (synonym)	Methanoculleus bourgensis MS2	
+1227455	Halococcus saccharolyticus DSM 5350	
+671065	Metallosphaera sp. MK1 (synonym)	Metallosphaera yellowstonensis MK1	Metallosphaera yellowstonensis strain MK1	Metallosphaera yellowstonensis str. MK1	
+399549	Metallosphaera sedula DSM 5348	Metallosphaera sedula IFO 15509 (synonym)	Metallosphaera sedula JCM 9185 (synonym)	Metallosphaera sedula NBRC 15509 (synonym)	Metallosphaera sedula strain DSM 5348	Metallosphaera sedula str. DSM 5348	
+348780	Natronomonas pharaonis ATCC 35678 (synonym)	Natronomonas pharaonis DSM 2160	Natronomonas pharaonis Gabara (synonym)	Natronomonas pharaonis JCM 8858 (synonym)	Natronomonas pharaonis strain DSM 2160	Natronomonas pharaonis str. DSM 2160	
+662760	Candidatus Parvarchaeum acidiphilum ARMAN-4	
+1227499	Natronolimnobius innermongolicus JCM 12255 (synonym)	Natronolimnohabitans innermongolicus JCM 12255	
+926571	Candidatus Nitrososphaera sp. EN76 (synonym)	Nitrososphaera viennensis EN76	Nitrososphaera viennensis strain EN76	Nitrososphaera viennensis str. EN76	
+349307	Methanosaeta thermophila PT	Methanothrix thermoacetophila PT	Methanothrix thermophila DSM 6194 (synonym)	Methanothrix thermophila PT (synonym)	
+362976	Haloquadratum walsbyi DSM 16790	Haloquadratum walsbyi strain DSM 16790	Haloquadratum walsbyi str. DSM 16790	
+937775	Methanoplanus limicola DSM 2279	Methanoplanus limicola strain DSM 2279	Methanoplanus limicola str. DSM 2279	
+1295009	Candidatus Methanomassiliicoccus intestinalis Issoire-Mx1	
+439481	Aciduliprofundum boonei DSM 19572 (synonym)	Aciduliprofundum boonei strain T469	Aciduliprofundum boonei str. T469	Aciduliprofundum boonei T469	
+679901	Methanosalsum zhilinae DSM 4017	Methanosalsum zhilinae strain DSM 4017	Methanosalsum zhilinae str. DSM 4017	
+880724	Methanotorris igneus DSM 5666 (synonym)	Methanotorris igneus JCM 11834 (synonym)	Methanotorris igneus Kol 5	Methanotorris igneus strain Kol 5	Methanotorris igneus str. Kol 5	
+267377	Methanococcus maripaludis LL (synonym)	Methanococcus maripaludis S2	Methanococcus maripaludis strain S2	Methanococcus maripaludis str. S2	
+268739	haloarchaeon CSW8.8.11 (synonym)	Natronomonas moolapensis 8.8.11	Natronomonas moolapensis DSM 18674 (synonym)	Natronomonas moolapensis JCM 14361 (synonym)	Natronomonas moolapensis str. 8.8.11	Natronomonas moolapensis strain 8.8.11	
+272557	Aeropyrum pernix K1	Aeropyrum pernix strain K1	Aeropyrum pernix str. K1	
+693661	Archaeoglobus veneficus DSM 11195 (synonym)	Archaeoglobus veneficus SNP6	Archaeoglobus veneficus strain SNP6	Archaeoglobus veneficus str. SNP6	
+1227487	Halogeometricum pallidum JCM 14848	Halosarcina pallida BZ256 (synonym)	Halosarcina pallida JCM 14848	
+1114856	Natronorubrum tibetense DSM 13204 (synonym)	Natronorubrum tibetense GA33	Natronorubrum tibetense strain GA33	Natronorubrum tibetense str. GA33	
+867904	Methanomethylovorans hollandica DMS1 (synonym)	Methanomethylovorans hollandica DSM 15978	Methanomethylovorans hollandica strain DSM 15978	Methanomethylovorans hollandica str. DSM 15978	
+29540	halophilic archaebacterium 172P1 (synonym)	halophilic archaeon 172P1 (synonym)	halophilic bacteria (strain 172P1) (synonym)	halophilic bacteria strain 172P1 (synonym)	halophilic bacterium (strain 172P1) (synonym)	Natrialba asiatica 172P1 (synonym)	Natrialba asiatica DSM 12278	
+419665	Methanococcus aeolicus Nankai-3	Methanococcus aeolicus strain Nankai-3	Methanococcus aeolicus str. Nankai-3	
+644295	Methanohalobium evestigatum strain Z-7303	Methanohalobium evestigatum str. Z-7303	Methanohalobium evestigatum Z-7303	
+547558	Methanohalophilus mahii DSM 5219	Methanohalophilus mahii strain DSM 5219	Methanohalophilus mahii str. DSM 5219	
+523846	Methanothermus fervidus ATCC 43054 (synonym)	Methanothermus fervidus DSM 2088	Methanothermus fervidus strain DSM 2088	Methanothermus fervidus str. DSM 2088	Methanothermus fervidus V24S (synonym)	
+859192	Candidatus Nitrosarchaeum limnium BG20	Candidatus Nitrosoarchaeum limnia BG20 (synonym)	marine archaeal group 1 strain BG20 (synonym)	Nitrosoarchaeum limnia BG20	
+583356	Ignisphaera aggregans DSM 17230	Ignisphaera aggregans strain DSM 17230	Ignisphaera aggregans str. DSM 17230	
+859350	Candidatus Nitrosopumilus salaria BD31	Candidatus Nitrosopumilus salaria strain BD31	Candidatus Nitrosopumilus salaria str. BD31	marine archaeal group 1 strain BD31 (synonym)	Nitrosopumilus salaria BD31	
+694429	Pyrolobus fumarii 1A	Pyrolobus fumarii DSM 11204 (synonym)	
+1230460	Natronorubrum sp. AD2 (synonym)	Natronorubrum sulfidifaciens AD2 (synonym)	Natronorubrum sulfidifaciens JCM 14089	
+358396	Halobiforma lacisalsi AJ5	Halobiforma lacisalsi strain AJ5	Halobiforma lacisalsi str. AJ5	
+634498	Methanobrevibacter ruminantium DSM 1093 (synonym)	Methanobrevibacter ruminantium M1	Methanobrevibacter ruminantium strain M1	Methanobrevibacter ruminantium str. M1	
+543526	Haloterrigena turkmenica ATCC 51198 (synonym)	Haloterrigena turkmenica DSM 5511	Haloterrigena turkmenica strain DSM 5511	Haloterrigena turkmenica str. DSM 5511	Haloterrigena turkmenica VKM B-1734 (synonym)	
+1090322	Methanolobus tindarius DSM 2278	Methanolobus tindarius strain DSM 2278	Methanolobus tindarius str. DSM 2278	
+1236689	archaeon Mx1201 (synonym)	Candidatus Methanomethylophilus alvus Mx1201	
+694430	Natronococcus occultus DSM 3396 (synonym)	Natronococcus occultus SP4	Natronococcus occultus strain SP4	Natronococcus occultus str. SP4	
+1230457	Haloterrigena limicola AX-7 (synonym)	Haloterrigena limicola JCM 13563	Haloterrigena sp. AX-7 (synonym)	Haloterrigena sp. strain AX-7 (synonym)	
+797210	Halopiger xanaduensis JCM 14033 (synonym)	Halopiger xanaduensis SH-6	Halopiger xanaduensis strain SH-6	Halopiger xanaduensis str. SH-6	
+572546	Archaeoglobus profundus DSM 5631	Archaeoglobus profundus strain DSM 5631	Archaeoglobus profundus str. DSM 5631	
+272569	Haloarcula marismortui ATCC 43049	Haloarcula marismortui strain ATCC 43049	Haloarcula marismortui str. ATCC 43049	
+1163730	Desulfurococcales archaeon Kam940 (synonym)	Fervidicoccus fontis DSM 19380 (synonym)	Fervidicoccus fontis Kam940	Fervidicoccus fontis strain Kam940	Fervidicoccus fontis str. Kam940	
+273063	Sulfolobus sp. 7	Sulfolobus sp. (strain 7)	Sulfolobus tokodaii str. 7 (synonym)	Sulfurisphaera tokodaii str. 7	Sulfurisphaera tokodaii strain 7	
+931277	Halococcus morrhuae DSM 1307	Halococcus morrhuae JCM 8876 (synonym)	Halococcus morrhuae NRC 16008 (synonym)	Halococcus morrhuae strain DSM 1307	Halococcus morrhuae str. DSM 1307	
+330779	Sulfolobus acidocaldarius ATCC 33909 (synonym)	Sulfolobus acidocaldarius DSM 639	Sulfolobus acidocaldarius NCIB 11770 (synonym)	
+1056495	Caldisphaera lagunensis DSM 15908	Caldisphaera lagunensis IC-154 (synonym)	Caldisphaera lagunensis JCM 11604 (synonym)	Caldisphaera lagunensis strain DSM 15908	Caldisphaera lagunensis str. DSM 15908	
+456320	Methanococcus voltae A3	Methanococcus voltae str. A3	Methanococcus voltae strain A3	
+1110509	Methanosaeta harundinacea 6Ac	Methanosaeta sp. 6Ac (synonym)	
+469382	Halogeometricum borinquense ATCC 700274 (synonym)	Halogeometricum borinquense DSM 11551	Halogeometricum borinquense JCM 10706 (synonym)	Halogeometricum borinquense PR 3 (synonym)	Halogeometricum borinquense strain DSM 11551	Halogeometricum borinquense str. DSM 11551	
+797114	Halosimplex carlsbadense 2-9-1	Halosimplex carlsbadense ATCC BAA-75 (synonym)	Halosimplex carlsbadense JCM 11222 (synonym)	Halosimplex carlsbadense str. 2-9-1	Halosimplex carlsbadense strain 2-9-1	
+387631	Archaeoglobus sp. PM70-1 (synonym)	Archaeoglobus sulfaticallidus PM70-1	
+593750	Methanomicrobiales archaeon SMSP (synonym)	Methanoregula formicica SMSP	Methanoregula formicica strain SMSP	Methanoregula formicica str. SMSP	
+192952	Methanosarcina mazei Go1	Methanosarcina mazei strain Go1	Methanosarcina mazei str. Go1	
+304371	Methanocella paludicola SANAE	methanogenic archaeon SANAE (synonym)	methanogenic archaeon strain SANAE	methanogenic archaeon str. SANAE	
+990316	Methanosaeta concilii DSM 3671 (synonym)	Methanosaeta concilii GP6 (synonym)	Methanothrix soehngenii DSM 3671 (synonym)	Methanothrix soehngenii GP6	
+797304	Natronobacterium gregoryi ATCC 43098 (synonym)	Natronobacterium gregoryi JCM 8860 (synonym)	Natronobacterium gregoryi NCIMB 2189 (synonym)	Natronobacterium gregoryi SP2	Natronobacterium gregoryi strain SP2	Natronobacterium gregoryi str. SP2	
+453591	Ignicoccus hospitalis DSM 18386 (synonym)	Ignicoccus hospitalis JCM 14125 (synonym)	Ignicoccus hospitalis KIN4/I	Ignicoccus hospitalis strain KIN4/I	Ignicoccus hospitalis str. KIN4/I	
+1132509	Halococcus hamelinensis 100A6	Halococcus hamelinensis JCM 12892 (synonym)	Halococcus hamelinensis str. 100A6	Halococcus hamelinensis strain 100A6	
+351160	Methanocella arvoryzae MRE50	Methanocella arvoryzae strain MRE50	Methanocella arvoryzae str. MRE50	uncultured methanogenic archaeon RC-I (synonym)	uncultured methanogenic archaeon Rice Cluster I (synonym)	
+1261545	Halarchaeum acidiphilum CECT 7534 (synonym)	Halarchaeum acidiphilum DSM 22442 (synonym)	Halarchaeum acidiphilum JCM 16109 (synonym)	Halarchaeum acidiphilum MH1-52-1	Halarchaeum acidiphilum strain MH1-52-1	Halarchaeum acidiphilum str. MH1-52-1	halophilic archaeon MH1-52-1 (synonym)	
+795797	Halalkalicoccus jeotgali B3	Halalkalicoccus jeotgali DSM 18796 (synonym)	Halalkalicoccus jeotgali JCM 14584 (synonym)	Halalkalicoccus jeotgali strain B3	Halalkalicoccus jeotgali str. B3	
+485914	Halomicrobium mukohataei DSM 12286	Halomicrobium mukohataei strain DSM 12286	Halomicrobium mukohataei str. DSM 12286	
+1033806	Halorhabdus tiamatea JCM 14471 (synonym)	Halorhabdus tiamatea SARL4B	Halorhabdus tiamatea strain SARL4B	Halorhabdus tiamatea str. SARL4B	
+547559	Natrialba magadii ATCC 43099	Natrialba magadii DSM 3394 (synonym)	Natrialba magadii MS3 (synonym)	Natrialba magadii NCIMB 2190 (synonym)	Natrialba magadii strain ATCC 43099	Natrialba magadii str. ATCC 43099	
+1300164	Methanobrevibacter arboriphilus DSM 1125 = JCM 13429	Methanobrevibacter arboriphilus DSM 1125 (synonym)	Methanobrevibacter arboriphilus JCM 13429 = DSM 1125	Methanobrevibacter arboriphilus JCM 13429 (synonym)	
+456442	Candidatus Methanoregula boonei 6A8 (synonym)	methanogenic archaeon 6A8 (synonym)	Methanoregula boonei 6A8	Methanoregula boonei str. 6A8	Methanoregula boonei strain 6A8	
+391623	Thermococcus barophilus DSM 11836 (synonym)	Thermococcus barophilus MP	Thermococcus barophilus strain MP	Thermococcus barophilus str. MP	Thermococcus sp. DSM 11836 (synonym)	Thermococcus sp. MP (synonym)	
+940295	Ignicoccus islandicus DSM 13165	Ignicoccus islandicus Ko18 (synonym)	Ignicoccus islandicus strain DSM 13165	Ignicoccus islandicus str. DSM 13165	
+436308	Nitrosopumilus maritimus SCM1	Nitrosopumilus maritimus strain SCM1	Nitrosopumilus maritimus str. SCM1	Seattle Aquarium strain SCM1 (synonym)	
+309800	Haloferax volcanii ATCC 29605 (synonym)	Haloferax volcanii DS2	Haloferax volcanii DSM 3757 (synonym)	Haloferax volcanii strain DS2	Haloferax volcanii str. DS2	
+414004	Cenarchaeum symbiosum A	
+415426	Hyperthermus butylicus DSM 5456	Hyperthermus butylicus strain DSM 5456	Hyperthermus butylicus str. DSM 5456	
+323259	Methanospirillum hungatei DSM 864 (synonym)	Methanospirillum hungatei JF-1	Methanospirillum hungatei NBRC 100397 (synonym)	Methanospirillum hungatei strain JF-1	Methanospirillum hungatei str. JF-1	
+263820	Picrophilus torridus DSM9790	Picrophilus torridus DSM 9790	Picrophilus torridus strain DSM 9790	Picrophilus torridus str. DSM 9790	
+589924	Ferroglobus placidus AEDII12DO (synonym)	Ferroglobus placidus DSM 10642	Ferroglobus placidus strain DSM 10642	Ferroglobus placidus str. DSM 10642	
+397948	Caldivirga maquilingensis DSM 13496 (synonym)	Caldivirga maquilingensis IC-167	Caldivirga maquilingensis JCM 10307 (synonym)	Caldivirga maquilingensis strain IC-167	Caldivirga maquilingensis str. IC-167	
+521011	Candidatus Methanosphaerula palustris E1-9c (synonym)	Methanosphaerula palustris E1-9c	Methanosphaerula palustris strain E1-9c	Methanosphaerula palustris str. E1-9c	
+410358	Methanocorpusculum labreanum strain Z	Methanocorpusculum labreanum str. Z	Methanocorpusculum labreanum Z	
+633148	Thermosphaera aggregans DSM 11486	Thermosphaera aggregans M11TL (synonym)	Thermosphaera aggregans strain DSM 11486	Thermosphaera aggregans str. DSM 11486	
+490899	Desulfurococcus amylolyticus 1221n	Desulfurococcus kamchatkensis 1221n (synonym)	Proteinoruptor kamchatkensis 1221n (synonym)	
+604354	Thermococcus sibiricus MM 739	Thermococcus sibiricus strain MM 739	Thermococcus sibiricus str. MM 739	
+572478	Vulcanisaeta distributa DSM 14429	Vulcanisaeta distributa strain DSM 14429	Vulcanisaeta distributa str. DSM 14429	
+666510	Acidilobus saccharovorans 345-15	Acidilobus saccharovorans str. 345-15	Acidilobus saccharovorans strain 345-15	Acidilobus sp. 345-15 (synonym)	
+1227494	Natrinema altunense JCM 12890	
+768679	Thermoproteus tenax DSM 2078 (synonym)	Thermoproteus tenax JCM 9277 (synonym)	Thermoproteus tenax Kra 1	Thermoproteus tenax strain Kra 1	Thermoproteus tenax str. Kra 1	
+679926	Methanolacinia petrolearia DSM 11571	Methanoplanus petrolearius DSM 11571 (synonym)	Methanoplanus petrolearius SEBR 4847 (synonym)	
+797302	Halovivax ruber JCM 13892 (synonym)	Halovivax ruber strain XH-70	Halovivax ruber str. XH-70	Halovivax ruber XH-70	
+224325	Archaeoglobus fulgidus DSM 4304	Archaeoglobus fulgidus strain DSM 4304	Archaeoglobus fulgidus str. DSM 4304	Archaeoglobus fulgidus VC-16 (synonym)	
+186497	Pyrococcus furiosus DSM 3638	Pyrococcus furiosus strain DSM 3638	Pyrococcus furiosus str. DSM 3638	
+374847	Candidatus Korarchaeum cryptofilum OPF8	Candidatus Korarchaeum cryptofilum strain OPF8	Candidatus Korarchaeum cryptofilum str. OPF8	korarchaeote OPF1-KOR (synonym)	Korarchaeum cryptofilum OPF8 (synonym)	
+1324957	Candidatus Halobonum tyrrellensis G22	Halobacteriaceae archaeon G22 (synonym)	Halobonum tyrrellensis G22	
+797299	Halostagnicola larsenii JCM 13463 (synonym)	Halostagnicola larsenii strain XH-48	Halostagnicola larsenii str. XH-48	Halostagnicola larsenii XH-48	
+243232	Methanocaldococcus jannaschii DSM 2661	Methanocaldococcus jannaschii str. DSM 2661	Methanococcus jannaschii DSM 2661 (synonym)	
+187420	Methanobacterium thermoautotrophicum str. Delta H	Methanobacterium thermoautotrophicum str. deltaH (synonym)	Methanothermobacter thermautotrophicus str. deltaH	Methanothermobacter thermautotrophicus str. Delta H	
+64091	Halobacterium halobium NRC-1 (synonym)	Halobacterium salinarum NRC-1	Halobacterium salinarum strain NRC-1	Halobacterium salinarum str. NRC-1	Halobacterium sp. ATCC 700922 (synonym)	Halobacterium sp. JCM 11081 (synonym)	Halobacterium sp. NRC-1	Halobacterium sp. (strain NRC-1 / ATCC 700922 / JCM 11081) (synonym)	Halobacterium sp. (strain NRC-1) (synonym)	
+273075	Thermoplasma acidophilum DSM 1728	Thermoplasma acidophilum strain DSM 1728	Thermoplasma acidophilum str. DSM 1728	
+1184251	Thermogladius calderae 1633	Thermogladius cellulolyticus 1633 (synonym)	Thermogladius sp. 1633 (synonym)	
+399550	Staphylothermus marinus ATCC 43588 (synonym)	Staphylothermus marinus DSM 3639 (synonym)	Staphylothermus marinus F1	Staphylothermus marinus JCM 9404 (synonym)	Staphylothermus marinus strain F1	Staphylothermus marinus str. F1	
+933801	Acidianus hospitalis strain W1	Acidianus hospitalis str. W1	Acidianus hospitalis W1	
+1227454	Halobiforma nitratireducens JCM 10879	
+1227481	Halorubrum hochstenium ATCC 700873	

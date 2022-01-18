@@ -5,17 +5,17 @@
 118883	Sulfolobaceae	Sulfolobaceae Stetter 1989	
 1890941	"Nanoarchaeaceae" Huber et al. 2011	Nanoarchaeaceae	
 2206	Methanosarcinaceae Balch and Wolfe 1981 emend. Sowers et al. 1984	Methanosarcinaceae	
-1644061	Halobacteriaceae Clade I	Natrialbaceae Gupta et al. 2015	Natrialbaceae	
+1644061	Halobacteriaceae Clade I (synonym)	Natrialbaceae Gupta et al. 2015	Natrialbaceae	
 2159	Methanobacteriaceae Barker 1956	Methanobacteriaceae	
-90142	Ferroplasmaceae Golyshina et al. 2000	Ferroplasmaceae	Ferroplasma group	Ferroplasmataceae	
+90142	Ferroplasmaceae Golyshina et al. 2000	Ferroplasmaceae	Ferroplasma group (synonym)	Ferroplasmataceae	
 1963271	Halorubraceae Gupta et al. 2016	Halorubraceae	
 2194	Methanomicrobiaceae Balch and Wolfe 1981	Methanomicrobiaceae	
 1644056	Haloferacaceae Gupta et al. 2015 emend. Gupta et al. 2016	Haloferacaceae	
 1963270	Halococcaceae Gupta et al. 2016	Halococcaceae	
 1963268	Haloarculaceae Gupta et al. 2016	Haloarculaceae	
 1033997	Nitrososphaeraceae	Nitrososphaeraceae Stieglmeier et al. 2014	"Nitrososphaeraceae" Tourna et al. 2011	
-2236	"Haloarchaeaceae" DasSarma and DasSarma 2008	Haloarchaeaceae	Halobacteriaceae Gibbons 1974 (Approved Lists 1980) emend. Gupta et al. 2016	Halobacteriaceae Gibbons 1974 emend. Gupta et al. 2015	Halobacteriaceae	
-143067	Methanosaetaceae Boone et al. 2002	Methanosaetaceae	"Methanotrichaceae" Oren 2014	Methanotrichaceae	
+2236	"Haloarchaeaceae" DasSarma and DasSarma 2008	Haloarchaeaceae (synonym)	Halobacteriaceae Gibbons 1974 (Approved Lists 1980) emend. Gupta et al. 2016	Halobacteriaceae Gibbons 1974 emend. Gupta et al. 2015	Halobacteriaceae	
+143067	Methanosaetaceae Boone et al. 2002	Methanosaetaceae (synonym)	"Methanotrichaceae" Oren 2014	Methanotrichaceae	
 1890942	"Nanopusillaceae" Huber et al. 2011	Nanopusillaceae	
 1968910	"Candidatus Nitrosocaldaceae" Qin et al. 2016	Candidatus Nitrosocaldaceae	
 1577788	Methanomassiliicoccaceae Iino et al. 2013	Methanomassiliicoccaceae	
@@ -28,7 +28,7 @@
 196137	Methanospirillaceae Boone et al. 2002	Methanospirillaceae	
 2517203	"Candidatus Methanomethylophilaceae" Gaci et al. 2014	Candidatus Methanomethylophilaceae	Methanomethylophilaceae	
 2178	Methanothermaceae	Methanothermaceae Stetter et al. 1982	
-2307	Pyrodictiaceae Burggraf et al. 1997	Pyrodictiaceae	Pyrodictiales	
+2307	Pyrodictiaceae Burggraf et al. 1997	Pyrodictiaceae	Pyrodictiales (synonym)	
 871007	Acidilobaceae Prokofeva et al. 2009	Acidilobaceae	
 685949	Fervidicoccaceae Perevalova et al. 2010	Fervidicoccaceae	
 255472	Caldisphaeraceae Prokofeva et al. 2009	Caldisphaeraceae	

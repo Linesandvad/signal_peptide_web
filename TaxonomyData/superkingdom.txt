@@ -1,1 +1,1 @@
-2157	archaea	Archaea	"Archaea" Woese et al. 1990	"Archaebacteria" (sic) Woese and Fox 1977	Archaebacteria	Mendosicutes	Metabacteria	Monera	Procaryotae	Prokaryotae	Prokaryota	prokaryote	prokaryotes	
+2157	archaea	Archaea	"Archaea" Woese et al. 1990	"Archaebacteria" (sic) Woese and Fox 1977	Archaebacteria (synonym)	Mendosicutes (synonym)	Metabacteria (synonym)	
