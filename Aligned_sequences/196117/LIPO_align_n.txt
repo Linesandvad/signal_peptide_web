@@ -1,5 +1,4 @@
 --------------------------------MWKKLLTLIFAVTIITAFSGCTNKTQETGTEASNIIKIGVLTDLSGDLSS----------------------------------
-------------------------------------MRITKTALVLGVISIFVSMSMCLNFGYDPKAVEWYNKGWDLQDSGKY---------------------------------
 ----------MQKNQKFYIVVFYLTHVVKGGDTIKKYVILLSSILIAGVLFSGCMQNETKTETPTLKVAYLPTDHHAALFVAA---------------------------------
 ---------------------------------MKKLVVIFSTAILLIASCVMIAGCVGESSTSKAPVNTQAQTNTNEKSTTTTEP------------------------------
 ---------------------------------MKKMLCFFSLLIVVSFCGCFEENKVADGINKTIVNNSKVIGVGNFTLN-----------------------------------
@@ -20,7 +19,6 @@
 ---------------------------------MRKLSLLVVGVIVSSLLLCGCVSNQATENQKTLVVYSCGGPTEALQELNS---------------------------------
 ---------------------------------MKKSVVFLIFAIVVLSGCTSNQPTTKIEKFEDLGNDGVTISIGNPEH------------------------------------
 -------------------------------MIKSKWLLVLLIGAISVALCGCVNTSKEQPTQSTTPQTSQASNAKVEEKVL----------------------------------
-------------------------------------MKRILFFTFLTVFLISFAILGHQKDDNEIIKEKLLEFGYPAKGYVIIN--------------------------------
 ---------------------------------MRWNLYLVCLSILLFFVVTCGCFENEGYEGEIKTIKPGVLTVGIVNYNVPP--------------------------------
 --------------------------------MNLKIFLFPILILGLSVPFSGCVEDSSVNNGGIGINEGRSDFNGTCVVEFY---------------------------------
 -----------------------------------MLFLTGCIKNNSTKSSNNESEIITIKITVLYDNPVS---------------------------------------------
@@ -33,7 +31,6 @@
 ---------------------------------MKRLFFIFVMLIVLLCGCTSNKTTNVNNEININKIETNKTLENESLI------------------------------------
 --------------------------------MKIKAVAIFLSLLMIISLFSGCVENEKPIKEGSNDFKLIPVNSKSNFEEFK---------------------------------
 -------------------------------MSMKKVSIIVLFILSLILTISICGCFENEKEEVNKPNMTVIEKENIKVQNNKPI-------------------------------
-------------------------------------MRKYLIILVLLLFLSSSFGYYFDYIKVSESNPIKTITFKINKAENY----------------------------------
 ---------------------------MIRGRIMRKFLILSMLIFTTLCGCVDFSSSNSNGYYHDSWSYNNYTSFVDTHE------------------------------------
 ------------------------------MFMDYKYFFITIILISIFCGCYEKSYSFVEYNRHYELNEPNNTKNPNYDQ------------------------------------
 ---------------------------------MRKLFLLSILMIGVIVAFAGCVEESKTTTQLQQTTQSESQKAETQPKLGV---------------------------------

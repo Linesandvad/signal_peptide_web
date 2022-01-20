@@ -121,7 +121,6 @@ MSNATPRPAGRGDVGVEGQCDHDRRDDCDHAHGSESGHARGPRRTRRGVLGATATALVAGLAGCLGGTGNGDGETPDPVT
 -------------------------------------------------------------------------------MTRTYSRRALLGVLATSLAALTGATARPSCAPITGSADVECGGPLSLSGPAAVQQ------
 ---------------------------------------------------------------------------MGPENEAAVVFRRRFLATVASTSALALTGCTTGSEDATTDTSTTGESDSGESDNDGTDE------
 -----------------------------------------------------------------------------------MKRREYLRAAGAGVVGLASAGCLEVGGSEPSGPLTIATYDSFFGDEGTAGR------
------------------------------------------------------------------------------------MRRRDVLAAAGATGLAASAGCLGFLETERASREPPVPENRPDAPYLPSHTEGMEMAG
 -------------------------------------------------------------------------------MHMRIDRRRFLKRTGGVATIAALAGCTGGDGDGGGDDTTTSSGGDTTTTSSGGGG------
 ---------------------------------------------------------------------------------MTLHTRRRLLATIGAASSAALAGCSTERFGGGWPRTTETTTDPIPGEERGWAQ------
 ------------------------------------------------------------------------------MTNESLYTRRRMLSLSGTAAAIGLAGCSGGQAEEESHDDEEEGHGEDSHPDEEIGA------

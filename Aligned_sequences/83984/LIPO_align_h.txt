@@ -3,7 +3,6 @@
 ----------------------------------------------------------------------MKKACLVLVFLIILFVVSSGCVSDEKTVVKVVPAGSLLLPLAEIEQEYEA-----
 ------------------------------------------------------------------------MKQILVIIAIIACICAAGCVSNPYDDIDWPLTLVGADGTEKVMSVSEI-----
 ----------------------------------------------------------------------MKKLIVLLGLLAVLFVACAGCISPDVPAVNNTTTTDPIVGTWQSTQSYTV-----
------------------------------------------------------------------------MKKSLIAALLIALFISVGAAGCIASEPIVGNWYIYGTDIPVVFYENGTGSLTIS
 ---------------------------------------------------------------------MNSKLLFGMLITLIVCISAAGCTAAPNDPAPYELAGTWVSVDGGSPVISDL-----
 -----------------------------------------------------------------------MRKREAALAVLLIILSLTSCAAAHVPQIVGADEGIQNAVHIDDPYKSWA-----
 -------------------------------------------------------------------MKSKKVFFGMAVCALILVCMTAGCVDTATDMSNTLVYAGEGVDSINPIFDTHG-----

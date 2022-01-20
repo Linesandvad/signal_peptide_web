@@ -19,7 +19,6 @@
 -----------------------------------------------------------------------MISMTENQLKLIIITVCLLLINLSGCIDTDNDSAESNDTNLVTVTKVVDGDTIDI---------
 MFLNISVKYKTTTKPYTKVERIPTKKEFQLDFDYSDYMKLKIITTLIIALVLLGVGCSSTPNENTKNDESNQVSTEKAPQLSIGASFDTIKGNKVIKLKHQWGESITFTKEETTVKINGEKINYYL---------
 ---------------------------------------------------------------------------MGFLKIIYAFFCVVFLILFSGCLSSTPSNTYDTEISRNQTETKNYQGVDLT---------
------------------------------------------------------------------------------------MKKTMILFLIIISLLASNCNASANLQENTNGSIKVEKVISISNVTDPHFY--
 -------------------------------------------------------------------------MNYYRLQPIILLLIASIAFIGVACADDGNTTNETNVSEWTHKGNYTLYWGDTI---------
 -------------------------------------------------------------------------MNKISFKIIAIITVCLFLLILSGCIDADNNNVESNDTNLVTVIKVVDGDTIDI---------
 ---------------------------------------------------------------------------MKKITKILIIMLLFTSIAALGCTENSDTGVDGTNQNDDNTETENPNQDNDS---------
@@ -36,7 +35,6 @@ MFLNISVKYKTTTKPYTKVERIPTKKEFQLDFDYSDYMKLKIITTLIIALVLLGVGCSSTPNENTKNDESNQVSTEKAPQ
 ------------------------------------------------------------------------MKYSNILKIIGIIAMILVIFAGIGCMSDTGESTTQDNQGTESQQQGDVVLNVFH---------
 -----------------------------------------------------------------------------MKIRYLVVLLTISMVLVSGCVQTEQQTEKNIVETAQDSDSFNTLVQAVQ---------
 ----------------------------------------------------------------------------MNYKFLVVMAIALISLLTAGCTEQVVQEISEPNIKLSSWNHDNDASLSKG---------
----------------------------------------------------------------------------------MKGIKNIAKIATFLMIMIAVTGMAAGTVNDAGHPEDIEIGQGSVSQNITELDFA
 ----------------------------------------------------------------------------MSLKKLVLILLIGSVVLFSGCAGMNDNTNGNDTTGTGENVVENGDIVTLD---------
 ----------------------------------------------------------------------------MKWKVIAMVLMLITAIMVSGCAQNPQTNESNSNPNSDETIVIGSKLFQES---------
 ---------------------------------------------------------------------------MNQYYKLLSVVLVIAVLFVTGCSEQTQTQKDDGNITVAVSILPQAEFVEQI---------

@@ -312,6 +312,7 @@ MAGTPRAHGTSHASRGRDAGPVGAQYIWKWILRPAMGRGALVLAVLVAGFNILAPEAYAGTGQGGAGSEFSMVMAPAAAL
 ---------------------------------MRIPCFVVLLACAGAAHADGSLWVPDQMILGHEYHGMILLDEAAPEGS------------------------------------------------------------------------------------------
 -------------------------------MNARLAMVAASAVLVMSIGLAPAFGQVVQSVTISTDKESYDAGEQITVTGQVGSI-------------------------------------------------------------------------------------
 ---------------------------------MLVPAITAAILFTSMAALTQADSDDLVEDKPAVDQIPNGSEMDADPARAAV---------------------------------------------------------------------------------------
+-----------------------------------MLLRAWLVLLAVSVPVWVAGAATGPHAAGP----------------------------------------------------------------------------------------------------------
 -----------MVHLSNEPFPLYSKQCFRFHMAKSMGTIAIFAFMVILTSTITISPVLADTGFTNVQKSAGIIMKFCANETFKLQDCNE----------------------------------------------------------------------------------
 ---------------------------MTRTNSKKSVALTAIMALVVMMALGITDVFGDHEADVLVHEFGELLEGVEAEILKIPNDTG-----------------------------------------------------------------------------------
 --------------------------------MFDFLFLIFILPFATAQEIPDYDKPYAPIFFDKPIYSWTDKIQIKI---------------------------------------------------------------------------------------------

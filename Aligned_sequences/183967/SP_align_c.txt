@@ -667,6 +667,7 @@ MKRESIQKINLNKQVLLQDQFLKSKPFNQYVSTDLMNARAASALLLICIASLILLPAASADPGIGDWQHNVDLEAGQSAE
 ------------------------------------------------------------------------------------------------------------------------------MNKYFTIPILFALAAILLAGPIANAQTAPFYSSQVSYPSDVGTGQQFNITITSSA
 ----------------------------------------------------------------------------------------------------------------------------MHRPFIIAVMAVFLLLLLVSIAADSQAQPQKNVVVIYLDEEIDAGSAAMITSTMNSI
 --------------------------------------------------------------------------------------------------------------------------------------MISLVVFSVAILSISRDTGVYTVNLSPQASENISRYAGLDDLISYRI
+-------------------------------------------------------------------------------------------------------------------------------------------------------MILIIIASITIYGGIWPPASVVESESMQHS
 ----------------------------------------------------------------------------------------------------------------------MHKRKNLVNSITILGLFFILLCSVMLPGISVKATVNVAGFDKGPSYKPVVPMKKVTFVNFDEE
 ---------------------------------------------------------------------------------------------------------------------MDGEVGEMHLKKIPFIIVVTLILYSPFLIAGVTAEDAAIESKVDAGFDAEFKTATDLKISVTMD
 -------------------------------------------------------------------------------------------------------------------------------MSQKITVLVILNMFIVTSVVSSLGASFKVEISETGERNIDKQIIDTGDLPSYFS

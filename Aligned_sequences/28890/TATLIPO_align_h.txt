@@ -11,7 +11,6 @@
 --------------------------------------------------------------------------------------------MQSRRDVIRTGAGVAGTGLLTALAGCSEIPVVGSYFGFDYTEWVYDPDGLDSDSV-----------
 ----------------------------------------------------------------------------------------------MTNRNRRSFVTTVAATGTLGLAGCLSRMREWRGADGEPATSQSSDGNDGDEAG-----------
 --------------------------------------------------------------------------------------MTLVTKGPVMTPSRRSLLAAGATGAIALTAGCIDVVLGNEPLEFSSDAVRPTDDALEETGY-----------
------------------------------------------------------------------------------------------------------MSRDSTASLPAGLGRRDFLAAAGVGLSGGLAGCTGVFAAEGNNVNIAGSST------
 -----------------------------------------------------------------------------------------------MSHSRRTALSVLGTGLLGGLAGCSSSLSKKLNDKPDAPIVLENQHDEKHMVS-----------
 -------------------------------------------------------------------------------------------------MDRRRFLAASSIGLAAAVAGCTGSATEGDDDPESGSTTDSNTNDDADGEI-----------
 -----------------------------------------------------------------------------------------MNRPDPTLDRRTVLQTVGATAVGASVAGCLSLNGADSDGDRPVLSAPENHERIKESGL-----------
@@ -72,7 +71,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 --------------------------------------------------------------------------------------------------MRRRDLLALTTGTACGLAGCADSRFERLQSERPDVDGSSDDTDRRGSES-----------
 ------------------------------------------------------------------------------------MRSHDGNGTDPTSRRALLATAGGLTAGLVGTAGCLGATDEVRVLAAGSLASAFENGVGPTFES-----------
 -----------------------------------------------------------------------------------------MDPTPQADRSRRAFVATGIAAGSAAVAGCIGGIDSESTSDGDSYTVSMAPMGEVEFDS-----------
-----------------------------------------------------------------------------------------------------MNNASSPRRRAVLAGVGTLLGAGAGCLGADRTPAASEADWRMYGRDPGRTRFV-----
 ---------------------------------------------------------------------------MNGSKGHGTESNDHSTSRSRALDRRRLLRATGGVAAGASLAGCLGTYESIVGGSATEGPVRIGLLAPDPDSD-----------
 -------------------------------------------------------------------------------------------------MNRRPFLQTLATSGVLLSAGCTESLPLTRSGLETDDVFEEYWYEETDLLV-----------
 --------------------------------------------------------------------------------------------MTRKRATRRRFLALSGAVGAVGMAGCADRIESAVDRVDTGSSNGTDAPDDSATPG-----------
@@ -80,7 +78,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 ----------------------------------------------------------------------------------------------MDWSRRRTLRAASGSALGTVVAGCLSSGDDGTGEADENDDESDRNRDPGEPAG-----------
 ----------------------------------------------------------------------------------------------------MRRRDLLIAGLGSCVAGCLSRESTSGPRNDSTGIEPDGNGPSDVDPD-----------
 --------------------------------------------------------------------------------------------MNRRQYLARTGAAGASLGTVTALAGCLDTIEGSSDEADAEVEDRTGQRALDRAAG-----------
-----------------------------------------------------------------------------------------------------MNRLRPRRGFLASVVTTVAVTTGGFEYASDGPTGPPLDSGTVPADWFECDDV------
 -------------------------------------------------------------------------------------------------MNRRAYLATVGTATAVGLAGCSSALSVFDDDSCTGEDCHIGMTRTEFRPE-----------
 -------------------------------------------------------------------------------------------MTHSDATSRRRLLASLGVGMATAAAGCTGSDGLGGEPSYESGTVGQINASNASSRN-----------
 -----------------------------------------------------------------------------------------MTDADGSNVDRRTVLGALAGVGGAALAGCSAFERESDAETEQLDDDAARELAERFAPT-----------
@@ -296,7 +293,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 --------------------------------------------------------------------------------------------MASDTTRRQFLIAASAAATFTVVAGCSEPEEDPPGYQFEDVPEDGDTAMAASPEQ-----------
 ----------------------------------------------------------------------------------------------------MNRRAIIVAGGVFFLSGCGERATDMSNETDHRQTTDEDPNDRDTLAG-----------
 -------------------------------------------------------------------------------------------MDDQCTRTRREMLAVGGAAGIGALAGCLGGENEEVDVNYDEFPDFDPLDPEYPQPA-----------
------------------------------------------------------------------------------------------------MALPNAANTSPTTTRRRLLIGTGAAAATATAGCTTVVNWLADMALADVNLFNETDGEL-----
 ----------------------------------------------------------------------------------MVNRNQPSTAESTDRRTFLKASGAMGAAGLAGLAGCLDGFDDTPEDRDVFRFGAVTSLSGDLRFG-----------
 -------------------------------------------------------------------------------------------------MRRRTYLTAAGGLFAAGLAGCTDEEPTGNGNGDTGEEPMTVGEWADGHIE-----------
 ---------------------------------------------------------------------------------MRDDPRPEQRLSPSQHVSRRRLIQGIGAGATVMLAGCAEENGNGATEQTPDDDDETGTEPDDGEEE-----------
@@ -423,10 +419,8 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 ---------------------------------------------------------------------------------------MNTSERDRGMLDRRGLLAVLGAGAAVGLAGCAGGNDEEEDEATTYEPNVDDHPGDEPIEF-----------
 ---------------------------------------------------------------------------------------------MTHTPSRRATLVGGALVAVCGLSGCLSGSRDVERTVTESHATDAVTGVAVETEH-----------
 ----------------------------------------------------------------------------------MWAASFLSVEMALERRNLLRLTGAAAVASTAGLAGCLGGSDDENGSGDDPTSSQSAPYRNWLAST-----------
-------------------------------------------------------------------------------------------------------MELPSRDVETPSDRVRGTALSRRRLLGAAGIAAASGFAGCVDSPSV----------
 -----------------------------------------------------------------------------------------------MNRRLYCRSVVASSMGIVATAGCLDSLSSGDDESDRAHADGVTLGPPEQDLS-----------
 ----------------------------------------------------------------------------------------------MERSRRAILEAGIGTVSIAALAGCTGSGSDTEGDGTDEAAETDDDSTPTGDEG-----------
------------------------------------------------------------------------------------------------------MILMKLSRRRLFASLAGLASLAAVIETDGASRIGVGHTAAIDTADSKSVL-------
 -------------------------------------------------------------------------------------------MNDGRTTRRRFVAGVGASVAAVTAAGCLGSDDDDDDPDGIGPKDIESRRERMPDPD-----------
 -------------------------------------------------------------------------------------MKGVTSGRIDRRTLLRLTGGAGATAGLGALAGCLSDPDGDDDDNGDELDLDTLTITQGEFPD-----------
 ---------------------------------------------------------------------------------------------MCAGRTRREVLCVSTGLGLALTAGCLSDSDAASDDDTGNGNDADGDETGNGADD-----------
@@ -481,7 +475,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -----------------------------------------------------------------------------MLPSPRRDGADGSRRGVSAPLSRRATLAAAGVALVTATAGCSDVFDDDSGDSDDENDEDALVAKTPSETP-----------
 ----------------------------------------------------------------------------------------MATMSPHGTDRRAVLAGVAGALATLPLAGCLDGDEDDEPEEPGVDAAEYVEGDTDPGSW-----------
 ----------------------------------------------------------------------------------------------------MRRRAFLAAAVAIATAGCTSGSDETNSDDSSGESWTSSTQTLSPGDR-----------
---------------------------------------------------------------------------------------------------------METVDFLAGDDVVYGATTDNLTLRVEPSRLPFALEHRFPNMNGSLR--------
 ----------------------------------------------------------------------------------------------MREPRSRRTLLASALPVSIALAGCFEFTSSDETTADTVSPDEYDCDDVERPEP-----------
 ----------------------------------------------------------------------------------------------MTHRNRRTFVTTVATAGTIGLAGCLSSIRGDDDDESSTQTDQGGDGDNGGTDG-----------
 -------------------------------------------------------------------------------------------------MTRRRLLQGAGAGTAGLLAGCLGGDSGDELHILTDFSGDQWEAYWEDELV-----------
@@ -986,7 +979,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 --------------------------------------------------------------------------------MTRKQSSSRADPTPSNDRRGFLTKLGVVGGLGTGLAGCLGNGGDGGNSGNGNEGGSGTGGGNGGTQG-----------
 -------------------------------------------------------------------------------MDSNDSGRTARSPSLSRRQSLKKIAVLGAATSTPLLAGCTGNGGNGSGNGGNGGNGGSDGTESGSQDG-----------
 ---------------------------------------------------------------------------------MPYMTLYQTLGQCSNSTSRRRYLAACGVGLFGSTAGCTTIVDSLADLALGDVNLFNETEDVLTGTV-----------
-------------------------------------------------------------------------------------------------------MSNPPDDSARDGALTPSRRRYLAGVASAAAATGAAGCLDGWGHATL----------
 ----------------------------------------------------------------------------------------MAGVGVGITMRRRALLCGIGGGTAIAMAGCLSAVRDETPANVVLDPQSDQRADSADLAY-----------
 ---------------------------------------------------------------------------------------------MSSKRTRRRFLEVTGAAGLAGLAGCSGNGNGGGNGNGGGNGNGDGNGNGDGNGN-----------
 -------------------------------------------------------------------------------------------------MKRRQFLAGTLPTASVALGGCLDSSPSCTGGDNWPPNVQVEELELTPGDS-----------
@@ -1025,13 +1017,11 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -----------------------------------------------------------------------------------------MDGPDRGLSRRAFVRSAVAIGGASALAACLQREESEDVPQAALAPEDLPDRQHAWNEF-----------
 -----------------------------------------------------------------------------------------------MNEPVGRRRFLFATAGAGTIAGCTSSDLAESPSNETPETSDASVSTEIGRVS-----------
 --------------------------------------------------------------------------------------------------MKRRALLTSITVGAATVAGCIGKLNRDENDERKYEACNHSVLRYRNLPD-----------
------------------------------------------------------------------------------------------------------MGRDIAGRRDRPRLGRRSLLKTTAASAAVGSIAVTGCLARGRKPGTVVM--------
 ----------------------------------------------------------------------------------------------------MHRRTYLAAAATLPLAGCAGSETSSPSSAADPANDAGNGDGEPESAT-----------
 --------------------------------------------------------------------------------------MNWNPSPSENRVSRRSVLAGGAAGAAITTSGCIDSVRSVVNHRGSNRLSLSIATVPADADR-----------
 -------------------------------------------------------------------------------------------------MKRRMFVGAVGGSAIAGVAGCLTRDGGENGTNGGTDDAEPENPDLEGELT-----------
 ------------------------------------------------------------------------------------------------MNRRTFLQRTSLLPVAVGVAGCEAPDNGGNDRNESRSDDEPGATDDDEPAG-----------
 ------------------------------------------------------------------------------------------MSDRRLRTRRNVLRTSGVIAGMGAMAGCISDTDNDGSANTDPYTVSMPPVGEVEFDG-----------
------------------------------------------------------------------------------------------------------MSRDTTASLPTGLGRREFLAAASVGLSGGLAGCTGVFAAEGKQVNIAGSST------
 ----------------------------------------------------------------------------------------------------MKRRAYLVTAAAATLGGCSALTDSETSEPSDDGGDPSDSPDETVDEE-----------
 ---------------------------------------------------------------------------------------------MPDWHRRSLLATCATLSTTGVLASEGSSTDPDDASDVAQSGVASPPDGWSSAWG-----------
 ---------------------------------------------------------------------------------------------MTGGPSRRTILGMIAASGIGGLAGCSYASATGKPAHTVSVYLGNRDAVRDVTVT-----------
@@ -1059,7 +1049,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 ------------------------------------------------------------------------------------------MARDKAVSRRTALKVTGAAASTALVAGCSSGGGNGNGNGNGNGNGNGNGSGSGPVEI-----------
 -------------------------------------------------------------------------------------------------MNRRTFLAITGTGVLGGVAGCLGGNSNGNDLDGYGPKPETVPEKRSIDTG-----------
 ----------------------------------------------------------------------------------------------MNRRGFLRATAAVGTVGTAGLAGCLERLGFEEESAWANPPLVENRPDAVYLPA-----------
----------------------------------------------------------------------------------------------------MTADFPDTSPVGRSRRRFLVTAVAASSTAAAGCVGSLRQTSTANEIEPVEPSQPR----
 --------------------------------------------------------------------------------------------MTQNTTHRRRFLQAMGAAGAVAVAGCLGGDESGTEANGDQNDGGGEEDGLAAAKS-----------
 ---------------------------------------------------------------------------------------------------MDRRKFLVSTGVGVGLTGCLNANSNAGSGTENGTTDDTNPSTSGTSSS-----------
 ----------------------------------------------------------------MHEPVADRRDGGSTRKSHDASSERPDRTAVGTGVSRRLLLRAAGASGIVGLAGCIGRQYRSPPDCDPVAADAATGDGYVPLPA-----------
@@ -1175,7 +1164,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -------------------------------------------------------------------------------MSNERDSGAETKQSGTSTSRRRQFLQAASGASVAALAGCLGLGGGGGNGDHGGNGDHGGAEDEAETER-----------
 -----------------------------------------------------------------------------------------------------MHRRALLAAIAPLTAGCFGTTRSRSSEPADTPEPNDTPEPNNTPEP-----------
 ---------------------------------------------------------------------------------------------MTNRPSRRNVLKGLGAATALTVAGCTDSTDAGNGANAGEGADTDTSGEADAGDT-----------
---------------------------------------------------------------------------------------------------MDRRRYLQSIGTAGVAATAGCLGVVPGLGTGRTVLDEPEIDLSAASHPSHGDD-------
 ---------------------------------------------------------------------------------------------MSRKIDRRDVLKGAGVTGLAALAGCTGNGNGTGGNGNGTGGNGNGTDTGGDSGS-----------
 ---------------------------------------------------------------------------------------------------MELSRRGAIAGAAVALAGCSGVQSEVDEQAEAVLGPDEHPFAGATTIT-----------
 ------------------------------------------------------------------------------------------------MIRQTRRGVLAVLGGSVAVSGCLGTGDDAGSADAAGEDDGDADTTAWRTAE-----------
@@ -1195,7 +1183,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -------------------------------------------------------------------------------------------------MSRRKFVVAAGAAGLAGLAGCSGGTGGEQASSTGGEGTEQSMQQSTQSSS-----------
 ------------------------------------------------------------------------------MSLQKMFDIVLSTVHMISLTRRQLLRQTVAGGSVLALAGCTAPNVPGLSGRESVPKPFTNDAYTASYTT-----------
 ---------------------------------------------------------------------------------------MRPPPRRSDRRSTRRSFLQLSGLALAAAAGCASRGDDASSPTDAPPRPSTATPTESPPAT-----------
-----------------------------------------------------------------------------------------------------MVSDTTKRAEDDTTSPSGASDSLGRRRFVAAAGAVGIGGLGGCMGVAGGQS-------
 -------------------------------------------------------------------------------------MNERGGDDERNGINRRTWLKALGVAGATGLAGCSGDDGGGSTGTGSTATATDGSELGTAEGT-----------
 ----------------------------------------------------------------------------------------------------MNRRHFIALAATGSLAGCTGRFGNEENSRLDLTVRNDRTDPVTVQVV-----------
 --------------------------------------------------------------------------------------MNEKTDDDGLSRRTYLRLSGLAGAGMAGLAGCSSGGEQTETEGTTQAGGEGTSGESTETAT-----------
@@ -1236,7 +1223,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -------------------------------------------------------------------------------------------------MRRREFIAATGAAGIVGIAGCSSNGNEGETTTTSGGEETETGTGTGTETE-----------
 --------------------------------------------------------------------------------------------MTERRYGRRRVLAGLGAAGLSGLAGCGGFTPEQNEATGTDGAGNGTVGGTAGDSF-----------
 ------------------------------------------------------------------------------------------MYDERTSRRHLLRGVAVTTAAGPLVAGCIGDGGGTNDAATPRGDTEPNDRTFDGWLD-----------
--------------------------------------------------------------------------------------------------------MTESSMPAVRRRALLAAAGGAAAFTGGCLRRVRRFVDGDAPRRVR----------
 --------------------------------------------------------------------------------------MTRDERDGRRAYSRRRLLGALGSVGVASLAGCGETDSPPSTSETSDPSTDASTVGDGSGKT-----------
 --------------------------------------------------------------------------------------------------MFMRRRQFLALGAVVSVAGCSGSFGGEQHGRLNLTVRNDRADAITVQVE-----------
 ----------------------------------------------------------------------------------------------MTRNTRRRFLRWCAASGIAGLAGCSSLGFDDSGDDNSVTELSDEVETATATDG-----------
@@ -1403,7 +1389,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -------------------------------------------------------------------------------------------------MTRRDAVRAGAATALASVAGCTSLPGAPVGSGRAEGDDGGPVAVASFFSF-----------
 ----------------------------------------------------------------------------------------MATHGSDESVDRRRFLAAAGGVGVVGLAGCMGDDNDDGESSDGGDGGDGDAGESIGQIG-----------
 -------------------------------------------------------------------------------------MSSDTTDTSRRGFLQRAGGATVATASVVSLAGCGSDGGDGSDGSDGSNGSDGSDGSDGGDGG-----------
-----------------------------------------------------------------------------------------------MADETPEADGDGSGDATRRGLLRAAAGATVAGAASTAGCLSVSTPANVAAEYEVTGNVAH----
 ----------------------------------------------------------------------------------------------MVRLTRRKTLQTGGSVIVAGLAGCSAFDRDASPALTLGEIEVANLDFRPHTVS-----------
 --------------------------------------------------------------------------------------MTTPFGAPGTGLSRREFLAAAGVTGVSALAGCSSKTINAPTAATDTPSEAQTTSPDLPYTS-----------
 ------------------------------------------------------------------------------------------------MERRRQFLKVAGAASIVGLAGCSGGGDGSDGSDGGDGSDGSDGSDGSDGSD-----------
@@ -1483,10 +1468,8 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 ---------------------------------------------------------------------------------------------MDRRTLLKVTGVAGSTVGLSAVAGCLGGGGDGETDEITITLSEFPDTVDPIDHI-----------
 -------------------------------------------------------------------------------------------------MRRRRALAAVTALAGTATAGLASSRTGNDRLLSVARTPGEAGEASTSTER-----------
 --------------------------------------------------------------------------------------MSQGDTPQGSRRDVLRALAAGSVVGVTGLAGCVGSPDEVGNGDDENFDTVQFGVLEPFTGA-----------
-------------------------------------------------------------------------------------------MQLRPSDRPEDHRRRRLLRTVGAAVTTGTVISTAGCLASLPMLGQQIRYADVDVPNSGEPIYRE----
 ------------------------------------------------------------------------------------MDARSAIGQGGIDRSRRRFVAASTALGSAMLAGCISGRDDPTGNGHSNGDGHTATLQPMGDVS-----------
 -----------------------------------------------------------------------------------------MSERNGPEIERRRLLTRVGVAGTAALAGCSNEEPATSDARTDGEPSGEKGTKRNGNGD-----------
------------------------------------------------------------------------------------------------------MPTGLGRRDFLAAASVALSGGMAGCAGVFAEEGNQVNIAGSSTVFPVTEAI------
 -------------------------------------------------------------------------------------------MRRPSSSSRRAFLTGAAAAGTVALAGCSTVFSVLPARAAYGRTRRREIPDVPPAVE-----------
 ---------------------------------------------------------------------------------------MPDGDKQWQQPSRRDVLKYGTAGGVSVLAGCLGGSNSTDRFRMFDAETSGALPSQRHCNP-----------
 --------------------------------------------------------------------------------------------------MQRRDLLALSALGVIGSAGCLAELGRDRASAPTEDETGTDTDTDTAGAD-----------
@@ -1790,7 +1773,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -------------------------------------------------------------------------------------------------MRRRAFLATTSGASLAALAGCLGDTEYTVADTNVQASSGPLSFSASIVDA-----------
 -----------------------------------------------------------------------------------------MPSERRSPTRRQLLRISGTALSGTALAGCAGLMDDEGETTENTRTTASKKKDSGELTL-----------
 -------------------------------------------------------------------------------------------------MKRRELLACGSGVLSVGFAGCLGSLRPADDEAEQTTDITADSTTTFSTTA-----------
---------------------------------------------------------------------------------------------------MHDRESSTQDSNDVSAHRRTFLTTGASAGVTALVGCLFPASTSGGNVPPAGPTN------
 --------------------------------------------------------------------------------------MAEETNGLQAPTRRDYVKYGGAVIGGGLLAGCTDDSSSSEETTGEPSTSTDTDSGTSDDGS-----------
 -----------------------------------------------------------------------------------------------MSYPRRRFIQTGGALAGATLAGCISVNDGNSDDDTSGDGSGDGDSSGGTAQL-----------
 ------------------------------------------------------------------------------------------------MNRRTFLRTGTALAGGTALTGCLESLGFRTQSAWRDPPIVENRPDAVYYPA-----------
@@ -1826,11 +1808,9 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -----------------------------------------------------------------------------------------MVSNSMGTVNRRTFLKFAGASGLTATAGCLGFGGSGGSDTIVFGQPAAQTGQWDFLQP-----------
 --------------------------------------------------------------------------------------------MTYPNSSRRAVLTGVAALGVSSLSGCANLSLGATEEPTFSHGSQVSLDQQPLTNT-----------
 ---------------------------------------------------------------------------------------------MSSNSTRRSFLAGVSALVATGSAGCLGQSLSPFASEPVPPEEYDRTVSVTRVDS-----------
--------------------------------------------------------------------------------------------------MTTTPDRNTPFDSQSTACDTFPVDRRTLLKTLGLSVTTSVAGCNEILHPTGGAND------
 -------------------------------------------------------------------------------------MSDGDTIPHETPTRRDYLKYGGAVIGGAAFAGCTADSGSESTPTATGTDSDAVTSADDEATD-----------
 ---MTGDENTDVNGVVTDDSDTNDLDTNDLDTNDSDTNDLDTTRSPRHLSRRTVLTATAGIGITGLSGCLTLSPKVSVSGIGNSDVFRKVSVSEPWASGRVVASVSFTSTATTNLGVRGLTVIGSSGTEFDTAAVQSGQSKKSIFLP-----------
 -----------------------------------------------------------------------------------------MSDSTRGIPRREFMKAAVAIGGSAALSACLDRGGGMPDVEQGPDDLSTLPERQHAWNQ-----------
------------------------------------------------------------------------------------------------------MTRRCTRRGFLATSVASAVSLAGCVADAQGPPVDVRGAMYLPARAMNSF--------
 -------------------------------------------------------------------------------------------METERREFMRQMGAAGASIATLSIAGCANQNNPNGSGNSANKKIEENLPQERKIGK-----------
 ---------------------------------------------------------------------------------MLFLRPIVHYTSNGNRRSDMNRRTFIATTSAVLLAGCSSDGDDTGSTTTGTEQSTTTQNSGEMTGT-----------
 ----------------------------------------------------------------------------------------MLDNHTIGRRTFIKAAGAGAAGSLSTVSGCLGGNNGGSGKAPMDIESWPPQDLENKLVM-----------
@@ -1863,14 +1843,12 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 ------------------------------------------------------------------------------------------MCESTCSTATRRTLLAAGAGALSGTAGCLRDFRTVAGRDRIDQLELEIRTLPADSDP-----------
 -----------------------------------------------------------------------------------------------MPSMRRRAVLSSAAAISIGLAGCTTARERVGDLLREPPERVVDPDWSPEPGT-----------
 ----------------------------------------------------------------------------------------------MDRRRRTLLKAIGGSTALATLAGCVTTEEEPDGAGQDDETDPDGEADSDDEAA-----------
--------------------------------------------------------------------------------------------------MERHEGADPSGNRSRLSAAAGPGGTGNGPGRRRFLRGLGGGIAAVGAGLPALAGCLG----
 ----------------------------------------------------------------------------MAKNLYNKRFWYRLSRMTSKKPNRRRFLQAAGGMSVVGIAGCLGDDVDPDDDPLEDDNGVDDDDDDDTDED-----------
 -------------------------------------------------------------------------------MNPSTGAAESASDRAPSRRAILAGVATGVSSLTAALSGCLSFPDGDPPPIDVTDEELHEVAAIDVPEV-----------
 -------------------------------------------------------------------------------------------------MRRRRLLGTSAALFAGSVAGCIGDERSPTGPRTPPDAPREESLEEDVDPA-----------
 ----------------------------------------------------------------------------------------MTKNNISTERRTYLIAAGAVTAGMVPLSGCLGDDPTGTLATQVTDQPGDIADFESCIVT-----------
 --------------------------------------------------------------------MERKPPAGGNERSNTDDGSDVSPSRSSRRRFLSAVGASTAALSVSGLAGCLVRGEPSHLEGQIVVDGSNTLLPHGAAVA-----------
 ----------------------------------------------------------------------------------------------MERSRRTFVKSSLGVVAAGTLAGCAGGDPGDSDGTHEPEETPEPTPEPTPEPD-----------
-----------------------------------------------------------------------------------------------------MFYCFVTINSQCVTTDDMDRRNFLTTVSAGTAAAIAGCMGNGEGADFNVGMV------
 -----------------------------------------------------------------------------------------MTDLTAGEFDRRTVLQTTAAAGILGVAGCLGGDERAALHVGSPWGIDRDPLESGYALR-----------
 ----------------------------------------------------------------------------------------------MNMSLPRRSLLVGGGAVLSALAGCTDLGSGGSHEMDLVFVNYTSEVRRLRIEL-----------
 --------------------------------------------------------------------------------------MTRHVTDSVSRRTYLQLTGGSAVAGLTATAGCLGGDDLLTPGTAPGFPPFEMIEDGELVGY-----------
@@ -1916,7 +1894,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -------------------------------------------------------------------------------------------------MRRRSLLISLGAATTVGLAGCLGDGPPTDGTPGNGGDSDDNDGAPDGDPV-----------
 --------------------------------------------------------------------------------------MVQDTEISSPSINRRRVLQSVGAAGVVGLAGCLEGEEPAEEDDEGIGEEDVDPDELVEGGT-----------
 --------------------------------------------------------------------------------------------------MNRRSLLTLLGSSLVGITGCLGDEPPSAEEPDPPDALDADWPMPAADHG-----------
----------------------------------------------------------------------------------------------------MEHHESERTRHRERAPGVPDDVSRRRSLKGIGGAVAAGVGLPALAGCLGGA--------
 -------------------------------------------------------------MVDRPTDEKREEADAEDEELLEQFGGTPTFPRGTSNTHRRRLLKAMGGAGTVALAGCLGTEEEEEEPTPTPTEEPDDETPTPTEEP-----------
 ------------------------------------------------------------------------------------------------MNRRALLVSLGAAGSGIGSAGCVGRIPGVGDPSLDVSFDAEVRRSFGDDGP-----------
 --------------------------------------------------------------------------------------------------MNRRMVLAASGAVLAGGAGCLEDEDPDQDPDPAENDAYVRPDDDPETVP-----------
@@ -2392,14 +2369,12 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 --------------------------------------------------------------------------------------------MTQFDANRRRFLQGIGAAGALAVAGCLENDGSATTETTSEDSGNQAGLSAAESVD-----------
 --------------------------------------------------------------------------MTDSEHEHDRRSLDEVRTDGGASISRRELLGGAGAAGIAGFAGCSRLFDDGQADQEPGDGETAFSNPLAEYPN-----------
 -------------------------------------------------------------------------------------------------MNRRVYLAAVGTAATSGLAGCTSALGILEDEGCDGEACDIGMTRNAFVPE-----------
---------------------------------------------------------------------------------------------------MERERSGRDDRSRSPLERGDGNGDDGTGLSRRSVLETAGVAGAGVGLSAVAGCL------
 ----------------------------------------------------------------------------------------------MERRTYLRSLGAAGTVGLAGLAGCLEDSLGAVGGDESDETHWGDGSTVLEPPE-----------
 ---------------------------------------------------------------------------------------------MTDCWNRRGYLGAVGGTALSVSAGCLTTDADDRAESRPRLSDRTLRYGIVLPLS-----------
 ------------------------------------------------------------------------------------------------MPTRRNVLAVAAAVTGTSIAGCTDDSGAEAAEESPDEEDDDDGTEDALGAE-----------
 -------------------------------------------------------------------MTTGRGCSIEESDGGEPGNRSPTDTEPDGRLTRRRALATAAAVSVGATAGCLDSALNLDDTRVEVSPEDPGDDPEATPGE-----------
 --------------------------------------------------------------------------------------------MTQVPESAPSRRALLAGLGSLLGAGCLGASRSDGSERPATDRDDEWRMYGRDPGR-----------
 ---------------------------------------------------------------------------------------------MMTDRTRRSFVTAVVSAGALGSAGCLSNVSGRDGSNGSRPAESSPNAVEDANGD-----------
----------------------------------------------------------------------------------------------------MSPPTDDRTETSETRVRSRRAFLRSAVATGGTVALAACLENGAALEVPDGVAE------
 --------------------------------------------------------------------------------------------MTERILDRRRFTKALGVGMIAAVAGCTDDENNPVSEEDPDDPMEEDDEDGGLGDD-----------
 ----------------------------------------------------------------------------------------------MELPRRSLLRSGAGALALGAAAGCLIEPGDDGTAGEREGYAAFFALWDWAAEV-----------
 -------------------------------------------------------------------------------------MPTDVSNDEHHGRSRRTVLLATGAIGTAALAGCAGGGGDDDERPVTHERVGTGDVAFDHWTS-----------
@@ -2505,7 +2480,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -------------------------------------------------------------------------------------MSDNTTTTSTARCIDRRTLLSGLGGGLVALAGCSDSTGSSNSTDRSPAPSPSSETDVLESVT-----------
 ---------------------------------------------------------------------------------------MTRKGGRTLWHRRELLRTMGLTAATGALAGCEYATDNEFTADAVVLPPAAQSSLGFASIV-----------
 ------------------------------------------------------------------------------------------MSRKHDRRQFIKVAGSAGVLGLTGLAGCSGDGGDGGGDGGGGDGSDGGSDGSDGGST-----------
--------------------------------------------------------------------------------------------------------MLRRTFLSVAGATGLSGLFEDQTGTATTPTTETDAQPDDQSDTETDLHESD----
 --------------------------------------------------------------------------------------------MTDGLTNRRGFLASSAALAGTALAGCSGGSASGDDTLTLGVLEDRSGNFALVGDP-----------
 --------------------------------------------------------------------------------MAPKDDDEYGSGTGSGLTRRGYLAATGTTLATSALAGCGGDGGDGGSGGESLTPNVPEGTPETVQTQ-----------
 ------------------------------------------------------------------------------------------------MDRRTLIKHIGGVGAAAALAGCSVQEDTGDGSGSSDGESGGSTDSQGPAGT-----------
@@ -2652,7 +2626,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -------------------------------------------------------------------------------------------------MNRRWVLASTGFAFSTAIAGCADLNDEPAINDDSDEQDADHGTDDEIAGD-----------
 ------------------------------------------------------------------------------MRSPNRDTVSERGPDRSADLSRRQLLGASAGAAAAGLAGCVGLPTTLGGRLDGSEDVSLFQNGLRRLGY-----------
 -------------------------------------------------------------------------------------------MTRPESTSRRRLLAAVGAGVSAAVAGCTGSGGLGGEPSYEDGNGVEINASNVSNRT-----------
------------------------------------------------------------------------------------------------------MSRETTASLPTGFGRRDFLAAAGVALSGGLAGCSGVFAAEGKQVNVAGSST------
 -------------------------------------------------------------------------------MGESSNRIATDRASQSSISRRQYLASGAAVGVGAALGGCLGSDDGLTVGYALPFTGTYAMLGESIVNG-----------
 ------------------------------------------------------------------------------------------MGDGTSRGSRRRVLRATGWGSAVVLAGCVSVGEDTSQAGGESSVDRPADWCFDRLDD-----------
 --------------------------------------------------------------------------------------MARDNRPRGRRRDLLKAITAGGTIGISGLAGCVGDPDELGGGDDENFDTVQFGVLEPRTGE-----------
@@ -2737,7 +2710,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -----------------------------------------------------------------------------------------MNGPNGRPLERRRLLGVLGAGLLAGGAGCLGGDGGDGEDEGEDEPRTVDPTIEHPGDE-----------
 --------------------------------------------------------------------------------------------MRSTETTRRKFIGAGVATGGALLAGCITGGETDGSSGETYTVSMEPMGEVEFEGP-----------
 ---------------------------------------------------------------------------------------------MANIRYDRRRFLAVAGGVTSTVAGCLGGPGESDSSDTADGEPTVTDVSLLLNWR-----------
-----------------------------------------------------------------------------------------------------MVQDNDSQDSGTYRRDVLKYGAAGGTVLAAGCLGGSSSTDRFRVFDPE----------
 -------------------------------------------------------------------------------------------MRGDGRSHRRQFLVGLAATGSAALAGCSALSWIDDGGSSFTAADAADVLADGTEAP-----------
 -------------------------------------------------------------------------------------------------MNRRTLLGGLGAVGLASLSGCLGLVGMDSHESSPAGVDPAVREETGYEQT-----------
 ---------------------------------------------------------MLFSANVKKRRSKQLFNMNDNTPRNGDGNTSAGATQRRDLDRRHVLKTTAGGVVGLSLAGCIETVGSVVGSADIDPVTIGVLAPDPDSNS-----------
@@ -2813,7 +2785,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 --------------------------------------------------------------------------------------------MNGRESTRRRLLATGGALLASGVAGCVDEELGRDEPLIGDPEPYVEVELTAENDA-----------
 --------------------------------------------------------------------------------------------------MQNTRRGVLALGGGLVLSGCAGRLGGSEDGGTSSNDGVDVESVSLLLNW-----------
 --------------------------------------------------------------------------------------MTEADTAPTDRPRSRRSVLAGAAGLAVATSGCVRQVRTVVNREDVDQLSVTIVTRPADGDR-----------
--------------------------------------------------------------------------------------------------------MDHPTRRTVLVSAVALFGATAVTTASVADRTLVVADAESGDRLFEIPVD------
 -------------------------------------------------------------------------------------------------MRRRTFLASGGAVAGLGLAGCVTQEGDNGGTTGNGDDEDVLRVAANTSFV-----------
 -------------------------------------------------------------------------------------------------MKRRAYLGTLGAAGMGGLAGCVGDLPVVGNSETALGEPEQSRGNPSHPIH-----------
 ------------------------------------------------------------------------------------MVPDRCERTTSLGVSRRSFVAAASAVGAGGIAGCLGRGAEEGAVVAYGDTDFQDIMDPEGELH-----------
@@ -2897,7 +2868,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -----------------------------------------------------------------------------------------MDHTTRPRRRVLRTAAAAATASTALLAGCADDEEETDEAEAEEGTGNGQEADDEENGD-----------
 ------------------------------------------------------------------------------------------------MTPSRRAFLAVVGSGSALLAGCSQFPGDDSGASLEPSEPPESGVDEAPDPR-----------
 --------------------------------------------------------------------------------------------MERTPLTRRRFGAATVALATIGTAGCIDGDDGDRDDGDDETFDLEDPGTLTILLE-----------
-----------------------------------------------------------------------------------------------------MGNDPRSGSDGAISRRHVLLGAASAGLVGTAGCLVRGQDSGLEGEIVVDG--------
 ------------------------------------------------------------------------------------------MDDVGSPTTRRGILAGTATGIAGSLAGCTERLWSRAENPGPEQVSLTIKAVPADDDI-----------
 ---------------------------------------------------------------------------------MFTDGLPTTDRGSRRVRSRRQLLALLGGTASVGLAGGTLPADEPSSVTHSATVRVDEPVELTARGV-----------
 ---------------------------------------------------------------------------------------------------MRRRDVLAAGGLSLSLAGCLDVLEREDAWRELVVDPPGGVYVPPKVDE-----------
@@ -3081,7 +3051,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 ----------------------------------------------------------------------------------------MTRSESTSRSRRRVLASLGAGVVAAAGAGCTGSGGLDGEPSYEEGNVGDVNASNASNRS-----------
 ------------------------------------------------------------------------------------------------MTDVWRRRHLLAVAGTVAAAGCLDGIGSGASTDEAGNSTDETDGTDGTDGT-----------
 -----------------------------------------------------------------------------------MRRADGTAGRPTGSRRALLATLAGTTLGAVGTAGCLADGDRVRVLSAGSLASVLENGVGPAFRS-----------
-----------------------------------------------------------------------------------------------------MAARHRQSRRTVIRTIGPLAIAALGLAGSASARVDSSDDGDVCDGDDGTNG-------
 ----------------------------------------------------------------------------------------------MDANRRQYLARTGAVLGTAALAGCLDALDGDEGSDVDVEDRTGPRELDRAVGQ-----------
 ----------------------------------------------------------------------------------------------MRRRTLVRGVGAGTGAALTGLAGCLTRDAEEDGQDDGGEELDNSALRIATYTS-----------
 -----------------------------------------------------------------------------------------------MPRNRRAVLKGMGVAGLASMAGCVGGFGEESGDASAQVGMVYATGGLGDDSF-----------
@@ -3099,7 +3068,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -------------------------------------------------------------------------------------------------MQRRSFIAGLGIGGLAALSGCLGVIGMDEHTSTPAGVDPGVREDAGYEAP-----------
 --------------------------------------------------------------------------------------------MSKYYADRRTVLTSSAATIVAGLAGCTSSDGSGGNGGDGSGDPMLADGDEFEFAT-----------
 ------------------------------------------------------------------------------------------MTRENAVSRRKALKVTGAAATTALVAGCGGGGNGNGNGNGNGDSNDSGNGGGSSGTE-----------
--------------------------------------------------------------------------------------------------------MERPARRSVLEVLGGLALGGAAFSDRPRWPGFFGGYVEATPIDPLLE--------
 ----------------------------------------------------------------------------------------------MVRTPKFRRREAIAAAGTLLAAGCLGAGRRGPGDGDRGYLGADPTPPERDGDW-----------
 ----------------------------------------------------------------------------------------MTLPDRSSLPRRDYLRALVAVGGTTALSACLEFASDGDDGDPDVPTGTSDPESLPDRQH-----------
 ----------------------------------------------------------------------------------------MTERSTTGPTRRKLLAIGAGTALTSGLAGCARTETTDDSSGEHTVTMEPMGEVTFDSVP-----------
@@ -3176,7 +3144,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -------------------------------------------------------------------------------------------------MHRRQLLTVAASSAVVAAAGCLGSGDEPADESDDPDDTNPNESDDTPPNG-----------
 ------------------------------------------------------------------------------------------MTDSFTANRRNVLKTMGAVAGAGAVAGCTTYGDSNDDTEGAYSVTMEPVGTVEFDEV-----------
 -------------------------------------------------------------------------------------------------MNRRKFLAAVGGAAGAGLAGCVSQPGSPSSGNDDDGTLTIATYDSFVEDQ-----------
-------------------------------------------------------------------------------------------------------MRNHSRRRYLGVCAGGLAAGLAGCFRARAQLWSVRNDRAQWVKTVGTSID------
 ---------------------------------------------------------------------------------------MTQDTDANGRTRRRAFLAGSAALGAASLSGCFGLFGGNDDEGDEYEYELEQIGSGRTGRE-----------
 --------------------------------------------------------------------------------------MAPDSERLSDVVSRRKFLVSSASAGAVGLAGCLSNNEQSSDGNSNDGNGDDGSNDDSTAES-----------
 -------------------------------------------------------------------------------------------------MDRRSYLAALGTAAVGSLAGCTGGQVMTVRPARPIHVTRGRGEIVTIPAE-----------
@@ -3285,7 +3252,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 ------------------------------------------------------------------------------------------MTGNQPKISRRTALKTTGVAVATGLAGCTGNGSEGASNQLELLHAWSSGDGNAAIAA-----------
 ----------------------------------------------------------------------------------------------MNLTRRNALKSGAGVLTVGGLAGCLDDVDASQGEFDSAYAAFFALWDWSQAVA-----------
 ---------------------------------------------------------------------------------------------MNDSRRRKFLKVAGGVAVVGSLAGCAGEAQEDDQGGSETGDEPANESGQEEEPT-----------
---------------------------------------------------------------------------------------------------MKLSRRNFLKLVGAMGASTFLTTCKADLVKALEDVKDYWHICWLNGAACTGCTI------
 ----------------------------------------------------------------------------------------------MPSTSRRTFLGMVATGTVASVAGCSSTCPDEGAPDPSHTVESGIENPGFETVP-----------
 ----------------------------------------------------------------------------MSDIIMCYVMSYEDIRDKISETSRRKFIAALSITAGASLAGCSMGGSDDGTPTSEPKAAPSQTPDEPAEPL-----------
 -------------------------------------------------------------------------------------------------MNRREYIVAAGVGLAGTVAGCSGQSEAGSGSDGGADESTASGTTAAESTP-----------
@@ -3398,7 +3364,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 --------------------------------------------------------------------------------------------MSRQRLNRRTFVTAAGTASALALAGCADSGPGGGNETEDEEPGETGNETGGGSGD-----------
 -------------------------------------------------------------------------------------------------MHRRAYLAAVGTAASTGLAGCSSALNVLGDDPCTGENCHIGMSRTEFLPE-----------
 ------------------------------------------------------------------------------------------------MVRRRQILLATLAAGAAGTAGCVSDDPSDERNENGDDQSTGSNDADLPSDL-----------
--------------------------------------------------------------------------------------------------------MPTHDDRPPSSSGDSGDPPRSSSLGRRRFLQTTGIAALTGAAGCT----------
 ---------------------------------------------------------------------------------------------MKNDTLPRRRLLTLSSAGLITTAGCTENVYEGFQPDDGRSETNKVTEGGPRNQP-----------
 --------------------------------------------------------------------------------MTNDPHPVGGAAERPRSRRGVLRTIGTAAGASASLAGCLGQGWSGDEEIPLAETGREQTVPDGVAQF-----------
 ------------------------------------------------------------------------------MAGSDSHSKADRGAIARYTSRRRFLTAASVAGVTTTVAGCIGGGDDDPAAPDERPEYNGEEVTVEWSTA-----------
@@ -3796,7 +3761,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 ---------------------------------------------------------------------------------MPRDPQENRKHKQMNSTRRRRLLQALGAGAVAGLAGCTGDDDGDNNTGNGGDNNTDNGGDGGNGGD-----------
 ---------------------------------------------------------------------------------------MTDKSDTSARVGRRRWLSALGASLSVGVAGCLGDSEDPDATHESSDDSTTDGDTGDESSD-----------
 ----------------------------------------------------------------------------------------------MTKRTRREWLCLVGAGGVAGLASCSSSQKPVTAKWTFETGRIVASSPTVVDST-----------
-------------------------------------------------------------------------------------------------------MQSGDGCPTRLTRREALAAGVGVLAGGFAGCTRASEFIADRVTGELNLF-------
 ----------------------------------------------------------------------------------------------MSELTRRDALAGVTTLGAVALAGCVSENNNEGDQPGDQSENSGEDDPNDAENG-----------
 ----------------------------------------------------------------------------------------MRQNKQSSGLSRRRFIAAGGTAATAAVAGCAGVVNWVIDQFFGEVNVGNNTGRTLDGSI-----------
 -----------------------------------------------------------------------------------------------MNRRQFVATSITAALTAAGTAGCLGVLSEDNAPPPRRSNLLTDIAVRSGQLQ-----------
@@ -3864,7 +3828,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -------------------------------------------------------------------------------------------------MRRRALLAVAAASTTVPLAGCPTFPWGEVPETVDGAEVTVRREHTGEFDP-----------
 ------------------------------------------------------------------------------MTGHELDGRDGGGRDDARNVRRRRFLAAAGSVGVAGIAGCSGSDDEDAGGDGEAGDGGGGGGDGDPESP-----------
 -------------------------------------------------------------------------------------------------MNRRRLLSLAGLAGTGTLAGCVGPDGSGGDPDGNGGAAGADADAADGSGA-----------
----------------------------------------------------------------------------------------------------MSDSQTDGDQASSGNSTVSRRTYIAGAGAVGLTGTAGCLGGLGGGSGSQ----------
 --------------------------------------------------------------------------------MIVPYCRRMSDDSTGSGVSRRRYLTTAGAMGAAGLAGCAGGGGGSDGSTTGSSGDEIGGTVTVFSGS-----------
 ---------------------------------------------------------------------------------------------MSQDLSRRKMVAALGIGAVGAIAGCIGAPVNAEPTPAAETTPDVTPELDPAREV-----------
 --------------------------------------------------------------------------------------------MHRRRFLERAGAAGVAVGTSLALAGCLADQYDVGMTATGFVPEAVTVEVGDRVVW-----------
@@ -4125,7 +4088,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -------------------------------------------------------------------------------------MTDNIGAPGTDMSRREFAKAAAGTTGFMALSGCQAAPAEESGVTVSEVESQGSTPAQTTNPA-----------
 -------------------------------------------------------------------------------------------------MDRRRFLTAAGAGVAGLMAGCSAESTDDGSTDTGSGSTDTPASGGTATET-----------
 ---------------------------------------------------------------------------------------------MPEKQTRRRFLTAAGAGAASLLAGCGSDTSAPTDGSGDGSDEDGSGDGSTGSDG-----------
----------------------------------------------------------------------------------------------------MNLSRRGLLQKGAGAVTLAAVAGCLSEPNSTNAEGGYAAFFPLWDWSRQVSGNEIA---
 ----------------------------------------------------------------------------------------MTIPERGGLSRRDYLRAVVAVGGASAISACLDERGEVDVPAGTDDPDSLPARQHAWNEF-----------
 -----------------------------------------------------------------------------------------------MDISRRRFAATALAGTGIAVAGCLDSNTGNIDGEFELEGESALPVPVAGDPD-----------
 -------------------------------------------------------------------------------------------------MNRRAYLASLGTVSTVGVAGCSTVTGTLRGEPCSGNDCDIGMTRTEFVPE-----------
@@ -4200,7 +4162,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -----------------------------------------------------------------------------------------------MDHTRRDALAGGALALSLATAGCLDFAAGDGPQGPEGTPATLTCEDEGFVRL-----------
 ------------------------------------------------------------------------------------MREVDKDQLEGPSIDRRTTMKLLGAAGLAGVAGCTGDSSQPGSDGSDGGNGGDGSGSDSSSLS-----------
 ------------------------------------------------------------------------------------------------MERRQFLRGTGAAIGGSLVAGCVGGGSESGTVTVDYAYYNPVSLVLREKGW-----------
-----------------------------------------------------------------------------------------------MADETPEADGDGSGDATRRGLLRAAAGATVAGAASTAGCLSVSTPANVAAEYEVTGNVAH----
 -------------------------------------------------------------------------------------------------MRRRRLLGLAAVATAGAAAGCLGGVDTGDGTGGADIEWPSGTYADYETTT-----------
 --------------------------------------------------------------------------------------MSQDSGRQADSVSRRKYLLTSAAVGAVGLAGCSGNGGDGDDGGSEESGNTMSSGSSGPSTV-----------
 -------------------------------------------------------------------------------------------------MRRRALLASAAAVSTASLAGCPTPPWTHDPTEIDSAEVTFRREYGGELDV-----------
@@ -4214,7 +4175,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -----------------------------------------------------------------------------------------------MPDLTRRRALLAAASGVAALAGCSGESDRPTVDTPREDETLDDYESRHVRNT-----------
 -------------------------------------------------------------------------------------MHGKDTDETDGPTRRDYMKYGGAVIGGTLLAGCTGDAGPESTPTTDETASDTPSRTGTATED-----------
 -----------------------------------------------------------------------------------MPREERPIQSVSRINRRKFIKATGASAVAATLAGCTSGGGGGDGGDSGDGGGDSDGDGGGDSGG-----------
-----------------------------------------------------------------------------------------------------MRSDRSDGAGFRVSRRRAVAIGGAAAASVLAGGVPIPGGIGRRADSAPREGDPESID-
 ---------------------------------------------------------------------------------------MTRDSTTIDRRTALKLTGGVATSGLAGLAGCAGGTGGSGDSDGSTDGSGGTDDSEGSGDT-----------
 --------------------------------------------------------------------------------------MTRESERLGDRVSRREFLVASGAVGTAGLAGCGASQGGSNTESASGGDGGGESTPTQSQSD-----------
 ----------------------------------------------------------------------------------------MDASGMQSVTRRKSLKAIATTGGVLGLSGCSALVPGRGSEYPSESITINIPFGKGGQTD-----------
@@ -4228,7 +4188,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 --------------------------------------------------------------------------------------------------MHRRTYLGLLGSGAAGLSGCVRDTSGVDDAASDTTRTTGSSPTSATTET-----------
 ----------------------------------------------------------------------------------------MMSFDSIRRRSFLKTGAAASTIGLTGLAGCSSITGGGTPELGLAFTVPVENFGSLFAIE-----------
 --------------------------------------------------------------------------------------------MDDPTPTRRRFLELGGTAALGAIAGCNTDAPSAGTGSPRESRSPTTAPSDHAVDA-----------
----------------------------------------------------------------------------------------------------MNRTKSKTELSRRTYLKATGVAAAGTVGLAGCAGTASATGTLATQVTDQPGDIA-----
 ----------------------------------------------------------------------------------------MSQSSSGYGVRRRAVIGTLGAGASAGLGGCLRRARSIAGWDSMDPVSLRIKTLPADSDP-----------
 -----------------------------------------------------------------------------------------MPSNTPSSSRRRLLQSTAALLGVSALAGCGGSGSASGTARAGPNVEPPEDALTDPTHV-----------
 ------------------------------------------------------------------------------------------MRTPLSTSRRELLAGLAGASGIGLFAGCSGGSEGAEGDDGGSTAEPGDEGDGGSTAS-----------
@@ -4371,7 +4330,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 ----------------------------------------------------------------------------------------------MRQLDRREFISGVSTAALVGAAGCTGGDGDSDDNNDNNDDNGGSGDDDAPAHT-----------
 -------------------------------------------------------------------------------------MRPEDEGPTTSPGRRTFLRAVGGLAVAGVLAGCTDGNGGTANGNGGTGNGGGGDSVDEWLSD-----------
 ------------------------------------------------------------------------------------------MPRDSFGTRRRQLIKGITASGAVLLAGCSGDQNTGNGGNGGNGGNGGNGGNGGNQET-----------
---------------------------------------------------------------------------------------------------MHTRRDALRRGALGVAAATEVAGCLVAGAEEDFPDPGRNTTNTPRAPVGGLRE-------
 --------------------------------------------------------------------------------------MTSEIGAPGDGISRRRFLAASGAVGVSAAAGCVTTSQPTVSRVDTGAQAMTSDLPTTGRPE-----------
 -----------------------------------------------------------------------------------------------------MFRRALLASAAATFAGCGLEPEPPSTPERPTSPPNLFASFEWLPDE-----------
 ---------------------------------------------------------------------------------------MRKGTDGRSTVNRRRFVQGAAAAGITAAAGCLGGGGGGESDRVPTDVEEWPPENLESNLN-----------
@@ -4450,7 +4408,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -------------------------------------------------------------------------------------------------MRRRQLLGGTGLALATATAGCLGFVTGEEPLSFAADPAVASEDTAGETGY-----------
 --------------------------------------------------------------------------------------MPDPSNWRRELSTRRTFLKTGAAGGAALLAGCSGDDPPEPGGNGGGNGGNGGNGGNGGNGS-----------
 -----------------------------------------------------------------------------------MVSPRDGRQPDSPWTSRRRLLRRAGVGATVGLAGCTSLLSRPTGYDRPQADFDPEVLPYDETYP-----------
------------------------------------------------------------------------------------------------------MVSRRNSLRFAGTGLFGLAGCLGTDASAAPTDTADGTPSPDASPTPRNSPTG-----
 ------------------------------------------------------------------------MPDRESSSAEEQIVDDLDGLLPGSIDRRKFLHGSLSSLGAVMFAGCMGGGGGNGGGNGGGNGGGNGNAEVFTTPW-----------
 ------------------------------------------------------------------------------------------------MNRQDVLLGAVGVGGLLVGAGCAADVGDDAERTAGDGTVRAANPPVTSVTG-----------
 --------------------------------------------------------------------------------------------------MTRRGALGVLAGAVGGTAGCAGLRGEGSPPIQRSWYTGIRDPSSVATTG-----------
@@ -4557,7 +4514,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 ----------------------------------------------------------------------------------------------MFDTTRRRTLEWLGIGGAASIAGCASQAPTAEDTGASTSTAQSTSTPKPTDTD-----------
 -------------------------------------------------------------------------------MSKQRSDNGTQKGAEQSITSRRKFLTIAGGTGIAALAGCSGGGDSSGSTETTASEETDSMSTATETGT-----------
 -------------------------------------------------------------------------------------------MTDDLTLDRRTLLAAVGSAGTASIAGCSFTQRESDSETTATDESLARELAERFAPT-----------
-----------------------------------------------------------------------------------------------------MSDDSPADSSATNRALTRRSLLTAAAGAGVASTAGCAGVSTPADVAEAASISGNVAYF
 ---------------------------------------------------------------------------------------------MAYVMRRRKLLRRGALLGAVGLAGCSSGEDGAQTGLDTETEAETDNSGQTSSSD-----------
 -------------------------------------------------------------------------------------------------MRRRAVLTGVAVGLTSILAGCTGSSGSGADATDAPTTTDTTDETDETAGL-----------
 --------------------------------------------------------------------------------------MGNYVGAPGSKMSRREFLAATGSTGALGLAGCTAPTQERIQAGQDGSATAAATQDGSVPTT-----------
@@ -4716,7 +4672,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -------------------------------------------------------------------------------------------------MERRKILLGSGAALATVLAGCSSTETGEEDPDDGDDHDDGDDHDDGDDHD-----------
 -----------------------------------------------------------------------------------------------------MRRRQFLATSALGLAGCLAVPAVDPGGPPSSDDLLREALETRTRLT-----------
 -------------------------------------------------------------------------------------------------MNRRAVLGVGAAAGLSAVAGCLTGTFGDEASDDIVLGPPDDVEDRGEPIY-----------
------------------------------------------------------------------------------------------------------MPSDRRTVLAICGTGAATALAGCADARASTRDVVSPHDPIEASLNTKRVFG------
 -------------------------------------------------------------------------------------------------MNRRAYLAAVGTGVSATLAGCASVLGAFDGEEYQIGMSRNAFDPEEYEAT-----------
 ----------------------------------------------------------------------------------------------MHRRPFLQAVTSLSAATLASTAGCLSAFGDERGSIEDRDRSGYDDGTVAWPED-----------
 ----------------------------------------------------------------------------MVSDRDSRSRRKDNDGISAESTISRRHTLQAGVVTAVSLSGCLGDGFSVGDDTADSGDGAAEEPTDDADSD-----------
@@ -4774,14 +4729,12 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 ------------------------------------------------------------------------------------MSQKQGNKFTRRKFLKYTGVAGATILAGSSLTGCLKGGEEEKVDTAVIGTTDSVTTLDPANCY-----------
 --------------------------------------------------------------------------------------MDKKENSKLSRRNLLKVIAAGGAAATVGVSGCTQQQQGTTTKYACPYCDKEFESQSKLKTH-----------
 ------------------------------------------------------------------MLLIIGLRYIRKINYLVTEAKMKDCKLSRRKFLKYSGAVGATLLAGTGLTGCLQENKPSQTTKTLKAGGSSTVYPIASDAQ-----------
----------------------------------------------------------------------------------------------------MKEKKEVEVQEKDNREGSELTRRQLLKMVAVGGAATTVGVSGCLEREEV----------
 ----------------------------------------------------------------------------------------MELNNLSRRDFLKLSGTSIAAASLGPLSGCISNEKTAMKLGYQPPALGQQAPYQVMKHK-----------
 ---------------------------------------------------------------------------------------MLFMTQRITRRSFIKTAAATGIAATIGFSGCLSGNGKSIVKISHAGSLAYPFNNIKEAYE-----------
 ---------------------------------------------------------------------------------------MDYDNLSRRDFLKYSGTLGATIIAGSSFTGCMGGGNKITIGSLLPLTGNLKDFGPPMLNG-----------
 -------------------------------------------------------------------------------------MKDKQKKISRRKFLKYSGAAGATILAGSSLTGCMQQGTEIKNPNTIIDQQTGTVPSLDPAWV-----------
 -------------------------------------------------------------------------------------MGTSRDTEVSESQTSRRAVLATTGVGIAGLSGCLGGGDTGSSGTTTGEPESSNPFRNQTLRF-----------
 --------------------------------------------------------------------------------------------MKQIGRRETLTRVGVGVASIVALAGCVTTGGGAGDEGEESASTDTTASGSSESSP-----------
------------------------------------------------------------------------------------------------------MVERSEVDENKRATLRRFAVLGAATPLATFGGDDETGGESEARDAIAG---------
 -----------------------------------------------------------------------------------------------MRGSSSTRRGFLAVAGATLAAGCSEFNPLDSSTSESVYSHELPDVTDDGESG-----------
 -----------------------------------------------------------------------------------------------MDRTRRQSLIAMGSLSLLGLPGCSSSGPTDSDGDGMIDSKDYAPQDPDVQEK-----------
 ----------------------------------------------------------------------------------------------MARRSRRRFLQVSLAGLAAGLAGCGMPGGGEEGGGGEEGGEEEGGGEEGGEEE-----------
@@ -4893,7 +4846,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 ------------------------------------------------------------------------------------------------MDRRSYLKALGASGAALTLAGCTSNGGGDGSTTTGSTTTGSTTSGTQQTQI-----------
 ----------------------------------------------------------------------------------------------MPSTTRRALLCGAGAAAVGALAGCSASETHSSSPDGGTLVTDYTAVITRSAGE-----------
 --------------------------------------------------------------------------------------------MPSTRFSRRRLLAGIGAASAAAVAGCASLPAGPTDGVTSVRRAHLSMPATPRPND-----------
--------------------------------------------------------------------------------------------------MPKRRDLLAAGSSLTAAALAGCSAPVGRACASTGPCKNAVRDNISIDVLNISFAY------
 --------------------------------------------------------------------------------------MVDDNNHGDGKSPRRTFLKLSGVAGAAALAGCSSETPSDGDGTTTTSTTSGGDSGGTGDQS-----------
 --------------------------------------------------------------------------------------MARDATGRDAPTRRDYLTYGGAVLGGGLLAGCTGTGADETTTSSDSTSGGSTSTEATADAS-----------
 ----------------------------------------------------------------------------------------------MTDFTRRRFLAAFTGTGLSAFAGCATPFSRGGRGPSPPIGEGDQDSDETFNPP-----------
@@ -5094,7 +5046,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 --------------------------------------------------------------------------------------------MTRTYSRRALLGVLATSLAALTGATARPSCAPITGSADVECGGPLSLSGPAAVQQ-----------
 ----------------------------------------------------------------------------------------MGPENEAAVVFRRRFLATVASTSALALTGCTTGSEDATTDTSTTGESDSGESDNDGTDE-----------
 ------------------------------------------------------------------------------------------------MKRREYLRAAGAGVVGLASAGCLEVGGSEPSGPLTIATYDSFFGDEGTAGR-----------
-------------------------------------------------------------------------------------------------MRRRDVLAAAGATGLAASAGCLGFLETERASREPPVPENRPDAPYLPSHTEGMEMAG-----
 --------------------------------------------------------------------------------------------MHMRIDRRRFLKRTGGVATIAALAGCTGGDGDGGGDDTTTSSGGDTTTTSSGGGG-----------
 ----------------------------------------------------------------------------------------------MTLHTRRRLLATIGAASSAALAGCSTERFGGGWPRTTETTTDPIPGEERGWAQ-----------
 -------------------------------------------------------------------------------------------MTNESLYTRRRMLSLSGTAAAIGLAGCSGGQAEEESHDDEEEGHGEDSHPDEEIGA-----------
@@ -5170,7 +5121,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 --------------------------------------------------------------------------------------MSDDPTQHTGPTRREYVKYGGAVVGGGLLAGCSGDGESEATRTTTGTATETTTAPTTDTPE-----------
 ---------------------------------------------------------------------------------------------------MTLYRRRLLALLATTVAGCGETTESGVTAETPTPTPARSVSSSSAPSG-----------
 -------------------------------------------------------------------------------MRQSDSQRTAECTSKSGSKRRRTFLKTGAAGTAALFAGCLGWGDGGSSGSSESTGGGSEANGASTGTP-----------
----------------------------------------------------------------------------------------------------MNRRSFLASGTALGAVATAGCLGAVGFGDSNPNVALGAPDRTADVSSED----------
 -----------------------------------------------------------------------------------------MSDDSDAASSRRRFLAAASTVGVASVAGCNGLLGGNTTSGEGTGTESGSNEGGTASSS-----------
 -------------------------------------------------------------------------------------------------MNRRQYLSLVGLAASGAATGCMGTPTADRTQTTTEPTTDSVTGTDAPPTG-----------
 ------------------------------------------------------------------------------------------MAGKKPTRTRRRFLQAVGAASAIGLAGCTGGGGDSGNLNVDEGSGSGSSGGSSGGSS-----------
@@ -5369,7 +5319,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 --------------------------------------------------------------------------------------------MTPQKLSRRGFVTALTAGAVGALAGCLSNGRDPGEQAPGQPLAVPTKGDPEADIT-----------
 ---------------------------------------------------------------------------------------MTEDQPDRNRISRRHALAVLGTGAAALISGSEAPFVGEEGVRPARTGQLTTDGSGGEQPS-----------
 ----------------------------------------------------------------------------------------MITDGPDRRPASRRRFLGAVAAGTVALAGCTGSSDPGTSGSGEQRETLSEPPEWPPVLG-----------
---------------------------------------------------------------------------------------------------MNRRTVLQTSAAVGVASVAGCLGASGSNAEDRPDPVDLSGTKFDYQGGMEIGTH------
 ------------------------------------------------------------------------------------------MARQYDMDRRAYLTTIGAAGATALLAGCTQEGSSGSDAETLVPGTAPGFAPFEFKEG-----------
 ------------------------------------------------------------------------------------------------MIQRREFLGVLAGGATLAVAGCAGDDSTGPAAVTDETLTLTTTTSTYDTGL-----------
 ---------------------------------------------------------------------------------------------MTRELTRRDLLGIAGAAGSVALAGCGGVLGDKRGVPGTPGNGSGDGGGNGGGGS-----------
@@ -5390,7 +5339,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 ----------------------------------------------------------------------------------------MSEQNLQSSQSRRKFLVTAGAVGATFAAGCTGGGSDQAFGDGTVDFNVSPSVAQENLEA-----------
 ---------------------------------------------------------------------------------------------MTPTPDRRQLLRAGGVALLGSLAGCSDLLGGSVSFDENVPDEVADHLENANNVD-----------
 --------------------------------------------------------------------------------------MTQDSKRLSGRVSRRKFLIGGSTVGATALAGCTLGSGDESESEIDTLTADGSSTVYPIANR-----------
-------------------------------------------------------------------------------------------------------METAAADGPTISRRELLGGAAGLTLASTSGCIQRIRSILNRDSPSA----------
 ------------------------------------------------------------------------------MPANDSPAEGGVEITQSRAVDRRTFLAAAGTGATVGLAGCLGGGGGEGVRIGGVYLLSGLAEALGAGSA-----------
 -------------------------------------------------------------------------------------------------MRRRRYLGAAAGVALSALAGCFGGSETNSPRSVVRAYLEAEHDGDAGAMA-----------
 -------------------------------------------------------------------------------------------MTEHTHLDRRTFVRLASAGTVAAVAGCGSSEEPTEQADEAPTDQEGGPQTDSSGGS-----------
@@ -5460,7 +5408,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 ------------------------------------------------------------------------------------------MDDPSCSRRALLARGAGGLVALGGLSGCVAEVGEQFPPNREWPTGEYVPALPVTKRS-----------
 ----------------------------------------------------------------------------------MRRGPLSKTVSHSSPISRRRILRYGATGGVLALAGCLADGSREPDDPDDHRDENRRDDGSDGGSD-----------
 --------------------------------------------------------------------------------------------------MFPTRRRVLVGLGAAGLAGCLSGDRETEPDATTVETEVVLAGLDTPWDL-----------
-------------------------------------------------------------------------------------------------MDTDTRELRRQTGESADKTGVSRRRLLQASGVLGASALAGCTETGVLGGTAAAFDEK-----
 -----------------------------------------------------------------------------------------------MAIQRRGFLALAGGTAAAGLAGCTGTFSGGEESEGGNESTSGGGSIADQELV-----------
 -----------------------------------------------------------------------------------------MDDGDRIDGGRRAVLGGVAAVGAAGAAGCTGLFGGGGDGGEDGGSPDSDIGQIGSGRE-----------
 --------------------------------------------------------------------------------------MTTSNPLSTGRSSTRRAFLAAGAAGIAATAGCTGSAEPSEDVVRIGVLEDRSGGFALNGTS-----------
@@ -5527,7 +5474,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -----------------------------------------------------------------------------------------------MDRTRRQLLAGLGTAGGAAVAGCTSFLPGVGGGADGQFALS----------------------
 -----------------------------------------------------------------------------------------------MNTASRRGFLAAGAAVMASAAGCLGVLSNSYNPTAKPDEIGMTRPTQGPDDA-----------
 -------------------------------------------------------------------------------------------------MERRQLLAVSGALLAGAVAGCTESSRLEKPGKPKQAPATTLASLDNAALE-----------
----------------------------------------------------------------------------------------------------------MRPRHGTGPEWVITAGYHMLRRMSRRAVLSSVGAGGLAAAGCLMAETD-----
 ---------------------------------------------------------------------------------MSPRDTHTNEDNTRQTSQGRRRFLLGMGALTAALAGCTSDNTDESDAPPANGSENSSTTDDSSTDA-----------
 ------------------------------------------------------------------------------------MPQNTPSLTRRTPISRRRLLAATGSISLGALAGCIGGGTDGTAGDDATDSQDTTWQTTTLTDV-----------
 ---------------------------------------------------------------------------------------------MSDNTDRRRFLAGVGAVATAAVAGCAGDDEDPAAGETSSDENTDPGTEMGSDGE-----------
@@ -5687,9 +5633,7 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 --------------------------------------------------------------------------------------------------MNRRTLCAVVVGSPATITGCLGNSQGSDTPDDEPTGTPTPTRTIPPYDR-----------
 -------------------------------------------------------------------------------------MSEQNDQTHRPTSGVGRRAYLAGVAGLAGLAGCVGGSDGGDTGTTQAATDTARTPADRGVVL-----------
 --------------------------------------------------------------------------------------------------MNRRSLLVSLGVGCVVGSGCLSSSRGDGPEPTTTPTTTDQTTQPPTVRG-----------
-------------------------------------------------------------------------------------------------------MSADADKYPGDSGRRRFVKGVVXXXXXXXLDAAAVRRHLAQSLVEPDFEYGFDA--
 --------------------------------------------------------------------------------------------MPTRDLDRRRFVQGVGLAGLTGLAGCTGGGDGGTETATAPAQIGMVYATGGLDDG-----------
-----------------------------------------------------------------------------------------------------MPSVGDAPSVSDHTPARRRLLAVVAAAVGGGCLDPTASPVGATPDGSDVGPDW-----
 -------------------------------------------------------------------------------------------------MNRRQFLRVGGVAAVATVTGCADGRGDDRPRVTTQDTADETAAETTATDD-----------
 ------------------------------------------------------------------------------GRSLAAAAASCRDVHTPPHLDRRSVLRVVAAASGVTLAGCGETAEQSSTTEATRQQTATATTTAVDPNA-----------
 ----------------------------------------------------------------------------------MSDDDNRRASGDQLVSTRRRFCATAAAAVGVSVGGCLGGDDPVTETHAVDFDDPTTTQTPSGYGD-----------
@@ -6225,7 +6169,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -----------------------------------------------------------------------------------------MLPDSRGVSRRAFLKSAVAIGGASALAACVDREDADIPAGVDDPASLPERQHAWNDAL-----------
 -------------------------------------------------------------------------------------------------MSRRRFIAGTGAAGLGALAGCNGLNAITSGGSNSSSGDLTLDFWHIFGDE-----------
 -------------------------------------------------------------------------------------MAGNDSQVSRRSFLKAAGTATVAATATGSVAGCLGGGGGGGTLRYGRGSHSQTLDPHATTSG-----------
-------------------------------------------------------------------------------------------------------MVPDTTASLSRRQVLGAGGAVLAATLGARFFPQSPGDDTTRVEWPMTQR-------
 ---------------------------------------------------------------------------------------------MRDRTRRDVLRATAGIGATAALAGCLGGGGGGDGDEDIEALDAPEGTEVVEVGP-----------
 -------------------------------------------------------------------------------------------------MPSRRRLLGLVAAGTLPFAGCLAAPSDADPTTTDSSTTSATTTERGPVRG-----------
 --------------------------------------------------------------------------------------MAQDDHTHEIPTRRDIVKGGGALVGGSLLAGCTGSSDSTATTSETNETTSNPTTEPESYTV-----------
@@ -6600,7 +6543,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 ----------------------------------------------------------------------------------------------MNRRRLLRASTAALAGGVATLAGCADPSGSGDATDGGRTRVMSLSPTVRKTAD-----------
 -------------------------------------------------------------------------------------------------MQRRNFLGAAGTSAIIGLAGCTQLTQQNQQQTPTQGQSNQTGNQGSGQIG-----------
 ---------------------------------------------------------------------------------------MTKDDSNTTRRTYLKSTAVAGAAGMAGLSGCLSGMGGGGDGGGDGEKLEILHGWSGGDGK-----------
-----------------------------------------------------------------------------------------------------MVSQNNERSYLDRRSYLKGVGGATALGMTGLSGYTRQGDTLTVGLSTHFTSG------
 -------------------------------------------------------------------------MTDNLDSGAESEPLQERKSAINNVNRRNLLKTGGALIGGIGLAGCSGNTGNQSGNGDGGGGGETTNIAIISSPA-----------
 -------------------------------------------------------------------------------------------------MHRRTLLRSIGVAGVASLAGCSSSDGSTGETQPEPRTSGTDGTQSTTTET-----------
 -------------------------------------------------------------------------------------MPRRRNGSGADDSRRKFLKASGAGAVALSLAGCSGNNKNNKDPNTDGTSNSPGGTKTTEVSG-----------
@@ -6827,7 +6769,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 -----------------------------------------------------------MTDDETTDGRGFPSDTDSDEDGSGGRSGDTEAVGATDRHTRRRVLALGGAAGAAALAGCSAERTNDDEGAGDGAGSDGE--------------------
 -------------------------------------------------------------------------------------------------MNRRRVIAAGIGGAVTGLAGCLGGSASEEALPDPVDLEGEFDTDHGMAIG-----------
 -----------------------------------------------------------------------------------------TNPFADGVDRRRLLQTTGAVGAATALAGCSGDGGGGEGPAPTVFVFNNGDRTVSVIDA-----------
-------------------------------------------------------------------------------------------------MSMLSDMFARMPPTRRQYLARAAGVGSGVAAGVSAGCLGDTSPAGPRFTLRIGSKGF-----
 ------------------------------------------------------------------------------MDRDGVDDPSDRGGGAVGGLTRRRTLAATGSLGLAGLAGCTALDFVTGGGPVEFAAEAATVSDAALEET-----------
 ------------------------------------------------------------------MSQDTRRSTDAGESDGQPTGDDGFDSMLPGLRRRDFMKAGAAIGGLSGLAGCTSLLSDENTVDGAASASGVDNSVPPGEHD-----------
 ---------------------------------------------------------------------------------------------MDRRTFMRSLAAGTGVSAAVGTAGCLGVLGTGGAEGTVLGPPERDLSEASFPSY-----------
@@ -6903,7 +6844,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 --------------------------------------------------------------------------------------MANDGQSGRESTRREYLQYGGAVIAGGLLAGCTGGSGSETTTTASEPETTTAATTEAATET-----------
 ------------------------------------------------------------------------------------------MTDSDGPTRRKFLTYGGSVAAGGLLAGCTGSSESDATATDAAATDTTATADATATSE-----------
 ----------------------------------------------------------------------------------------------MPMNRRTILKQLAGTTAVGALAGCVGVSETDSTQTSEQSGAEGDDGSEETTAG-----------
------------------------------------------------------------------------------------------------------MKRTNRRRFLAAFSSSAFAFTAGCQRPVASASERHPVSEPVTSWPTFRGGRYN----
 --------------------------------------------------------------------------------MSEKNRDSSGVERGTGLTRRDYVAATATALGVTGLAGCTGGGGSGNGGTDGGSSLTPDVPSGTPETV-----------
 -----------------------------------------------------------------------------------------MSQDGNDVSRRRFLTAAGAAAATAGLAGCSGGGGEDTTTESDETTGEGETDQTETETE-----------
 --------------------------------------------------------------------------------------MEHDETPRTGLTRRDYVKYGGAAVGGGLLAGCTGEGGSESTTDAETESTTETATETEIETP-----------
@@ -6984,7 +6924,6 @@ MSRSESPAESVAEHEERIKRHLSASREIAETLEFDDDLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDEDDDEN
 ---------------------------------------------------------------------------------------MPTRDARGGGLTRRQSLVGAGTLALGVTAGCLDSTSLVGGTREPVEPEAPGEDPDATPAE-----------
 -----------------------------------------------------------------------------MNSSRRNRASDTDAGRAAGSKRRRFLEGVAAGAIAAPLAGCLETFDTVAGSPEDRTEVVTVGVLAPEPDS-----------
 --------------------------------------------------------------------------------------------MTPEPRTNRRRFLTLTAAGTAAVAGCTDGSDQEAGPTQPSAAEQPETAPDGTGGD-----------
------------------------------------------------------------------------------------------------------MNRREFVRVGLGTGFCAGLSTPAGCLDAARGLSWGTGVGSLHAPGAIRIG-------
 -------------------------------------------------------------------------------MTGKHADTGRDSGTVTDGLDRRTFLGAAGAGAVATVAGCLGDDNGDVVRVGHIANVQADMGAGSENSG-----------
 ---------------------------------------------------------------------------------------------MGERPTRRAVLAAGGTGVAAALAGCASRSGDRPGDDGTRAHETYTVTMEPMGDV-----------
 -----------------------------------------------------------------------------------MEPNENDHPSGRRPTLRRRTMLGAVVGSTTLLAGCLGDTEFSITGVRDPDDVRGPPSFDLDVLD-----------
@@ -7271,7 +7210,6 @@ MSRSESPAESIAEQEERIKRHLSASREIAERLEFDDQLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDDDGPES
 ---------------------------------------------------------------------------------------------------MNRRTFIGVSGIGFGLAGCLDADSDTPTDSNGSRSDSDLATGNATDGA-----------
 -----------------------------------------------------------------------------------------------MTHSRRSLLAAGATGTIALTAGCLGFVLGNEPLEFAADRVAPTDEMVAETGY-----------
 ---------------------------------------------------------------------------------------MADNQFGRDAVSRRKFIAGTGAVSVAAIAGCSETSDGNGNGDELSGEVIVKGSSTVFPIS-----------
----------------------------------------------------------------------------------------------------MKLTRRALVTGGTGAVATGALAGCLDDVGSANAAFDSGYAAFFTLWDWADRVSGDA---
 ----------------------------------------------------------------------------------------------MELNRRRYLGSLGTTAITLALAGCTSDESDSDEGNANGNSGDSDTSDSGNNNG-----------
 ------------------------------------------------------------------------------------------MSNHTSELSRRRLLASGTAVSAAAIAGCIGGSSSDGEAFHYTQEQSREDQYDPIVSN-----------
 -------------------------------------------------------------------------------------------------MSRRSFLAAGVTGATLATSGCIDRVQSVVDQGGDEQFSLSITTVPADADR-----------
@@ -7324,7 +7262,6 @@ MSRSESPAESIAEQEERIKRHLSASREIAERLEFDDQLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDDDGPES
 ---------------------------------------------------------------------------------------------MARKLNRRRVLGGIGAAGTLSIAGCLNALSGDDDSGSGDIEPRLGILQPESGQL-----------
 --------------------------------------------------------------------------------------------MTNYSKSRRSLLAAVASGAAISAAGCTEMADETPDDEDDGGSGKATIALSEQLTA-----------
 --------------------------------------------------------------------------------------------------MKRRTFVTATAGGLALTAGCMGALGGDDQGRGTVRFYVSDEPNRIDDFE-----------
--------------------------------------------------------------------------------------------------MDDTTQSKTTYSFSRRRAITAGTGLFATGLAGCIGGFSSNKDASVEGPVAVASFFS-----
 ------------------------------------------------------------------------------------------MDAPHPLDRRQYLTVAGAALGTVALAGCGDDGGGPEDDNGDTGDDTGTDDTGGIDDN-----------
 -----------------------------------------------------------------------------------------MGRDEPVQTRRNYLATVGTTATAVGLSGCTGGGPQPPNESTNETAPASDERPIFPGYE-----------
 -------------------------------------------------------------------------------------------------MKRRTYLGASGLGGLSALSGCLDSFSSVTGDEPEPADGAVLGPPDREHDL-----------
@@ -7348,7 +7285,6 @@ MSRSESPAESIAEQEERIKRHLSASREIAERLEFDDQLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDDDGPES
 --------------------------------------------------------------------------------------------MDDPAPSRRAFLAAGGGGILAAIAGCAEPGSRAQAGRGDSSLPSAVDFDERADGT-----------
 ---------------------------------------------------------------------------------------------MSARFTRRAVLRAGAAVAAVSLAGCGGDGGGPGGGGNGASSVTELEPGAQIELD-----------
 -------------------------------------------------------------------------------------------------MNRRTVLAALASGSGAGAAGCLTDGDDPDDPGENSTDDPPTEGVSGETCG-----------
-----------------------------------------------------------------------------------------------------MALDSKSRRAVVAGGVLALGGSGLFLASSGEEDAASDPISPTMHGSEETTPVG-----
 ------------------------------------------------------------------------------------------MTRSHDVSRRTALKLTGAAAAATTLAGCGSSDNGDGDGSGGDDNTGGGDEYEIEPGT-----------
 ----------------------------------------------------------------------------------------MDSTTRESPLSRRTVLGTATAGAVLGLSGCLRGIRNLFRDEPADGFSLSVASVSPADDP-----------
 -------------------------------------------------------------------------------------MSDDRFGRFTGGVSRRNFIAAAGAVGAVSVAGCSETEGDEGEGDLSGNIRISGSSTVYPVAT-----------
@@ -7535,7 +7471,6 @@ MSRSESPAESIAEQEERIKRHLSASREIAERLEFDDQLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDDDGPES
 -------------------------------------------------------------------------------------------------MRRRTFLTSVGAGATAGLAGCLVNNGDDGSSEADITVGIVYSTGGLGDES-----------
 ------------------------------------------------------------------------------------------------MSSDRRAFITTVVAGSAALAGCSSVLGSPPPGEPPEAGVDEPPDPSRHVFG-----------
 -------------------------------------------------------------------------------------------MTDPISRRRILAGALALGVGGLSLSAANDLLDDFAPLSGDVWGATDRTPPESVQSP-----------
----------------------------------------------------------------------------------------------------MSREVDSPSKDDDDGELDAGSGSSRSIRTNDTTRATRTLSRRSALAGVG----------
 -------------------------------------------------------------------------------------------------MERRKILLGSGAVFATVLAGCSDDASEENDNNSSDDDGSGDDGLNDSDGN-----------
 --------------------------------------------------------------------------------------------MATERRSRRAVLTTLGVTTIASLAGCSGADIGNEPEYEAGEIGEIDGESRTPVEM-----------
 -------------------------------------------------------------------------------------MRDTTSDTTEAPTRRDTLKYGSTLVTGSVLAGCSELVGRDNGAEGTNTQGSYEACIEPVGCL-----------
@@ -7563,7 +7498,6 @@ MSRSESPAESIAEQEERIKRHLSASREIAERLEFDDQLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDDDGPES
 ---------------------------------------------------------------------------------------------------MRRRELIAALGVTLPTAGCLSANEADVPITNATDKSDTEAFDGTFSVG-----------
 ----------------------------------------------------------------------------------------MTHIMDRRIDRRRFLLQTAAAAGAVAAAGCTLEVEDDADPSEDPVMPQFYEIQDKPDAV-----------
 --------------------------------------------------------------------------------------MTSQINSRVSSLDRRRVLKGIAATGIAGVAGCLGGNDEEVNIDEALERNDVNIDDISEGGR-----------
------------------------------------------------------------------------------------------------------MLTSSVERIEDVALELSVRGHFGHHLHAAVDACVSMNRRQYLSTAGG----------
 -------------------------------------------------------------------------------------------------MEIPRRSLLVGVGISAASAGCLGRDRSASDGPSGKLTVAVTTSTYDSGLV-----------
 ---------------------------------------------------------------------------------------------MGPRIRRRAFIAASGTTGIAAFAGCIGEDAEDQEDDQEGGDDGGGGDIGEADPD-----------
 --------------------------------------------------------------------------------------------MTSNADCRRKFLCKSGAALAVGLAGCASRIRNTSDDAAKLVPRYDPDDEHQLIRV-----------
@@ -7631,7 +7565,6 @@ MSRSESPAESIAEQEERIKRHLSASREIAERLEFDDQLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDDDGPES
 ---------------------------------------------------------------MRPMPVGTRASGLAVGAGFDSTGYLTGDTETQAMPHRRRVLTATAAAASLSLAGCLSNDGGGDSQASSSTDAETTGDAASLADH-----------
 -------------------------------------------------------------------------------------------------MHRRAFLAGGTTLSVGVLAGCIGPSVSKSDYDIGMVSNGFVPQEPVEGED-----------
 -------------------------------------------------------------------------------------------------MRRRTVLVGVTGALFGVGGGCLTMGADETARVRAKRPSESAGDGETHVCT-----------
-----------------------------------------------------------------------------------------------------MTGTAPVSRRQYLGTAGAIIGTTAGCLTGADASIHVLAAGSLTSTIEDHIR-------
 ----------------------------------------------------------------------------------------------------MKRRAFLATAAVLTTTGCLGRTDSVSDSDDTDDCPTMHSDNDAVDTV-----------
 --------------------------------------------------------------------------------------------MRGQPVHRRSVLALVGGGAVSALAGCTDTTDGDATTTTPEPTPRSETQPTPTATD-----------
 ----------------------------------------------------------------------------------------------MDRRNFLKTAGAAGTIGISGLSGCLGVLGGGGEDADVRFVLTPAESDVNVKEQ-----------
@@ -7651,9 +7584,7 @@ MSRSESPAESIAEQEERIKRHLSASREIAERLEFDDQLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDDDGPES
 -------------------------------------------------------------------------------------EEKHLEKSDDSTNRRRFLQTTGAAGTAALTAGCTGILGGSDADTLKMGVLEDQSGNLSLVGI-----------
 ----------------------------------------------------------------------------MPSPGSIEYGPDIFHNVTTDNTTRRRVIGLVVGTGAIALAGCTDNPDDSGGSDGSGDSGQDDSSDGEDGGG-----------
 --------------------------------------------------------------------------------------------------MNRRQFLSGVTGAAGLLAGCIGRDESEVMLGTDTKLAIEETRITNNPDN-----------
-----------------------------------------------------------------------------------------------MTGFENSDGTDQPSRTRRTLLKAAAGAGAAASTGAAGCVSITTPADVAASSDLGGNIGYF----
 --------------------------------------------------------------------------------------------------MNRRQFLCGLTGTAGMLAGCTGRDESQVNLGPDTKLAIEETQIIADTKK-----------
--------------------------------------------------------------------------------------------------MSKSNTDADEMVSSDAEDSFADGISRRKALKTSAVAGGAAATAGCLGANSGGDRAP-----
 ---------------------------------------------------------------------------------------MGQIFSGADNRSRRRFLQATGTAATITAAGCLGGGGGAGSESLSVAWMPIYPDMQYFVMQ-----------
 ----------------------------------------------------------------------------MEYLSTPRGLRHMANPQGDATPTRRRFAAAGAALAAASLAGCTAVDFVRGEARFVADPVTVS--------------------
 ------------------------------------------------------------------------ISTNIDVDLLSGGATLRQDYLFINMNRRRFLATTGVVVGTTAVAGCTSSAGDPPPRRSNVIETVTLEDQSLQVQL-----------
@@ -7678,7 +7609,6 @@ MSRSESPAESIAEQEERIKRHLSASREIAERLEFDDQLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDDDGPES
 ----------------------------------------------------------------------------MNADADADTHTHTHTHTLTTGTTRRKLLAVSSAAAIPGLGGCASTENTGGPTGNDDPADEEPNEPAVSDTG-----------
 ----------------------------------------------------------------------------------------MTKSETDVFSRRSLLSAGGAVAGAGLLAGCSSVENSSADGGDSLEVVVGSKNFTESILL-----------
 --------------------------------------------------------------------------------------------MNPIDRPRRRFLQTVGATGALALAGCLEGDAAEDSNGGSNNSNGDGDGDDGLPPA-----------
--------------------------------------------------------------------------------------------------MTDRERTTVDGPAEGDADLEDGLLSRRFVLKTGAAASTAALAGCGDLLTEEDEAAE-----
 ---------------------------------------------------------------------------MTSDSDLDGVAGVDLDSDPSSGSTNRRRFLALSGVGAAGLAGCMDLGSDADDGDGPSADEPSATASSGETRT-----------
 ----------------------------------------------------------------------------------------------------MYRRSFMAVATVAPLAGCTGLLGGGVDTTLENGDFVDFDADEGADLT-----------
 ---------------------------------------------------------------------------------MGNEPITDRVGDGRRGVPRRRVLLGAAGTAVSGLAGCITRGEDSGLEGEIVIDGSNTLLPNSALVA-----------
@@ -7698,9 +7628,7 @@ MSRSESPAESIAEQEERIKRHLSASREIAERLEFDDQLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDDDGPES
 ----------------------------------------------------------------------------------------------MKRLTRRHALQFGSVALGAAVAGCSSLGVGASEPTRLTGIRVENRDPTARTVH-----------
 --------------------------------------------------------------------------------------MADRHATQGGRSSRRTFVLATGTIGTSLLAGCLDGDDGGGQAGAGLGGDSGSDSGEPRDPM-----------
 ------------------------------------------------------------------------------------------MEKGAPSTTRRRALAGAGSVVTASLAGCSERLWSRAENVGTDQIGLTIKTVPADDDL-----------
------------------------------------------------------------------------------------------------------MPPDRRTVLAICGTGAATALAGCADARASTRDVVSPHDPIEASLNTKRVFG------
 ------------------------------------------------------------------------------------------MTDASRSPSRRKLLATTGSLAALGVAGCLGDEEPDDETGGDDHDESMDHDDDHEHDD-----------
-----------------------------------------------------------------------------------------------------MADRDRRSRASSRPASEPTRRSFLSTAAAVGGVTTAGCLAGEDRISVL----------
 ---------------------------------------------------------------------------------------------MNALHLPRRRLLSGVTAATVALSGCADLDSDLEEPSTDDEPAAETELPDGAITE-----------
 -------------------------------------------------------------------------------------------------MERRKILLGSGAALATALAGCSSTETGDEDPDDGDDGYDDDDGGYDDDGY-----------
 --------------------------------------------------------------------------------------------MSGTESNRRRILETAGATVGLGLAGCLGGGESETAVADAADGFEGETLRVMVWSG-----------
@@ -7768,7 +7696,6 @@ MSRSESPAESIAEQEERIKRHLSASREIAERLEFDDQLSFEMGLPSPGRRTFIKTSGVVAASAALAGCAGDDDDDDGPES
 --------------------------------------------------------------------------------------MADRSPRIDRRTALRATGGLVGTGTLPAIAGCLGGNGGDGSDDDGSGGDDGGEAPPPDDGA-----------
 --------------------------------------------------------------------------------------MASSHDADTTGITRRKSLAALAGAGALGLAGCTQSSDGGDGSDGGDGSDGELSGPINIAGS-----------
 --------------------------------------------------------------------------------------MTDRTPDLDVDRRTYLRATGVAALGSVGLAGCVGRATGTLATWVTDQPADIGDFESLVVTV-----------
-------------------------------------------------------------------------------------------------------MDDAPTNGRKGLLAAAAVGAATTIAGRAALARLTGGRFGDAETYNTAKVT------
 ----------------------------------------------------------------------------------------------MPCSRRRALHLLGAAGATVATAGCLSPGSLDSYALVGDEPDLSSIGRPYLWPD-----------
 -----------------------------------------------------------------------------------------------MTRPISRRAALAGLGLAAASAGCLGRTENIAGRDPPSQLTLEINTTPADADP-----------
 ---------------------------------------------------------------------------------------------MASDFDRRRFVKAASAAGLIGLAGCSGGPSDGGDGSDGEDGGDGSDGGDGSDGE-----------

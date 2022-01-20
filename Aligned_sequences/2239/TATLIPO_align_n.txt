@@ -206,7 +206,6 @@ MSNATPRPAGRGDVGVEGQCDHDRRDDCDHAHGSESGHARGPRRTRRGVLGATATALVAGLAGCLGGTGNGDGETPDPVT
 ---------------------------------------MTRTYSRRALLGVLATSLAALTGATARPSCAPITGSADVECGGPLSLSGPAAVQQ----------------------------------------
 ----------------------------------MGPENEAAVVFRRRFLATVASTSALALTGCTTGSEDATTDTSTTGESDSGESDNDGTDE-----------------------------------------
 -------------------------------------------MKRREYLRAAGAGVVGLASAGCLEVGGSEPSGPLTIATYDSFFGDEGTAGR----------------------------------------
-------------------------------------------------MRRRDVLAAAGATGLAASAGCLGFLETERASREPPVPENRPDAPYLPSHTEGMEMAG-----------------------------
 ---------------------------------------MHMRIDRRRFLKRTGGVATIAALAGCTGGDGDGGGDDTTTSSGGDTTTTSSGGGG----------------------------------------
 ----------------------------------------MTLHTRRRLLATIGAASSAALAGCSTERFGGGWPRTTETTTDPIPGEERGWAQ-----------------------------------------
 -------------------------------------MTNESLYTRRRMLSLSGTAAAIGLAGCSGGQAEEESHDDEEEGHGEDSHPDEEIGA-----------------------------------------
@@ -303,7 +302,6 @@ MSNATPRPAGRGDVGVEGQCDHDRRDDCDHAHGSESGHARGPRRTRRGVLGATATALVAGLAGCLGGTGNGDGETPDPVT
 ------------------------------------MLPDSRGVSRRAFLKSAVAIGGASALAACVDREDADIPAGVDDPASLPERQHAWNDAL----------------------------------------
 -------------------------------------------MSRRRFIAGTGAAGLGALAGCNGLNAITSGGSNSSSGDLTLDFWHIFGDE-----------------------------------------
 ------------------------------------MAGNDSQVSRRSFLKAAGTATVAATATGSVAGCLGGGGGGGTLRYGRGSHSQTLDPHATTSG------------------------------------
-------------------------------------------------MVPDTTASLSRRQVLGAGGAVLAATLGARFFPQSPGDDTTRVEWPMTQR-------------------------------------
 ----------------------------------------MRDRTRRDVLRATAGIGATAALAGCLGGGGGGDGDEDIEALDAPEGTEVVEVGP----------------------------------------
 ------------------------------------------MPSRRRLLGLVAAGTLPFAGCLAAPSDADPTTTDSSTTSATTTERGPVRG------------------------------------------
 ---------------------------------MAQDDHTHEIPTRRDIVKGGGALVGGSLLAGCTGSSDSTATTSETNETTSNPTTEPESYTV----------------------------------------
@@ -347,7 +345,6 @@ MRTRAHSFHALVALHRPRSRGLDEELKYMLLSPMTMTGDGMSNTSRRRFLKATGAAALTATVAGCSDSTSDADGSGGSEP
 ---------MRPMPVGTRASGLAVGAGFDSTGYLTGDTETQAMPHRRRVLTATAAAASLSLAGCLSNDGGGDSQASSSTDAETTGDAASLADH-----------------------------------------
 -------------------------------------------MHRRAFLAGGTTLSVGVLAGCIGPSVSKSDYDIGMVSNGFVPQEPVEGED-----------------------------------------
 -------------------------------------------MRRRTVLVGVTGALFGVGGGCLTMGADETARVRAKRPSESAGDGETHVCT-----------------------------------------
-------------------------------------------------MTGTAPVSRRQYLGTAGAIIGTTAGCLTGADASIHVLAAGSLTSTIEDHIR-----------------------------------
 ----------------------------------------------MKRRAFLATAAVLTTTGCLGRTDSVSDSDDTDDCPTMHSDNDAVDTV-----------------------------------------
 --------------------------------------MRGQPVHRRSVLALVGGGAVSALAGCTDTTDGDATTTTPEPTPRSETQPTPTATD-----------------------------------------
 -------------------------------------------MDRRNFLKTAGAAGTIGISGLSGCLGVLGGGGEDADVRFVLTPAESDVNVKEQ--------------------------------------

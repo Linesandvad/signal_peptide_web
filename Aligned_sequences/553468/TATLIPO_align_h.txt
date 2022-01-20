@@ -29,7 +29,6 @@
 ----------------------------------------------------------------------------------------------MRRRAFLATTSGASLAALAGCLGDTEYTVADTNVQASSGPLSFSASIVDA-----
 --------------------------------------------------------------------------------------MPSERRSPTRRQLLRISGTALSGTALAGCAGLMDDEGETTENTRTTASKKKDSGELTL-----
 ----------------------------------------------------------------------------------------------MKRRELLACGSGVLSVGFAGCLGSLRPADDEAEQTTDITADSTTTFSTTA-----
------------------------------------------------------------------------------------------------MHDRESSTQDSNDVSAHRRTFLTTGASAGVTALVGCLFPASTSGGNVPPAGPTN
 -----------------------------------------------------------------------------------MAEETNGLQAPTRRDYVKYGGAVIGGGLLAGCTDDSSSSEETTGEPSTSTDTDSGTSDDGS-----
 --------------------------------------------------------------------------------------------MSYPRRRFIQTGGALAGATLAGCISVNDGNSDDDTSGDGSGDGDSSGGTAQL-----
 ---------------------------------------------------------------------------------------------MNRRTFLRTGTALAGGTALTGCLESLGFRTQSAWRDPPIVENRPDAVYYPA-----
@@ -65,11 +64,9 @@
 --------------------------------------------------------------------------------------MVSNSMGTVNRRTFLKFAGASGLTATAGCLGFGGSGGSDTIVFGQPAAQTGQWDFLQP-----
 -----------------------------------------------------------------------------------------MTYPNSSRRAVLTGVAALGVSSLSGCANLSLGATEEPTFSHGSQVSLDQQPLTNT-----
 ------------------------------------------------------------------------------------------MSSNSTRRSFLAGVSALVATGSAGCLGQSLSPFASEPVPPEEYDRTVSVTRVDS-----
-----------------------------------------------------------------------------------------------MTTTPDRNTPFDSQSTACDTFPVDRRTLLKTLGLSVTTSVAGCNEILHPTGGAND
 ----------------------------------------------------------------------------------MSDGDTIPHETPTRRDYLKYGGAVIGGAAFAGCTADSGSESTPTATGTDSDAVTSADDEATD-----
 MTGDENTDVNGVVTDDSDTNDLDTNDLDTNDSDTNDLDTTRSPRHLSRRTVLTATAGIGITGLSGCLTLSPKVSVSGIGNSDVFRKVSVSEPWASGRVVASVSFTSTATTNLGVRGLTVIGSSGTEFDTAAVQSGQSKKSIFLP-----
 --------------------------------------------------------------------------------------MSDSTRGIPRREFMKAAVAIGGSAALSACLDRGGGMPDVEQGPDDLSTLPERQHAWNQ-----
---------------------------------------------------------------------------------------------------MTRRCTRRGFLATSVASAVSLAGCVADAQGPPVDVRGAMYLPARAMNSF--
 ----------------------------------------------------------------------------------------METERREFMRQMGAAGASIATLSIAGCANQNNPNGSGNSANKKIEENLPQERKIGK-----
 ------------------------------------------------------------------------------MLFLRPIVHYTSNGNRRSDMNRRTFIATTSAVLLAGCSSDGDDTGSTTTGTEQSTTTQNSGEMTGT-----
 -------------------------------------------------------------------------------------MLDNHTIGRRTFIKAAGAGAAGSLSTVSGCLGGNNGGSGKAPMDIESWPPQDLENKLVM-----

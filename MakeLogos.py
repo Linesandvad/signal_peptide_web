@@ -156,15 +156,21 @@ def MakeLogo(tax_id,sp_type,region, low_limit, high_limit, scient_name, color_sc
 
 		for i in range(len(count_df)):
 			n = sum(count_df.loc[i])
-			e_n = (20-1)/(2*math.log(2)*n)
-			Hl = 0
-			for j in range(len(count_df.loc[i])):
-				freq = (count_df.loc[i][j]/n)
-				if freq > 0:
-					logfreq = math.log2(freq)
-				else:
-					logfreq = 0
-				Hl += freq*logfreq
+			if n != 0:
+				e_n = (20-1)/(2*math.log(2)*n)
+				Hl = 0
+				for j in range(len(count_df.loc[i])):
+					freq = (count_df.loc[i][j]/n)
+					if freq > 0:
+						logfreq = math.log2(freq)
+					else:
+						logfreq = 0
+					Hl += freq*logfreq
+			else:
+				e_n = 0
+				Hl = 0
+				freq = 0
+				logfreq = 0
 			H = -Hl
 			if math.log2(20)-(H+e_n) < 0:
 				Rseq.append(0)
@@ -174,8 +180,12 @@ def MakeLogo(tax_id,sp_type,region, low_limit, high_limit, scient_name, color_sc
 		for i in range(len(count_df)):
 			n = sum(count_df.loc[i])
 			for j in range(len(count_df.loc[i])):
-				freq = count_df.loc[i][j]/n
-				inf_df.loc[i][j] = freq*Rseq[i]
+				if n != 0:
+					freq = count_df.loc[i][j]/n
+					inf_df.loc[i][j] = freq*Rseq[i]
+				else:
+					freq = 0
+					inf_df.loc[i][j] = freq*Rseq[i]
 
 		inf_df = inf_df.loc[lower:upper]
 		inf_df_cleaned = inf_df.copy()
@@ -192,7 +202,11 @@ def MakeLogo(tax_id,sp_type,region, low_limit, high_limit, scient_name, color_sc
 
 		for i in range(len(count_df_cleaned)):
 		    n = sum(count_df_cleaned.loc[i])
-		    e_n = (20-1)/(2*math.log(2)*n)
+		    if n != 0:
+		    	e_n = (20-1)/(2*math.log(2)*n)
+		    
+		    else:
+		    	e_n = 0
 		    errorbar = 2*e_n
 		    E_n.append(errorbar)
 
@@ -243,7 +257,7 @@ def MakeLogo(tax_id,sp_type,region, low_limit, high_limit, scient_name, color_sc
 		#fig = plt.figure(figsize=[6, 2])
 
 		fig, ax = plt.subplots(1,1,figsize=[4,2])
-		
+
 		#seq_logo = plt.figure(figsize=[8, 2])
 		seq_logo = logomaker.Logo(inf_df_cleaned,
 		stack_order = "big_on_top",
@@ -292,7 +306,6 @@ def MakeLogo(tax_id,sp_type,region, low_limit, high_limit, scient_name, color_sc
 
 
 #Example shows
-#MakeLogo("2239","lipo","h", -10, 7, "test")
 #MakeLogo("1783275","sp","n", -5, 10, "test")
 
 ##Handle this:

@@ -36,7 +36,7 @@ tax_data = ExtractTaxonomyData()[1]
 
 
 #Insert images
-seq_logo_color_schemes = Image.open('seq_logo_color_schemes.PNG')
+seq_logo_color_schemes = Image.open('seq_logo_color_schemes.png')
 
 #############################################################Streamlit design############################################################################
 
@@ -440,7 +440,7 @@ if option != "":
                 low,high = st.columns(2)
                 lower_h = low.number_input('Lower value', min_value = -int(min_pos_h), max_value = -1, value = -15, step = 1)
                 upper_h = high.number_input('Upper value', min_value = 1, max_value = max_pos_h, value = 5, step = 1)
-                MakeLogo(tax_id,"TAT","h", lower_h, upper_h, scient_name, color_scheme)
+                MakeLogo(tax_id,"TAT","h", lower_h, upper_h, scient_name, color_scheme, keep_zero)
 
                 min_pos_c = ExtractAlignmentPosition(tax_id, "TAT", "C")[0]
                 len_seq_c = ExtractAlignmentPosition(tax_id, "TAT", "C")[1]
