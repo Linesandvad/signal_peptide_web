@@ -36,7 +36,7 @@ tax_data = ExtractTaxonomyData()[1]
 
 
 #Insert images
-seq_logo_color_schemes = Image.open('seq_logo_color_schemes.png')
+seq_logo_color_schemes = Image.open('seq_logo_color_schemes.PNG')
 
 #############################################################Streamlit design############################################################################
 
